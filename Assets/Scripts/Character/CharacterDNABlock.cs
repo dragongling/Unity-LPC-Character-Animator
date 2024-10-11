@@ -38,10 +38,7 @@ namespace Assets.Scripts.Character
             IsDirty = true;
 
             // disable the character block if there is no model key
-            if (itemKey.Length > 0)
-                Enabled = true;
-            else
-                Enabled = false;
+            Enabled = itemKey.Length > 0;
         }
 
         public void UpdateColor(Color itemColor)
@@ -57,10 +54,7 @@ namespace Assets.Scripts.Character
             IsDirty = true;
 
             // disable the character block if there is no model key
-            if (modelKey.Length > 0)
-                Enabled = true;
-            else
-                Enabled = false;
+            Enabled = modelKey.Length > 0;
         }
     }
 }

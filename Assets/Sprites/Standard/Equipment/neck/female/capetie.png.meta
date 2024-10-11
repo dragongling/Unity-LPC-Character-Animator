@@ -1,367 +1,1077 @@
 fileFormatVersion: 2
 guid: 84c9cd448dcc36d44b537716433df3b7
-timeCreated: 1486884504
-licenseType: Free
 TextureImporter:
-  fileIDToRecycleName:
-    21300000: neck_capetie_female_capetie_hu_0
-    21300002: neck_capetie_female_capetie_hu_1
-    21300004: neck_capetie_female_capetie_hu_2
-    21300006: neck_capetie_female_capetie_hu_3
-    21300008: neck_capetie_female_capetie_hu_4
-    21300010: neck_capetie_female_capetie_hu_5
-    21300012: neck_capetie_female_capetie_sh_r_0
-    21300014: neck_capetie_female_capetie_sh_r_1
-    21300016: neck_capetie_female_capetie_sh_r_2
-    21300018: neck_capetie_female_capetie_sh_r_3
-    21300020: neck_capetie_female_capetie_sh_r_4
-    21300022: neck_capetie_female_capetie_sh_r_5
-    21300024: neck_capetie_female_capetie_sh_r_6
-    21300026: neck_capetie_female_capetie_sh_r_7
-    21300028: neck_capetie_female_capetie_sh_r_8
-    21300030: neck_capetie_female_capetie_sh_r_9
-    21300032: neck_capetie_female_capetie_sh_r_10
-    21300034: neck_capetie_female_capetie_sh_r_11
-    21300036: neck_capetie_female_capetie_sh_r_12
-    21300038: neck_capetie_female_capetie_sh_d_0
-    21300040: neck_capetie_female_capetie_sh_d_1
-    21300042: neck_capetie_female_capetie_sh_d_2
-    21300044: neck_capetie_female_capetie_sh_d_3
-    21300046: neck_capetie_female_capetie_sh_d_4
-    21300048: neck_capetie_female_capetie_sh_d_5
-    21300050: neck_capetie_female_capetie_sh_d_6
-    21300052: neck_capetie_female_capetie_sh_d_7
-    21300054: neck_capetie_female_capetie_sh_d_8
-    21300056: neck_capetie_female_capetie_sh_d_9
-    21300058: neck_capetie_female_capetie_sh_d_10
-    21300060: neck_capetie_female_capetie_sh_d_11
-    21300062: neck_capetie_female_capetie_sh_d_12
-    21300064: neck_capetie_female_capetie_sh_l_0
-    21300066: neck_capetie_female_capetie_sh_l_1
-    21300068: neck_capetie_female_capetie_sh_l_2
-    21300070: neck_capetie_female_capetie_sh_l_3
-    21300072: neck_capetie_female_capetie_sh_l_4
-    21300074: neck_capetie_female_capetie_sh_l_5
-    21300076: neck_capetie_female_capetie_sh_l_6
-    21300078: neck_capetie_female_capetie_sh_l_7
-    21300080: neck_capetie_female_capetie_sh_l_8
-    21300082: neck_capetie_female_capetie_sh_l_9
-    21300084: neck_capetie_female_capetie_sh_l_10
-    21300086: neck_capetie_female_capetie_sh_l_11
-    21300088: neck_capetie_female_capetie_sh_l_12
-    21300090: neck_capetie_female_capetie_sh_t_0
-    21300092: neck_capetie_female_capetie_sh_t_1
-    21300094: neck_capetie_female_capetie_sh_t_2
-    21300096: neck_capetie_female_capetie_sh_t_3
-    21300098: neck_capetie_female_capetie_sh_t_4
-    21300100: neck_capetie_female_capetie_sh_t_5
-    21300102: neck_capetie_female_capetie_sh_t_6
-    21300104: neck_capetie_female_capetie_sh_t_7
-    21300106: neck_capetie_female_capetie_sh_t_8
-    21300108: neck_capetie_female_capetie_sh_t_9
-    21300110: neck_capetie_female_capetie_sh_t_10
-    21300112: neck_capetie_female_capetie_sh_t_11
-    21300114: neck_capetie_female_capetie_sh_t_12
-    21300116: neck_capetie_female_capetie_sl_r_0
-    21300118: neck_capetie_female_capetie_sl_r_1
-    21300120: neck_capetie_female_capetie_sl_r_2
-    21300122: neck_capetie_female_capetie_sl_r_3
-    21300124: neck_capetie_female_capetie_sl_r_4
-    21300126: neck_capetie_female_capetie_sl_r_5
-    21300128: neck_capetie_female_capetie_sl_d_0
-    21300130: neck_capetie_female_capetie_sl_d_1
-    21300132: neck_capetie_female_capetie_sl_d_2
-    21300134: neck_capetie_female_capetie_sl_d_3
-    21300136: neck_capetie_female_capetie_sl_d_4
-    21300138: neck_capetie_female_capetie_sl_d_5
-    21300140: neck_capetie_female_capetie_sl_l_0
-    21300142: neck_capetie_female_capetie_sl_l_1
-    21300144: neck_capetie_female_capetie_sl_l_2
-    21300146: neck_capetie_female_capetie_sl_l_3
-    21300148: neck_capetie_female_capetie_sl_l_4
-    21300150: neck_capetie_female_capetie_sl_l_5
-    21300152: neck_capetie_female_capetie_sl_t_0
-    21300154: neck_capetie_female_capetie_sl_t_1
-    21300156: neck_capetie_female_capetie_sl_t_2
-    21300158: neck_capetie_female_capetie_sl_t_3
-    21300160: neck_capetie_female_capetie_sl_t_4
-    21300162: neck_capetie_female_capetie_sl_t_5
-    21300164: neck_capetie_female_capetie_wc_r_0
-    21300166: neck_capetie_female_capetie_wc_r_1
-    21300168: neck_capetie_female_capetie_wc_r_2
-    21300170: neck_capetie_female_capetie_wc_r_3
-    21300172: neck_capetie_female_capetie_wc_r_4
-    21300174: neck_capetie_female_capetie_wc_r_5
-    21300176: neck_capetie_female_capetie_wc_r_6
-    21300178: neck_capetie_female_capetie_wc_r_7
-    21300180: neck_capetie_female_capetie_wc_r_8
-    21300182: neck_capetie_female_capetie_wc_d_0
-    21300184: neck_capetie_female_capetie_wc_d_1
-    21300186: neck_capetie_female_capetie_wc_d_2
-    21300188: neck_capetie_female_capetie_wc_d_3
-    21300190: neck_capetie_female_capetie_wc_d_4
-    21300192: neck_capetie_female_capetie_wc_d_5
-    21300194: neck_capetie_female_capetie_wc_d_6
-    21300196: neck_capetie_female_capetie_wc_d_7
-    21300198: neck_capetie_female_capetie_wc_d_8
-    21300200: neck_capetie_female_capetie_wc_l_0
-    21300202: neck_capetie_female_capetie_wc_l_1
-    21300204: neck_capetie_female_capetie_wc_l_2
-    21300206: neck_capetie_female_capetie_wc_l_3
-    21300208: neck_capetie_female_capetie_wc_l_4
-    21300210: neck_capetie_female_capetie_wc_l_5
-    21300212: neck_capetie_female_capetie_wc_l_6
-    21300214: neck_capetie_female_capetie_wc_l_7
-    21300216: neck_capetie_female_capetie_wc_l_8
-    21300218: neck_capetie_female_capetie_wc_t_0
-    21300220: neck_capetie_female_capetie_wc_t_1
-    21300222: neck_capetie_female_capetie_wc_t_2
-    21300224: neck_capetie_female_capetie_wc_t_3
-    21300226: neck_capetie_female_capetie_wc_t_4
-    21300228: neck_capetie_female_capetie_wc_t_5
-    21300230: neck_capetie_female_capetie_wc_t_6
-    21300232: neck_capetie_female_capetie_wc_t_7
-    21300234: neck_capetie_female_capetie_wc_t_8
-    21300236: neck_capetie_female_capetie_th_r_0
-    21300238: neck_capetie_female_capetie_th_r_1
-    21300240: neck_capetie_female_capetie_th_r_2
-    21300242: neck_capetie_female_capetie_th_r_3
-    21300244: neck_capetie_female_capetie_th_r_4
-    21300246: neck_capetie_female_capetie_th_r_5
-    21300248: neck_capetie_female_capetie_th_r_6
-    21300250: neck_capetie_female_capetie_th_r_7
-    21300252: neck_capetie_female_capetie_th_d_0
-    21300254: neck_capetie_female_capetie_th_d_1
-    21300256: neck_capetie_female_capetie_th_d_2
-    21300258: neck_capetie_female_capetie_th_d_3
-    21300260: neck_capetie_female_capetie_th_d_4
-    21300262: neck_capetie_female_capetie_th_d_5
-    21300264: neck_capetie_female_capetie_th_d_6
-    21300266: neck_capetie_female_capetie_th_d_7
-    21300268: neck_capetie_female_capetie_th_l_0
-    21300270: neck_capetie_female_capetie_th_l_1
-    21300272: neck_capetie_female_capetie_th_l_2
-    21300274: neck_capetie_female_capetie_th_l_3
-    21300276: neck_capetie_female_capetie_th_l_4
-    21300278: neck_capetie_female_capetie_th_l_5
-    21300280: neck_capetie_female_capetie_th_l_6
-    21300282: neck_capetie_female_capetie_th_l_7
-    21300284: neck_capetie_female_capetie_th_t_0
-    21300286: neck_capetie_female_capetie_th_t_1
-    21300288: neck_capetie_female_capetie_th_t_2
-    21300290: neck_capetie_female_capetie_th_t_3
-    21300292: neck_capetie_female_capetie_th_t_4
-    21300294: neck_capetie_female_capetie_th_t_5
-    21300296: neck_capetie_female_capetie_th_t_6
-    21300298: neck_capetie_female_capetie_th_t_7
-    21300300: neck_capetie_female_capetie_sc_r_0
-    21300302: neck_capetie_female_capetie_sc_r_1
-    21300304: neck_capetie_female_capetie_sc_r_2
-    21300306: neck_capetie_female_capetie_sc_r_3
-    21300308: neck_capetie_female_capetie_sc_r_4
-    21300310: neck_capetie_female_capetie_sc_r_5
-    21300312: neck_capetie_female_capetie_sc_r_6
-    21300314: neck_capetie_female_capetie_sc_d_0
-    21300316: neck_capetie_female_capetie_sc_d_1
-    21300318: neck_capetie_female_capetie_sc_d_2
-    21300320: neck_capetie_female_capetie_sc_d_3
-    21300322: neck_capetie_female_capetie_sc_d_4
-    21300324: neck_capetie_female_capetie_sc_d_5
-    21300326: neck_capetie_female_capetie_sc_d_6
-    21300328: neck_capetie_female_capetie_sc_l_0
-    21300330: neck_capetie_female_capetie_sc_l_1
-    21300332: neck_capetie_female_capetie_sc_l_2
-    21300334: neck_capetie_female_capetie_sc_l_3
-    21300336: neck_capetie_female_capetie_sc_l_4
-    21300338: neck_capetie_female_capetie_sc_l_5
-    21300340: neck_capetie_female_capetie_sc_l_6
-    21300342: neck_capetie_female_capetie_sc_t_0
-    21300344: neck_capetie_female_capetie_sc_t_1
-    21300346: neck_capetie_female_capetie_sc_t_2
-    21300348: neck_capetie_female_capetie_sc_t_3
-    21300350: neck_capetie_female_capetie_sc_t_4
-    21300352: neck_capetie_female_capetie_sc_t_5
-    21300354: neck_capetie_female_capetie_sc_t_6
-    21300356: neck_female_capetie_hu_0
-    21300358: neck_female_capetie_hu_1
-    21300360: neck_female_capetie_hu_2
-    21300362: neck_female_capetie_hu_3
-    21300364: neck_female_capetie_hu_4
-    21300366: neck_female_capetie_hu_5
-    21300368: neck_female_capetie_sh_r_0
-    21300370: neck_female_capetie_sh_r_1
-    21300372: neck_female_capetie_sh_r_2
-    21300374: neck_female_capetie_sh_r_3
-    21300376: neck_female_capetie_sh_r_4
-    21300378: neck_female_capetie_sh_r_5
-    21300380: neck_female_capetie_sh_r_6
-    21300382: neck_female_capetie_sh_r_7
-    21300384: neck_female_capetie_sh_r_8
-    21300386: neck_female_capetie_sh_r_9
-    21300388: neck_female_capetie_sh_r_10
-    21300390: neck_female_capetie_sh_r_11
-    21300392: neck_female_capetie_sh_r_12
-    21300394: neck_female_capetie_sh_d_0
-    21300396: neck_female_capetie_sh_d_1
-    21300398: neck_female_capetie_sh_d_2
-    21300400: neck_female_capetie_sh_d_3
-    21300402: neck_female_capetie_sh_d_4
-    21300404: neck_female_capetie_sh_d_5
-    21300406: neck_female_capetie_sh_d_6
-    21300408: neck_female_capetie_sh_d_7
-    21300410: neck_female_capetie_sh_d_8
-    21300412: neck_female_capetie_sh_d_9
-    21300414: neck_female_capetie_sh_d_10
-    21300416: neck_female_capetie_sh_d_11
-    21300418: neck_female_capetie_sh_d_12
-    21300420: neck_female_capetie_sh_l_0
-    21300422: neck_female_capetie_sh_l_1
-    21300424: neck_female_capetie_sh_l_2
-    21300426: neck_female_capetie_sh_l_3
-    21300428: neck_female_capetie_sh_l_4
-    21300430: neck_female_capetie_sh_l_5
-    21300432: neck_female_capetie_sh_l_6
-    21300434: neck_female_capetie_sh_l_7
-    21300436: neck_female_capetie_sh_l_8
-    21300438: neck_female_capetie_sh_l_9
-    21300440: neck_female_capetie_sh_l_10
-    21300442: neck_female_capetie_sh_l_11
-    21300444: neck_female_capetie_sh_l_12
-    21300446: neck_female_capetie_sh_t_0
-    21300448: neck_female_capetie_sh_t_1
-    21300450: neck_female_capetie_sh_t_2
-    21300452: neck_female_capetie_sh_t_3
-    21300454: neck_female_capetie_sh_t_4
-    21300456: neck_female_capetie_sh_t_5
-    21300458: neck_female_capetie_sh_t_6
-    21300460: neck_female_capetie_sh_t_7
-    21300462: neck_female_capetie_sh_t_8
-    21300464: neck_female_capetie_sh_t_9
-    21300466: neck_female_capetie_sh_t_10
-    21300468: neck_female_capetie_sh_t_11
-    21300470: neck_female_capetie_sh_t_12
-    21300472: neck_female_capetie_sl_r_0
-    21300474: neck_female_capetie_sl_r_1
-    21300476: neck_female_capetie_sl_r_2
-    21300478: neck_female_capetie_sl_r_3
-    21300480: neck_female_capetie_sl_r_4
-    21300482: neck_female_capetie_sl_r_5
-    21300484: neck_female_capetie_sl_d_0
-    21300486: neck_female_capetie_sl_d_1
-    21300488: neck_female_capetie_sl_d_2
-    21300490: neck_female_capetie_sl_d_3
-    21300492: neck_female_capetie_sl_d_4
-    21300494: neck_female_capetie_sl_d_5
-    21300496: neck_female_capetie_sl_l_0
-    21300498: neck_female_capetie_sl_l_1
-    21300500: neck_female_capetie_sl_l_2
-    21300502: neck_female_capetie_sl_l_3
-    21300504: neck_female_capetie_sl_l_4
-    21300506: neck_female_capetie_sl_l_5
-    21300508: neck_female_capetie_sl_t_0
-    21300510: neck_female_capetie_sl_t_1
-    21300512: neck_female_capetie_sl_t_2
-    21300514: neck_female_capetie_sl_t_3
-    21300516: neck_female_capetie_sl_t_4
-    21300518: neck_female_capetie_sl_t_5
-    21300520: neck_female_capetie_wc_r_0
-    21300522: neck_female_capetie_wc_r_1
-    21300524: neck_female_capetie_wc_r_2
-    21300526: neck_female_capetie_wc_r_3
-    21300528: neck_female_capetie_wc_r_4
-    21300530: neck_female_capetie_wc_r_5
-    21300532: neck_female_capetie_wc_r_6
-    21300534: neck_female_capetie_wc_r_7
-    21300536: neck_female_capetie_wc_r_8
-    21300538: neck_female_capetie_wc_d_0
-    21300540: neck_female_capetie_wc_d_1
-    21300542: neck_female_capetie_wc_d_2
-    21300544: neck_female_capetie_wc_d_3
-    21300546: neck_female_capetie_wc_d_4
-    21300548: neck_female_capetie_wc_d_5
-    21300550: neck_female_capetie_wc_d_6
-    21300552: neck_female_capetie_wc_d_7
-    21300554: neck_female_capetie_wc_d_8
-    21300556: neck_female_capetie_wc_l_0
-    21300558: neck_female_capetie_wc_l_1
-    21300560: neck_female_capetie_wc_l_2
-    21300562: neck_female_capetie_wc_l_3
-    21300564: neck_female_capetie_wc_l_4
-    21300566: neck_female_capetie_wc_l_5
-    21300568: neck_female_capetie_wc_l_6
-    21300570: neck_female_capetie_wc_l_7
-    21300572: neck_female_capetie_wc_l_8
-    21300574: neck_female_capetie_wc_t_0
-    21300576: neck_female_capetie_wc_t_1
-    21300578: neck_female_capetie_wc_t_2
-    21300580: neck_female_capetie_wc_t_3
-    21300582: neck_female_capetie_wc_t_4
-    21300584: neck_female_capetie_wc_t_5
-    21300586: neck_female_capetie_wc_t_6
-    21300588: neck_female_capetie_wc_t_7
-    21300590: neck_female_capetie_wc_t_8
-    21300592: neck_female_capetie_th_r_0
-    21300594: neck_female_capetie_th_r_1
-    21300596: neck_female_capetie_th_r_2
-    21300598: neck_female_capetie_th_r_3
-    21300600: neck_female_capetie_th_r_4
-    21300602: neck_female_capetie_th_r_5
-    21300604: neck_female_capetie_th_r_6
-    21300606: neck_female_capetie_th_r_7
-    21300608: neck_female_capetie_th_d_0
-    21300610: neck_female_capetie_th_d_1
-    21300612: neck_female_capetie_th_d_2
-    21300614: neck_female_capetie_th_d_3
-    21300616: neck_female_capetie_th_d_4
-    21300618: neck_female_capetie_th_d_5
-    21300620: neck_female_capetie_th_d_6
-    21300622: neck_female_capetie_th_d_7
-    21300624: neck_female_capetie_th_l_0
-    21300626: neck_female_capetie_th_l_1
-    21300628: neck_female_capetie_th_l_2
-    21300630: neck_female_capetie_th_l_3
-    21300632: neck_female_capetie_th_l_4
-    21300634: neck_female_capetie_th_l_5
-    21300636: neck_female_capetie_th_l_6
-    21300638: neck_female_capetie_th_l_7
-    21300640: neck_female_capetie_th_t_0
-    21300642: neck_female_capetie_th_t_1
-    21300644: neck_female_capetie_th_t_2
-    21300646: neck_female_capetie_th_t_3
-    21300648: neck_female_capetie_th_t_4
-    21300650: neck_female_capetie_th_t_5
-    21300652: neck_female_capetie_th_t_6
-    21300654: neck_female_capetie_th_t_7
-    21300656: neck_female_capetie_sc_r_0
-    21300658: neck_female_capetie_sc_r_1
-    21300660: neck_female_capetie_sc_r_2
-    21300662: neck_female_capetie_sc_r_3
-    21300664: neck_female_capetie_sc_r_4
-    21300666: neck_female_capetie_sc_r_5
-    21300668: neck_female_capetie_sc_r_6
-    21300670: neck_female_capetie_sc_d_0
-    21300672: neck_female_capetie_sc_d_1
-    21300674: neck_female_capetie_sc_d_2
-    21300676: neck_female_capetie_sc_d_3
-    21300678: neck_female_capetie_sc_d_4
-    21300680: neck_female_capetie_sc_d_5
-    21300682: neck_female_capetie_sc_d_6
-    21300684: neck_female_capetie_sc_l_0
-    21300686: neck_female_capetie_sc_l_1
-    21300688: neck_female_capetie_sc_l_2
-    21300690: neck_female_capetie_sc_l_3
-    21300692: neck_female_capetie_sc_l_4
-    21300694: neck_female_capetie_sc_l_5
-    21300696: neck_female_capetie_sc_l_6
-    21300698: neck_female_capetie_sc_t_0
-    21300700: neck_female_capetie_sc_t_1
-    21300702: neck_female_capetie_sc_t_2
-    21300704: neck_female_capetie_sc_t_3
-    21300706: neck_female_capetie_sc_t_4
-    21300708: neck_female_capetie_sc_t_5
-    21300710: neck_female_capetie_sc_t_6
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: neck_capetie_female_capetie_hu_0
+  - first:
+      213: 21300002
+    second: neck_capetie_female_capetie_hu_1
+  - first:
+      213: 21300004
+    second: neck_capetie_female_capetie_hu_2
+  - first:
+      213: 21300006
+    second: neck_capetie_female_capetie_hu_3
+  - first:
+      213: 21300008
+    second: neck_capetie_female_capetie_hu_4
+  - first:
+      213: 21300010
+    second: neck_capetie_female_capetie_hu_5
+  - first:
+      213: 21300012
+    second: neck_capetie_female_capetie_sh_r_0
+  - first:
+      213: 21300014
+    second: neck_capetie_female_capetie_sh_r_1
+  - first:
+      213: 21300016
+    second: neck_capetie_female_capetie_sh_r_2
+  - first:
+      213: 21300018
+    second: neck_capetie_female_capetie_sh_r_3
+  - first:
+      213: 21300020
+    second: neck_capetie_female_capetie_sh_r_4
+  - first:
+      213: 21300022
+    second: neck_capetie_female_capetie_sh_r_5
+  - first:
+      213: 21300024
+    second: neck_capetie_female_capetie_sh_r_6
+  - first:
+      213: 21300026
+    second: neck_capetie_female_capetie_sh_r_7
+  - first:
+      213: 21300028
+    second: neck_capetie_female_capetie_sh_r_8
+  - first:
+      213: 21300030
+    second: neck_capetie_female_capetie_sh_r_9
+  - first:
+      213: 21300032
+    second: neck_capetie_female_capetie_sh_r_10
+  - first:
+      213: 21300034
+    second: neck_capetie_female_capetie_sh_r_11
+  - first:
+      213: 21300036
+    second: neck_capetie_female_capetie_sh_r_12
+  - first:
+      213: 21300038
+    second: neck_capetie_female_capetie_sh_d_0
+  - first:
+      213: 21300040
+    second: neck_capetie_female_capetie_sh_d_1
+  - first:
+      213: 21300042
+    second: neck_capetie_female_capetie_sh_d_2
+  - first:
+      213: 21300044
+    second: neck_capetie_female_capetie_sh_d_3
+  - first:
+      213: 21300046
+    second: neck_capetie_female_capetie_sh_d_4
+  - first:
+      213: 21300048
+    second: neck_capetie_female_capetie_sh_d_5
+  - first:
+      213: 21300050
+    second: neck_capetie_female_capetie_sh_d_6
+  - first:
+      213: 21300052
+    second: neck_capetie_female_capetie_sh_d_7
+  - first:
+      213: 21300054
+    second: neck_capetie_female_capetie_sh_d_8
+  - first:
+      213: 21300056
+    second: neck_capetie_female_capetie_sh_d_9
+  - first:
+      213: 21300058
+    second: neck_capetie_female_capetie_sh_d_10
+  - first:
+      213: 21300060
+    second: neck_capetie_female_capetie_sh_d_11
+  - first:
+      213: 21300062
+    second: neck_capetie_female_capetie_sh_d_12
+  - first:
+      213: 21300064
+    second: neck_capetie_female_capetie_sh_l_0
+  - first:
+      213: 21300066
+    second: neck_capetie_female_capetie_sh_l_1
+  - first:
+      213: 21300068
+    second: neck_capetie_female_capetie_sh_l_2
+  - first:
+      213: 21300070
+    second: neck_capetie_female_capetie_sh_l_3
+  - first:
+      213: 21300072
+    second: neck_capetie_female_capetie_sh_l_4
+  - first:
+      213: 21300074
+    second: neck_capetie_female_capetie_sh_l_5
+  - first:
+      213: 21300076
+    second: neck_capetie_female_capetie_sh_l_6
+  - first:
+      213: 21300078
+    second: neck_capetie_female_capetie_sh_l_7
+  - first:
+      213: 21300080
+    second: neck_capetie_female_capetie_sh_l_8
+  - first:
+      213: 21300082
+    second: neck_capetie_female_capetie_sh_l_9
+  - first:
+      213: 21300084
+    second: neck_capetie_female_capetie_sh_l_10
+  - first:
+      213: 21300086
+    second: neck_capetie_female_capetie_sh_l_11
+  - first:
+      213: 21300088
+    second: neck_capetie_female_capetie_sh_l_12
+  - first:
+      213: 21300090
+    second: neck_capetie_female_capetie_sh_t_0
+  - first:
+      213: 21300092
+    second: neck_capetie_female_capetie_sh_t_1
+  - first:
+      213: 21300094
+    second: neck_capetie_female_capetie_sh_t_2
+  - first:
+      213: 21300096
+    second: neck_capetie_female_capetie_sh_t_3
+  - first:
+      213: 21300098
+    second: neck_capetie_female_capetie_sh_t_4
+  - first:
+      213: 21300100
+    second: neck_capetie_female_capetie_sh_t_5
+  - first:
+      213: 21300102
+    second: neck_capetie_female_capetie_sh_t_6
+  - first:
+      213: 21300104
+    second: neck_capetie_female_capetie_sh_t_7
+  - first:
+      213: 21300106
+    second: neck_capetie_female_capetie_sh_t_8
+  - first:
+      213: 21300108
+    second: neck_capetie_female_capetie_sh_t_9
+  - first:
+      213: 21300110
+    second: neck_capetie_female_capetie_sh_t_10
+  - first:
+      213: 21300112
+    second: neck_capetie_female_capetie_sh_t_11
+  - first:
+      213: 21300114
+    second: neck_capetie_female_capetie_sh_t_12
+  - first:
+      213: 21300116
+    second: neck_capetie_female_capetie_sl_r_0
+  - first:
+      213: 21300118
+    second: neck_capetie_female_capetie_sl_r_1
+  - first:
+      213: 21300120
+    second: neck_capetie_female_capetie_sl_r_2
+  - first:
+      213: 21300122
+    second: neck_capetie_female_capetie_sl_r_3
+  - first:
+      213: 21300124
+    second: neck_capetie_female_capetie_sl_r_4
+  - first:
+      213: 21300126
+    second: neck_capetie_female_capetie_sl_r_5
+  - first:
+      213: 21300128
+    second: neck_capetie_female_capetie_sl_d_0
+  - first:
+      213: 21300130
+    second: neck_capetie_female_capetie_sl_d_1
+  - first:
+      213: 21300132
+    second: neck_capetie_female_capetie_sl_d_2
+  - first:
+      213: 21300134
+    second: neck_capetie_female_capetie_sl_d_3
+  - first:
+      213: 21300136
+    second: neck_capetie_female_capetie_sl_d_4
+  - first:
+      213: 21300138
+    second: neck_capetie_female_capetie_sl_d_5
+  - first:
+      213: 21300140
+    second: neck_capetie_female_capetie_sl_l_0
+  - first:
+      213: 21300142
+    second: neck_capetie_female_capetie_sl_l_1
+  - first:
+      213: 21300144
+    second: neck_capetie_female_capetie_sl_l_2
+  - first:
+      213: 21300146
+    second: neck_capetie_female_capetie_sl_l_3
+  - first:
+      213: 21300148
+    second: neck_capetie_female_capetie_sl_l_4
+  - first:
+      213: 21300150
+    second: neck_capetie_female_capetie_sl_l_5
+  - first:
+      213: 21300152
+    second: neck_capetie_female_capetie_sl_t_0
+  - first:
+      213: 21300154
+    second: neck_capetie_female_capetie_sl_t_1
+  - first:
+      213: 21300156
+    second: neck_capetie_female_capetie_sl_t_2
+  - first:
+      213: 21300158
+    second: neck_capetie_female_capetie_sl_t_3
+  - first:
+      213: 21300160
+    second: neck_capetie_female_capetie_sl_t_4
+  - first:
+      213: 21300162
+    second: neck_capetie_female_capetie_sl_t_5
+  - first:
+      213: 21300164
+    second: neck_capetie_female_capetie_wc_r_0
+  - first:
+      213: 21300166
+    second: neck_capetie_female_capetie_wc_r_1
+  - first:
+      213: 21300168
+    second: neck_capetie_female_capetie_wc_r_2
+  - first:
+      213: 21300170
+    second: neck_capetie_female_capetie_wc_r_3
+  - first:
+      213: 21300172
+    second: neck_capetie_female_capetie_wc_r_4
+  - first:
+      213: 21300174
+    second: neck_capetie_female_capetie_wc_r_5
+  - first:
+      213: 21300176
+    second: neck_capetie_female_capetie_wc_r_6
+  - first:
+      213: 21300178
+    second: neck_capetie_female_capetie_wc_r_7
+  - first:
+      213: 21300180
+    second: neck_capetie_female_capetie_wc_r_8
+  - first:
+      213: 21300182
+    second: neck_capetie_female_capetie_wc_d_0
+  - first:
+      213: 21300184
+    second: neck_capetie_female_capetie_wc_d_1
+  - first:
+      213: 21300186
+    second: neck_capetie_female_capetie_wc_d_2
+  - first:
+      213: 21300188
+    second: neck_capetie_female_capetie_wc_d_3
+  - first:
+      213: 21300190
+    second: neck_capetie_female_capetie_wc_d_4
+  - first:
+      213: 21300192
+    second: neck_capetie_female_capetie_wc_d_5
+  - first:
+      213: 21300194
+    second: neck_capetie_female_capetie_wc_d_6
+  - first:
+      213: 21300196
+    second: neck_capetie_female_capetie_wc_d_7
+  - first:
+      213: 21300198
+    second: neck_capetie_female_capetie_wc_d_8
+  - first:
+      213: 21300200
+    second: neck_capetie_female_capetie_wc_l_0
+  - first:
+      213: 21300202
+    second: neck_capetie_female_capetie_wc_l_1
+  - first:
+      213: 21300204
+    second: neck_capetie_female_capetie_wc_l_2
+  - first:
+      213: 21300206
+    second: neck_capetie_female_capetie_wc_l_3
+  - first:
+      213: 21300208
+    second: neck_capetie_female_capetie_wc_l_4
+  - first:
+      213: 21300210
+    second: neck_capetie_female_capetie_wc_l_5
+  - first:
+      213: 21300212
+    second: neck_capetie_female_capetie_wc_l_6
+  - first:
+      213: 21300214
+    second: neck_capetie_female_capetie_wc_l_7
+  - first:
+      213: 21300216
+    second: neck_capetie_female_capetie_wc_l_8
+  - first:
+      213: 21300218
+    second: neck_capetie_female_capetie_wc_t_0
+  - first:
+      213: 21300220
+    second: neck_capetie_female_capetie_wc_t_1
+  - first:
+      213: 21300222
+    second: neck_capetie_female_capetie_wc_t_2
+  - first:
+      213: 21300224
+    second: neck_capetie_female_capetie_wc_t_3
+  - first:
+      213: 21300226
+    second: neck_capetie_female_capetie_wc_t_4
+  - first:
+      213: 21300228
+    second: neck_capetie_female_capetie_wc_t_5
+  - first:
+      213: 21300230
+    second: neck_capetie_female_capetie_wc_t_6
+  - first:
+      213: 21300232
+    second: neck_capetie_female_capetie_wc_t_7
+  - first:
+      213: 21300234
+    second: neck_capetie_female_capetie_wc_t_8
+  - first:
+      213: 21300236
+    second: neck_capetie_female_capetie_th_r_0
+  - first:
+      213: 21300238
+    second: neck_capetie_female_capetie_th_r_1
+  - first:
+      213: 21300240
+    second: neck_capetie_female_capetie_th_r_2
+  - first:
+      213: 21300242
+    second: neck_capetie_female_capetie_th_r_3
+  - first:
+      213: 21300244
+    second: neck_capetie_female_capetie_th_r_4
+  - first:
+      213: 21300246
+    second: neck_capetie_female_capetie_th_r_5
+  - first:
+      213: 21300248
+    second: neck_capetie_female_capetie_th_r_6
+  - first:
+      213: 21300250
+    second: neck_capetie_female_capetie_th_r_7
+  - first:
+      213: 21300252
+    second: neck_capetie_female_capetie_th_d_0
+  - first:
+      213: 21300254
+    second: neck_capetie_female_capetie_th_d_1
+  - first:
+      213: 21300256
+    second: neck_capetie_female_capetie_th_d_2
+  - first:
+      213: 21300258
+    second: neck_capetie_female_capetie_th_d_3
+  - first:
+      213: 21300260
+    second: neck_capetie_female_capetie_th_d_4
+  - first:
+      213: 21300262
+    second: neck_capetie_female_capetie_th_d_5
+  - first:
+      213: 21300264
+    second: neck_capetie_female_capetie_th_d_6
+  - first:
+      213: 21300266
+    second: neck_capetie_female_capetie_th_d_7
+  - first:
+      213: 21300268
+    second: neck_capetie_female_capetie_th_l_0
+  - first:
+      213: 21300270
+    second: neck_capetie_female_capetie_th_l_1
+  - first:
+      213: 21300272
+    second: neck_capetie_female_capetie_th_l_2
+  - first:
+      213: 21300274
+    second: neck_capetie_female_capetie_th_l_3
+  - first:
+      213: 21300276
+    second: neck_capetie_female_capetie_th_l_4
+  - first:
+      213: 21300278
+    second: neck_capetie_female_capetie_th_l_5
+  - first:
+      213: 21300280
+    second: neck_capetie_female_capetie_th_l_6
+  - first:
+      213: 21300282
+    second: neck_capetie_female_capetie_th_l_7
+  - first:
+      213: 21300284
+    second: neck_capetie_female_capetie_th_t_0
+  - first:
+      213: 21300286
+    second: neck_capetie_female_capetie_th_t_1
+  - first:
+      213: 21300288
+    second: neck_capetie_female_capetie_th_t_2
+  - first:
+      213: 21300290
+    second: neck_capetie_female_capetie_th_t_3
+  - first:
+      213: 21300292
+    second: neck_capetie_female_capetie_th_t_4
+  - first:
+      213: 21300294
+    second: neck_capetie_female_capetie_th_t_5
+  - first:
+      213: 21300296
+    second: neck_capetie_female_capetie_th_t_6
+  - first:
+      213: 21300298
+    second: neck_capetie_female_capetie_th_t_7
+  - first:
+      213: 21300300
+    second: neck_capetie_female_capetie_sc_r_0
+  - first:
+      213: 21300302
+    second: neck_capetie_female_capetie_sc_r_1
+  - first:
+      213: 21300304
+    second: neck_capetie_female_capetie_sc_r_2
+  - first:
+      213: 21300306
+    second: neck_capetie_female_capetie_sc_r_3
+  - first:
+      213: 21300308
+    second: neck_capetie_female_capetie_sc_r_4
+  - first:
+      213: 21300310
+    second: neck_capetie_female_capetie_sc_r_5
+  - first:
+      213: 21300312
+    second: neck_capetie_female_capetie_sc_r_6
+  - first:
+      213: 21300314
+    second: neck_capetie_female_capetie_sc_d_0
+  - first:
+      213: 21300316
+    second: neck_capetie_female_capetie_sc_d_1
+  - first:
+      213: 21300318
+    second: neck_capetie_female_capetie_sc_d_2
+  - first:
+      213: 21300320
+    second: neck_capetie_female_capetie_sc_d_3
+  - first:
+      213: 21300322
+    second: neck_capetie_female_capetie_sc_d_4
+  - first:
+      213: 21300324
+    second: neck_capetie_female_capetie_sc_d_5
+  - first:
+      213: 21300326
+    second: neck_capetie_female_capetie_sc_d_6
+  - first:
+      213: 21300328
+    second: neck_capetie_female_capetie_sc_l_0
+  - first:
+      213: 21300330
+    second: neck_capetie_female_capetie_sc_l_1
+  - first:
+      213: 21300332
+    second: neck_capetie_female_capetie_sc_l_2
+  - first:
+      213: 21300334
+    second: neck_capetie_female_capetie_sc_l_3
+  - first:
+      213: 21300336
+    second: neck_capetie_female_capetie_sc_l_4
+  - first:
+      213: 21300338
+    second: neck_capetie_female_capetie_sc_l_5
+  - first:
+      213: 21300340
+    second: neck_capetie_female_capetie_sc_l_6
+  - first:
+      213: 21300342
+    second: neck_capetie_female_capetie_sc_t_0
+  - first:
+      213: 21300344
+    second: neck_capetie_female_capetie_sc_t_1
+  - first:
+      213: 21300346
+    second: neck_capetie_female_capetie_sc_t_2
+  - first:
+      213: 21300348
+    second: neck_capetie_female_capetie_sc_t_3
+  - first:
+      213: 21300350
+    second: neck_capetie_female_capetie_sc_t_4
+  - first:
+      213: 21300352
+    second: neck_capetie_female_capetie_sc_t_5
+  - first:
+      213: 21300354
+    second: neck_capetie_female_capetie_sc_t_6
+  - first:
+      213: 21300356
+    second: neck_female_capetie_hu_0
+  - first:
+      213: 21300358
+    second: neck_female_capetie_hu_1
+  - first:
+      213: 21300360
+    second: neck_female_capetie_hu_2
+  - first:
+      213: 21300362
+    second: neck_female_capetie_hu_3
+  - first:
+      213: 21300364
+    second: neck_female_capetie_hu_4
+  - first:
+      213: 21300366
+    second: neck_female_capetie_hu_5
+  - first:
+      213: 21300368
+    second: neck_female_capetie_sh_r_0
+  - first:
+      213: 21300370
+    second: neck_female_capetie_sh_r_1
+  - first:
+      213: 21300372
+    second: neck_female_capetie_sh_r_2
+  - first:
+      213: 21300374
+    second: neck_female_capetie_sh_r_3
+  - first:
+      213: 21300376
+    second: neck_female_capetie_sh_r_4
+  - first:
+      213: 21300378
+    second: neck_female_capetie_sh_r_5
+  - first:
+      213: 21300380
+    second: neck_female_capetie_sh_r_6
+  - first:
+      213: 21300382
+    second: neck_female_capetie_sh_r_7
+  - first:
+      213: 21300384
+    second: neck_female_capetie_sh_r_8
+  - first:
+      213: 21300386
+    second: neck_female_capetie_sh_r_9
+  - first:
+      213: 21300388
+    second: neck_female_capetie_sh_r_10
+  - first:
+      213: 21300390
+    second: neck_female_capetie_sh_r_11
+  - first:
+      213: 21300392
+    second: neck_female_capetie_sh_r_12
+  - first:
+      213: 21300394
+    second: neck_female_capetie_sh_d_0
+  - first:
+      213: 21300396
+    second: neck_female_capetie_sh_d_1
+  - first:
+      213: 21300398
+    second: neck_female_capetie_sh_d_2
+  - first:
+      213: 21300400
+    second: neck_female_capetie_sh_d_3
+  - first:
+      213: 21300402
+    second: neck_female_capetie_sh_d_4
+  - first:
+      213: 21300404
+    second: neck_female_capetie_sh_d_5
+  - first:
+      213: 21300406
+    second: neck_female_capetie_sh_d_6
+  - first:
+      213: 21300408
+    second: neck_female_capetie_sh_d_7
+  - first:
+      213: 21300410
+    second: neck_female_capetie_sh_d_8
+  - first:
+      213: 21300412
+    second: neck_female_capetie_sh_d_9
+  - first:
+      213: 21300414
+    second: neck_female_capetie_sh_d_10
+  - first:
+      213: 21300416
+    second: neck_female_capetie_sh_d_11
+  - first:
+      213: 21300418
+    second: neck_female_capetie_sh_d_12
+  - first:
+      213: 21300420
+    second: neck_female_capetie_sh_l_0
+  - first:
+      213: 21300422
+    second: neck_female_capetie_sh_l_1
+  - first:
+      213: 21300424
+    second: neck_female_capetie_sh_l_2
+  - first:
+      213: 21300426
+    second: neck_female_capetie_sh_l_3
+  - first:
+      213: 21300428
+    second: neck_female_capetie_sh_l_4
+  - first:
+      213: 21300430
+    second: neck_female_capetie_sh_l_5
+  - first:
+      213: 21300432
+    second: neck_female_capetie_sh_l_6
+  - first:
+      213: 21300434
+    second: neck_female_capetie_sh_l_7
+  - first:
+      213: 21300436
+    second: neck_female_capetie_sh_l_8
+  - first:
+      213: 21300438
+    second: neck_female_capetie_sh_l_9
+  - first:
+      213: 21300440
+    second: neck_female_capetie_sh_l_10
+  - first:
+      213: 21300442
+    second: neck_female_capetie_sh_l_11
+  - first:
+      213: 21300444
+    second: neck_female_capetie_sh_l_12
+  - first:
+      213: 21300446
+    second: neck_female_capetie_sh_t_0
+  - first:
+      213: 21300448
+    second: neck_female_capetie_sh_t_1
+  - first:
+      213: 21300450
+    second: neck_female_capetie_sh_t_2
+  - first:
+      213: 21300452
+    second: neck_female_capetie_sh_t_3
+  - first:
+      213: 21300454
+    second: neck_female_capetie_sh_t_4
+  - first:
+      213: 21300456
+    second: neck_female_capetie_sh_t_5
+  - first:
+      213: 21300458
+    second: neck_female_capetie_sh_t_6
+  - first:
+      213: 21300460
+    second: neck_female_capetie_sh_t_7
+  - first:
+      213: 21300462
+    second: neck_female_capetie_sh_t_8
+  - first:
+      213: 21300464
+    second: neck_female_capetie_sh_t_9
+  - first:
+      213: 21300466
+    second: neck_female_capetie_sh_t_10
+  - first:
+      213: 21300468
+    second: neck_female_capetie_sh_t_11
+  - first:
+      213: 21300470
+    second: neck_female_capetie_sh_t_12
+  - first:
+      213: 21300472
+    second: neck_female_capetie_sl_r_0
+  - first:
+      213: 21300474
+    second: neck_female_capetie_sl_r_1
+  - first:
+      213: 21300476
+    second: neck_female_capetie_sl_r_2
+  - first:
+      213: 21300478
+    second: neck_female_capetie_sl_r_3
+  - first:
+      213: 21300480
+    second: neck_female_capetie_sl_r_4
+  - first:
+      213: 21300482
+    second: neck_female_capetie_sl_r_5
+  - first:
+      213: 21300484
+    second: neck_female_capetie_sl_d_0
+  - first:
+      213: 21300486
+    second: neck_female_capetie_sl_d_1
+  - first:
+      213: 21300488
+    second: neck_female_capetie_sl_d_2
+  - first:
+      213: 21300490
+    second: neck_female_capetie_sl_d_3
+  - first:
+      213: 21300492
+    second: neck_female_capetie_sl_d_4
+  - first:
+      213: 21300494
+    second: neck_female_capetie_sl_d_5
+  - first:
+      213: 21300496
+    second: neck_female_capetie_sl_l_0
+  - first:
+      213: 21300498
+    second: neck_female_capetie_sl_l_1
+  - first:
+      213: 21300500
+    second: neck_female_capetie_sl_l_2
+  - first:
+      213: 21300502
+    second: neck_female_capetie_sl_l_3
+  - first:
+      213: 21300504
+    second: neck_female_capetie_sl_l_4
+  - first:
+      213: 21300506
+    second: neck_female_capetie_sl_l_5
+  - first:
+      213: 21300508
+    second: neck_female_capetie_sl_t_0
+  - first:
+      213: 21300510
+    second: neck_female_capetie_sl_t_1
+  - first:
+      213: 21300512
+    second: neck_female_capetie_sl_t_2
+  - first:
+      213: 21300514
+    second: neck_female_capetie_sl_t_3
+  - first:
+      213: 21300516
+    second: neck_female_capetie_sl_t_4
+  - first:
+      213: 21300518
+    second: neck_female_capetie_sl_t_5
+  - first:
+      213: 21300520
+    second: neck_female_capetie_wc_r_0
+  - first:
+      213: 21300522
+    second: neck_female_capetie_wc_r_1
+  - first:
+      213: 21300524
+    second: neck_female_capetie_wc_r_2
+  - first:
+      213: 21300526
+    second: neck_female_capetie_wc_r_3
+  - first:
+      213: 21300528
+    second: neck_female_capetie_wc_r_4
+  - first:
+      213: 21300530
+    second: neck_female_capetie_wc_r_5
+  - first:
+      213: 21300532
+    second: neck_female_capetie_wc_r_6
+  - first:
+      213: 21300534
+    second: neck_female_capetie_wc_r_7
+  - first:
+      213: 21300536
+    second: neck_female_capetie_wc_r_8
+  - first:
+      213: 21300538
+    second: neck_female_capetie_wc_d_0
+  - first:
+      213: 21300540
+    second: neck_female_capetie_wc_d_1
+  - first:
+      213: 21300542
+    second: neck_female_capetie_wc_d_2
+  - first:
+      213: 21300544
+    second: neck_female_capetie_wc_d_3
+  - first:
+      213: 21300546
+    second: neck_female_capetie_wc_d_4
+  - first:
+      213: 21300548
+    second: neck_female_capetie_wc_d_5
+  - first:
+      213: 21300550
+    second: neck_female_capetie_wc_d_6
+  - first:
+      213: 21300552
+    second: neck_female_capetie_wc_d_7
+  - first:
+      213: 21300554
+    second: neck_female_capetie_wc_d_8
+  - first:
+      213: 21300556
+    second: neck_female_capetie_wc_l_0
+  - first:
+      213: 21300558
+    second: neck_female_capetie_wc_l_1
+  - first:
+      213: 21300560
+    second: neck_female_capetie_wc_l_2
+  - first:
+      213: 21300562
+    second: neck_female_capetie_wc_l_3
+  - first:
+      213: 21300564
+    second: neck_female_capetie_wc_l_4
+  - first:
+      213: 21300566
+    second: neck_female_capetie_wc_l_5
+  - first:
+      213: 21300568
+    second: neck_female_capetie_wc_l_6
+  - first:
+      213: 21300570
+    second: neck_female_capetie_wc_l_7
+  - first:
+      213: 21300572
+    second: neck_female_capetie_wc_l_8
+  - first:
+      213: 21300574
+    second: neck_female_capetie_wc_t_0
+  - first:
+      213: 21300576
+    second: neck_female_capetie_wc_t_1
+  - first:
+      213: 21300578
+    second: neck_female_capetie_wc_t_2
+  - first:
+      213: 21300580
+    second: neck_female_capetie_wc_t_3
+  - first:
+      213: 21300582
+    second: neck_female_capetie_wc_t_4
+  - first:
+      213: 21300584
+    second: neck_female_capetie_wc_t_5
+  - first:
+      213: 21300586
+    second: neck_female_capetie_wc_t_6
+  - first:
+      213: 21300588
+    second: neck_female_capetie_wc_t_7
+  - first:
+      213: 21300590
+    second: neck_female_capetie_wc_t_8
+  - first:
+      213: 21300592
+    second: neck_female_capetie_th_r_0
+  - first:
+      213: 21300594
+    second: neck_female_capetie_th_r_1
+  - first:
+      213: 21300596
+    second: neck_female_capetie_th_r_2
+  - first:
+      213: 21300598
+    second: neck_female_capetie_th_r_3
+  - first:
+      213: 21300600
+    second: neck_female_capetie_th_r_4
+  - first:
+      213: 21300602
+    second: neck_female_capetie_th_r_5
+  - first:
+      213: 21300604
+    second: neck_female_capetie_th_r_6
+  - first:
+      213: 21300606
+    second: neck_female_capetie_th_r_7
+  - first:
+      213: 21300608
+    second: neck_female_capetie_th_d_0
+  - first:
+      213: 21300610
+    second: neck_female_capetie_th_d_1
+  - first:
+      213: 21300612
+    second: neck_female_capetie_th_d_2
+  - first:
+      213: 21300614
+    second: neck_female_capetie_th_d_3
+  - first:
+      213: 21300616
+    second: neck_female_capetie_th_d_4
+  - first:
+      213: 21300618
+    second: neck_female_capetie_th_d_5
+  - first:
+      213: 21300620
+    second: neck_female_capetie_th_d_6
+  - first:
+      213: 21300622
+    second: neck_female_capetie_th_d_7
+  - first:
+      213: 21300624
+    second: neck_female_capetie_th_l_0
+  - first:
+      213: 21300626
+    second: neck_female_capetie_th_l_1
+  - first:
+      213: 21300628
+    second: neck_female_capetie_th_l_2
+  - first:
+      213: 21300630
+    second: neck_female_capetie_th_l_3
+  - first:
+      213: 21300632
+    second: neck_female_capetie_th_l_4
+  - first:
+      213: 21300634
+    second: neck_female_capetie_th_l_5
+  - first:
+      213: 21300636
+    second: neck_female_capetie_th_l_6
+  - first:
+      213: 21300638
+    second: neck_female_capetie_th_l_7
+  - first:
+      213: 21300640
+    second: neck_female_capetie_th_t_0
+  - first:
+      213: 21300642
+    second: neck_female_capetie_th_t_1
+  - first:
+      213: 21300644
+    second: neck_female_capetie_th_t_2
+  - first:
+      213: 21300646
+    second: neck_female_capetie_th_t_3
+  - first:
+      213: 21300648
+    second: neck_female_capetie_th_t_4
+  - first:
+      213: 21300650
+    second: neck_female_capetie_th_t_5
+  - first:
+      213: 21300652
+    second: neck_female_capetie_th_t_6
+  - first:
+      213: 21300654
+    second: neck_female_capetie_th_t_7
+  - first:
+      213: 21300656
+    second: neck_female_capetie_sc_r_0
+  - first:
+      213: 21300658
+    second: neck_female_capetie_sc_r_1
+  - first:
+      213: 21300660
+    second: neck_female_capetie_sc_r_2
+  - first:
+      213: 21300662
+    second: neck_female_capetie_sc_r_3
+  - first:
+      213: 21300664
+    second: neck_female_capetie_sc_r_4
+  - first:
+      213: 21300666
+    second: neck_female_capetie_sc_r_5
+  - first:
+      213: 21300668
+    second: neck_female_capetie_sc_r_6
+  - first:
+      213: 21300670
+    second: neck_female_capetie_sc_d_0
+  - first:
+      213: 21300672
+    second: neck_female_capetie_sc_d_1
+  - first:
+      213: 21300674
+    second: neck_female_capetie_sc_d_2
+  - first:
+      213: 21300676
+    second: neck_female_capetie_sc_d_3
+  - first:
+      213: 21300678
+    second: neck_female_capetie_sc_d_4
+  - first:
+      213: 21300680
+    second: neck_female_capetie_sc_d_5
+  - first:
+      213: 21300682
+    second: neck_female_capetie_sc_d_6
+  - first:
+      213: 21300684
+    second: neck_female_capetie_sc_l_0
+  - first:
+      213: 21300686
+    second: neck_female_capetie_sc_l_1
+  - first:
+      213: 21300688
+    second: neck_female_capetie_sc_l_2
+  - first:
+      213: 21300690
+    second: neck_female_capetie_sc_l_3
+  - first:
+      213: 21300692
+    second: neck_female_capetie_sc_l_4
+  - first:
+      213: 21300694
+    second: neck_female_capetie_sc_l_5
+  - first:
+      213: 21300696
+    second: neck_female_capetie_sc_l_6
+  - first:
+      213: 21300698
+    second: neck_female_capetie_sc_t_0
+  - first:
+      213: 21300700
+    second: neck_female_capetie_sc_t_1
+  - first:
+      213: 21300702
+    second: neck_female_capetie_sc_t_2
+  - first:
+      213: 21300704
+    second: neck_female_capetie_sc_t_3
+  - first:
+      213: 21300706
+    second: neck_female_capetie_sc_t_4
+  - first:
+      213: 21300708
+    second: neck_female_capetie_sc_t_5
+  - first:
+      213: 21300710
+    second: neck_female_capetie_sc_t_6
   externalObjects: {}
-  serializedVersion: 4
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -378,7 +1088,12 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
+    flipGreenChannel: 0
   isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -388,8 +1103,8 @@ TextureImporter:
   textureSettings:
     serializedVersion: 2
     filterMode: 0
-    aniso: -1
-    mipBias: -1
+    aniso: 1
+    mipBias: 0
     wrapU: 1
     wrapV: 1
     wrapW: 1
@@ -401,18 +1116,27 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
   alphaIsTransparency: 1
   spriteTessellationDetail: -1
   textureType: 8
   textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
   platformSettings:
-  - buildTarget: DefaultTexturePlatform
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -421,7 +1145,22 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -439,6 +1178,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: neck_female_capetie_hu_1
       rect:
@@ -453,6 +1199,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: neck_female_capetie_hu_2
       rect:
@@ -467,6 +1220,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: neck_female_capetie_hu_3
       rect:
@@ -481,6 +1241,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: neck_female_capetie_hu_4
       rect:
@@ -495,6 +1262,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: neck_female_capetie_hu_5
       rect:
@@ -509,6 +1283,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: neck_female_capetie_sh_r_0
       rect:
@@ -523,6 +1304,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: neck_female_capetie_sh_r_1
       rect:
@@ -537,6 +1325,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: neck_female_capetie_sh_r_2
       rect:
@@ -551,6 +1346,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: neck_female_capetie_sh_r_3
       rect:
@@ -565,6 +1367,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: neck_female_capetie_sh_r_4
       rect:
@@ -579,6 +1388,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: neck_female_capetie_sh_r_5
       rect:
@@ -593,6 +1409,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: neck_female_capetie_sh_r_6
       rect:
@@ -607,6 +1430,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: neck_female_capetie_sh_r_7
       rect:
@@ -621,6 +1451,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: neck_female_capetie_sh_r_8
       rect:
@@ -635,6 +1472,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: neck_female_capetie_sh_r_9
       rect:
@@ -649,6 +1493,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: neck_female_capetie_sh_r_10
       rect:
@@ -663,6 +1514,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: neck_female_capetie_sh_r_11
       rect:
@@ -677,6 +1535,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: neck_female_capetie_sh_r_12
       rect:
@@ -691,6 +1556,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: neck_female_capetie_sh_d_0
       rect:
@@ -705,6 +1577,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: neck_female_capetie_sh_d_1
       rect:
@@ -719,6 +1598,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: neck_female_capetie_sh_d_2
       rect:
@@ -733,6 +1619,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: neck_female_capetie_sh_d_3
       rect:
@@ -747,6 +1640,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: neck_female_capetie_sh_d_4
       rect:
@@ -761,6 +1661,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: neck_female_capetie_sh_d_5
       rect:
@@ -775,6 +1682,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: neck_female_capetie_sh_d_6
       rect:
@@ -789,6 +1703,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: neck_female_capetie_sh_d_7
       rect:
@@ -803,6 +1724,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: neck_female_capetie_sh_d_8
       rect:
@@ -817,6 +1745,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: neck_female_capetie_sh_d_9
       rect:
@@ -831,6 +1766,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: neck_female_capetie_sh_d_10
       rect:
@@ -845,6 +1787,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: neck_female_capetie_sh_d_11
       rect:
@@ -859,6 +1808,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: neck_female_capetie_sh_d_12
       rect:
@@ -873,6 +1829,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: neck_female_capetie_sh_l_0
       rect:
@@ -887,6 +1850,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: neck_female_capetie_sh_l_1
       rect:
@@ -901,6 +1871,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: neck_female_capetie_sh_l_2
       rect:
@@ -915,6 +1892,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: neck_female_capetie_sh_l_3
       rect:
@@ -929,6 +1913,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: neck_female_capetie_sh_l_4
       rect:
@@ -943,6 +1934,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: neck_female_capetie_sh_l_5
       rect:
@@ -957,6 +1955,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: neck_female_capetie_sh_l_6
       rect:
@@ -971,6 +1976,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: neck_female_capetie_sh_l_7
       rect:
@@ -985,6 +1997,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: neck_female_capetie_sh_l_8
       rect:
@@ -999,6 +2018,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: neck_female_capetie_sh_l_9
       rect:
@@ -1013,6 +2039,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: neck_female_capetie_sh_l_10
       rect:
@@ -1027,6 +2060,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: neck_female_capetie_sh_l_11
       rect:
@@ -1041,6 +2081,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: neck_female_capetie_sh_l_12
       rect:
@@ -1055,6 +2102,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: neck_female_capetie_sh_t_0
       rect:
@@ -1069,6 +2123,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: neck_female_capetie_sh_t_1
       rect:
@@ -1083,6 +2144,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: neck_female_capetie_sh_t_2
       rect:
@@ -1097,6 +2165,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: neck_female_capetie_sh_t_3
       rect:
@@ -1111,6 +2186,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: neck_female_capetie_sh_t_4
       rect:
@@ -1125,6 +2207,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: neck_female_capetie_sh_t_5
       rect:
@@ -1139,6 +2228,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: neck_female_capetie_sh_t_6
       rect:
@@ -1153,6 +2249,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: neck_female_capetie_sh_t_7
       rect:
@@ -1167,6 +2270,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: neck_female_capetie_sh_t_8
       rect:
@@ -1181,6 +2291,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: neck_female_capetie_sh_t_9
       rect:
@@ -1195,6 +2312,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: neck_female_capetie_sh_t_10
       rect:
@@ -1209,6 +2333,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: neck_female_capetie_sh_t_11
       rect:
@@ -1223,6 +2354,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: neck_female_capetie_sh_t_12
       rect:
@@ -1237,6 +2375,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: neck_female_capetie_sl_r_0
       rect:
@@ -1251,6 +2396,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: neck_female_capetie_sl_r_1
       rect:
@@ -1265,6 +2417,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: neck_female_capetie_sl_r_2
       rect:
@@ -1279,6 +2438,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: neck_female_capetie_sl_r_3
       rect:
@@ -1293,6 +2459,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: neck_female_capetie_sl_r_4
       rect:
@@ -1307,6 +2480,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: neck_female_capetie_sl_r_5
       rect:
@@ -1321,6 +2501,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: neck_female_capetie_sl_d_0
       rect:
@@ -1335,6 +2522,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: neck_female_capetie_sl_d_1
       rect:
@@ -1349,6 +2543,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: neck_female_capetie_sl_d_2
       rect:
@@ -1363,6 +2564,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: neck_female_capetie_sl_d_3
       rect:
@@ -1377,6 +2585,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: neck_female_capetie_sl_d_4
       rect:
@@ -1391,6 +2606,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: neck_female_capetie_sl_d_5
       rect:
@@ -1405,6 +2627,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: neck_female_capetie_sl_l_0
       rect:
@@ -1419,6 +2648,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: neck_female_capetie_sl_l_1
       rect:
@@ -1433,6 +2669,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: neck_female_capetie_sl_l_2
       rect:
@@ -1447,6 +2690,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: neck_female_capetie_sl_l_3
       rect:
@@ -1461,6 +2711,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: neck_female_capetie_sl_l_4
       rect:
@@ -1475,6 +2732,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: neck_female_capetie_sl_l_5
       rect:
@@ -1489,6 +2753,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: neck_female_capetie_sl_t_0
       rect:
@@ -1503,6 +2774,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: neck_female_capetie_sl_t_1
       rect:
@@ -1517,6 +2795,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: neck_female_capetie_sl_t_2
       rect:
@@ -1531,6 +2816,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: neck_female_capetie_sl_t_3
       rect:
@@ -1545,6 +2837,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: neck_female_capetie_sl_t_4
       rect:
@@ -1559,6 +2858,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: neck_female_capetie_sl_t_5
       rect:
@@ -1573,6 +2879,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: neck_female_capetie_wc_r_0
       rect:
@@ -1587,6 +2900,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: neck_female_capetie_wc_r_1
       rect:
@@ -1601,6 +2921,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: neck_female_capetie_wc_r_2
       rect:
@@ -1615,6 +2942,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: neck_female_capetie_wc_r_3
       rect:
@@ -1629,6 +2963,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: neck_female_capetie_wc_r_4
       rect:
@@ -1643,6 +2984,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: neck_female_capetie_wc_r_5
       rect:
@@ -1657,6 +3005,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: neck_female_capetie_wc_r_6
       rect:
@@ -1671,6 +3026,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: neck_female_capetie_wc_r_7
       rect:
@@ -1685,6 +3047,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: neck_female_capetie_wc_r_8
       rect:
@@ -1699,6 +3068,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: neck_female_capetie_wc_d_0
       rect:
@@ -1713,6 +3089,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: neck_female_capetie_wc_d_1
       rect:
@@ -1727,6 +3110,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: neck_female_capetie_wc_d_2
       rect:
@@ -1741,6 +3131,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: neck_female_capetie_wc_d_3
       rect:
@@ -1755,6 +3152,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: neck_female_capetie_wc_d_4
       rect:
@@ -1769,6 +3173,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: neck_female_capetie_wc_d_5
       rect:
@@ -1783,6 +3194,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: neck_female_capetie_wc_d_6
       rect:
@@ -1797,6 +3215,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: neck_female_capetie_wc_d_7
       rect:
@@ -1811,6 +3236,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: neck_female_capetie_wc_d_8
       rect:
@@ -1825,6 +3257,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: neck_female_capetie_wc_l_0
       rect:
@@ -1839,6 +3278,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: neck_female_capetie_wc_l_1
       rect:
@@ -1853,6 +3299,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: neck_female_capetie_wc_l_2
       rect:
@@ -1867,6 +3320,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: neck_female_capetie_wc_l_3
       rect:
@@ -1881,6 +3341,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: neck_female_capetie_wc_l_4
       rect:
@@ -1895,6 +3362,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: neck_female_capetie_wc_l_5
       rect:
@@ -1909,6 +3383,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: neck_female_capetie_wc_l_6
       rect:
@@ -1923,6 +3404,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: neck_female_capetie_wc_l_7
       rect:
@@ -1937,6 +3425,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: neck_female_capetie_wc_l_8
       rect:
@@ -1951,6 +3446,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: neck_female_capetie_wc_t_0
       rect:
@@ -1965,6 +3467,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: neck_female_capetie_wc_t_1
       rect:
@@ -1979,6 +3488,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: neck_female_capetie_wc_t_2
       rect:
@@ -1993,6 +3509,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: neck_female_capetie_wc_t_3
       rect:
@@ -2007,6 +3530,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: neck_female_capetie_wc_t_4
       rect:
@@ -2021,6 +3551,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: neck_female_capetie_wc_t_5
       rect:
@@ -2035,6 +3572,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: neck_female_capetie_wc_t_6
       rect:
@@ -2049,6 +3593,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: neck_female_capetie_wc_t_7
       rect:
@@ -2063,6 +3614,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: neck_female_capetie_wc_t_8
       rect:
@@ -2077,6 +3635,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: neck_female_capetie_th_r_0
       rect:
@@ -2091,6 +3656,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: neck_female_capetie_th_r_1
       rect:
@@ -2105,6 +3677,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: neck_female_capetie_th_r_2
       rect:
@@ -2119,6 +3698,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: neck_female_capetie_th_r_3
       rect:
@@ -2133,6 +3719,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: neck_female_capetie_th_r_4
       rect:
@@ -2147,6 +3740,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: neck_female_capetie_th_r_5
       rect:
@@ -2161,6 +3761,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: neck_female_capetie_th_r_6
       rect:
@@ -2175,6 +3782,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: neck_female_capetie_th_r_7
       rect:
@@ -2189,6 +3803,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: neck_female_capetie_th_d_0
       rect:
@@ -2203,6 +3824,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: neck_female_capetie_th_d_1
       rect:
@@ -2217,6 +3845,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: neck_female_capetie_th_d_2
       rect:
@@ -2231,6 +3866,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: neck_female_capetie_th_d_3
       rect:
@@ -2245,6 +3887,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: neck_female_capetie_th_d_4
       rect:
@@ -2259,6 +3908,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: neck_female_capetie_th_d_5
       rect:
@@ -2273,6 +3929,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: neck_female_capetie_th_d_6
       rect:
@@ -2287,6 +3950,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: neck_female_capetie_th_d_7
       rect:
@@ -2301,6 +3971,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: neck_female_capetie_th_l_0
       rect:
@@ -2315,6 +3992,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: neck_female_capetie_th_l_1
       rect:
@@ -2329,6 +4013,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: neck_female_capetie_th_l_2
       rect:
@@ -2343,6 +4034,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: neck_female_capetie_th_l_3
       rect:
@@ -2357,6 +4055,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: neck_female_capetie_th_l_4
       rect:
@@ -2371,6 +4076,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: neck_female_capetie_th_l_5
       rect:
@@ -2385,6 +4097,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: neck_female_capetie_th_l_6
       rect:
@@ -2399,6 +4118,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: neck_female_capetie_th_l_7
       rect:
@@ -2413,6 +4139,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: neck_female_capetie_th_t_0
       rect:
@@ -2427,6 +4160,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: neck_female_capetie_th_t_1
       rect:
@@ -2441,6 +4181,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: neck_female_capetie_th_t_2
       rect:
@@ -2455,6 +4202,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: neck_female_capetie_th_t_3
       rect:
@@ -2469,6 +4223,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: neck_female_capetie_th_t_4
       rect:
@@ -2483,6 +4244,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: neck_female_capetie_th_t_5
       rect:
@@ -2497,6 +4265,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: neck_female_capetie_th_t_6
       rect:
@@ -2511,6 +4286,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: neck_female_capetie_th_t_7
       rect:
@@ -2525,6 +4307,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: neck_female_capetie_sc_r_0
       rect:
@@ -2539,6 +4328,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: neck_female_capetie_sc_r_1
       rect:
@@ -2553,6 +4349,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: neck_female_capetie_sc_r_2
       rect:
@@ -2567,6 +4370,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: neck_female_capetie_sc_r_3
       rect:
@@ -2581,6 +4391,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: neck_female_capetie_sc_r_4
       rect:
@@ -2595,6 +4412,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: neck_female_capetie_sc_r_5
       rect:
@@ -2609,6 +4433,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: neck_female_capetie_sc_r_6
       rect:
@@ -2623,6 +4454,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: neck_female_capetie_sc_d_0
       rect:
@@ -2637,6 +4475,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: neck_female_capetie_sc_d_1
       rect:
@@ -2651,6 +4496,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: neck_female_capetie_sc_d_2
       rect:
@@ -2665,6 +4517,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: neck_female_capetie_sc_d_3
       rect:
@@ -2679,6 +4538,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: neck_female_capetie_sc_d_4
       rect:
@@ -2693,6 +4559,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: neck_female_capetie_sc_d_5
       rect:
@@ -2707,6 +4580,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: neck_female_capetie_sc_d_6
       rect:
@@ -2721,6 +4601,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: neck_female_capetie_sc_l_0
       rect:
@@ -2735,6 +4622,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: neck_female_capetie_sc_l_1
       rect:
@@ -2749,6 +4643,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: neck_female_capetie_sc_l_2
       rect:
@@ -2763,6 +4664,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: neck_female_capetie_sc_l_3
       rect:
@@ -2777,6 +4685,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: neck_female_capetie_sc_l_4
       rect:
@@ -2791,6 +4706,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: neck_female_capetie_sc_l_5
       rect:
@@ -2805,6 +4727,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: neck_female_capetie_sc_l_6
       rect:
@@ -2819,6 +4748,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: neck_female_capetie_sc_t_0
       rect:
@@ -2833,6 +4769,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: neck_female_capetie_sc_t_1
       rect:
@@ -2847,6 +4790,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: neck_female_capetie_sc_t_2
       rect:
@@ -2861,6 +4811,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: neck_female_capetie_sc_t_3
       rect:
@@ -2875,6 +4832,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: neck_female_capetie_sc_t_4
       rect:
@@ -2889,6 +4853,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: neck_female_capetie_sc_t_5
       rect:
@@ -2903,6 +4874,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: neck_female_capetie_sc_t_6
       rect:
@@ -2917,9 +4895,204 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
-  spritePackingTag: character
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      neck_female_capetie_hu_0: 21300356
+      neck_female_capetie_hu_1: 21300358
+      neck_female_capetie_hu_2: 21300360
+      neck_female_capetie_hu_3: 21300362
+      neck_female_capetie_hu_4: 21300364
+      neck_female_capetie_hu_5: 21300366
+      neck_female_capetie_sc_d_0: 21300670
+      neck_female_capetie_sc_d_1: 21300672
+      neck_female_capetie_sc_d_2: 21300674
+      neck_female_capetie_sc_d_3: 21300676
+      neck_female_capetie_sc_d_4: 21300678
+      neck_female_capetie_sc_d_5: 21300680
+      neck_female_capetie_sc_d_6: 21300682
+      neck_female_capetie_sc_l_0: 21300684
+      neck_female_capetie_sc_l_1: 21300686
+      neck_female_capetie_sc_l_2: 21300688
+      neck_female_capetie_sc_l_3: 21300690
+      neck_female_capetie_sc_l_4: 21300692
+      neck_female_capetie_sc_l_5: 21300694
+      neck_female_capetie_sc_l_6: 21300696
+      neck_female_capetie_sc_r_0: 21300656
+      neck_female_capetie_sc_r_1: 21300658
+      neck_female_capetie_sc_r_2: 21300660
+      neck_female_capetie_sc_r_3: 21300662
+      neck_female_capetie_sc_r_4: 21300664
+      neck_female_capetie_sc_r_5: 21300666
+      neck_female_capetie_sc_r_6: 21300668
+      neck_female_capetie_sc_t_0: 21300698
+      neck_female_capetie_sc_t_1: 21300700
+      neck_female_capetie_sc_t_2: 21300702
+      neck_female_capetie_sc_t_3: 21300704
+      neck_female_capetie_sc_t_4: 21300706
+      neck_female_capetie_sc_t_5: 21300708
+      neck_female_capetie_sc_t_6: 21300710
+      neck_female_capetie_sh_d_0: 21300394
+      neck_female_capetie_sh_d_1: 21300396
+      neck_female_capetie_sh_d_10: 21300414
+      neck_female_capetie_sh_d_11: 21300416
+      neck_female_capetie_sh_d_12: 21300418
+      neck_female_capetie_sh_d_2: 21300398
+      neck_female_capetie_sh_d_3: 21300400
+      neck_female_capetie_sh_d_4: 21300402
+      neck_female_capetie_sh_d_5: 21300404
+      neck_female_capetie_sh_d_6: 21300406
+      neck_female_capetie_sh_d_7: 21300408
+      neck_female_capetie_sh_d_8: 21300410
+      neck_female_capetie_sh_d_9: 21300412
+      neck_female_capetie_sh_l_0: 21300420
+      neck_female_capetie_sh_l_1: 21300422
+      neck_female_capetie_sh_l_10: 21300440
+      neck_female_capetie_sh_l_11: 21300442
+      neck_female_capetie_sh_l_12: 21300444
+      neck_female_capetie_sh_l_2: 21300424
+      neck_female_capetie_sh_l_3: 21300426
+      neck_female_capetie_sh_l_4: 21300428
+      neck_female_capetie_sh_l_5: 21300430
+      neck_female_capetie_sh_l_6: 21300432
+      neck_female_capetie_sh_l_7: 21300434
+      neck_female_capetie_sh_l_8: 21300436
+      neck_female_capetie_sh_l_9: 21300438
+      neck_female_capetie_sh_r_0: 21300368
+      neck_female_capetie_sh_r_1: 21300370
+      neck_female_capetie_sh_r_10: 21300388
+      neck_female_capetie_sh_r_11: 21300390
+      neck_female_capetie_sh_r_12: 21300392
+      neck_female_capetie_sh_r_2: 21300372
+      neck_female_capetie_sh_r_3: 21300374
+      neck_female_capetie_sh_r_4: 21300376
+      neck_female_capetie_sh_r_5: 21300378
+      neck_female_capetie_sh_r_6: 21300380
+      neck_female_capetie_sh_r_7: 21300382
+      neck_female_capetie_sh_r_8: 21300384
+      neck_female_capetie_sh_r_9: 21300386
+      neck_female_capetie_sh_t_0: 21300446
+      neck_female_capetie_sh_t_1: 21300448
+      neck_female_capetie_sh_t_10: 21300466
+      neck_female_capetie_sh_t_11: 21300468
+      neck_female_capetie_sh_t_12: 21300470
+      neck_female_capetie_sh_t_2: 21300450
+      neck_female_capetie_sh_t_3: 21300452
+      neck_female_capetie_sh_t_4: 21300454
+      neck_female_capetie_sh_t_5: 21300456
+      neck_female_capetie_sh_t_6: 21300458
+      neck_female_capetie_sh_t_7: 21300460
+      neck_female_capetie_sh_t_8: 21300462
+      neck_female_capetie_sh_t_9: 21300464
+      neck_female_capetie_sl_d_0: 21300484
+      neck_female_capetie_sl_d_1: 21300486
+      neck_female_capetie_sl_d_2: 21300488
+      neck_female_capetie_sl_d_3: 21300490
+      neck_female_capetie_sl_d_4: 21300492
+      neck_female_capetie_sl_d_5: 21300494
+      neck_female_capetie_sl_l_0: 21300496
+      neck_female_capetie_sl_l_1: 21300498
+      neck_female_capetie_sl_l_2: 21300500
+      neck_female_capetie_sl_l_3: 21300502
+      neck_female_capetie_sl_l_4: 21300504
+      neck_female_capetie_sl_l_5: 21300506
+      neck_female_capetie_sl_r_0: 21300472
+      neck_female_capetie_sl_r_1: 21300474
+      neck_female_capetie_sl_r_2: 21300476
+      neck_female_capetie_sl_r_3: 21300478
+      neck_female_capetie_sl_r_4: 21300480
+      neck_female_capetie_sl_r_5: 21300482
+      neck_female_capetie_sl_t_0: 21300508
+      neck_female_capetie_sl_t_1: 21300510
+      neck_female_capetie_sl_t_2: 21300512
+      neck_female_capetie_sl_t_3: 21300514
+      neck_female_capetie_sl_t_4: 21300516
+      neck_female_capetie_sl_t_5: 21300518
+      neck_female_capetie_th_d_0: 21300608
+      neck_female_capetie_th_d_1: 21300610
+      neck_female_capetie_th_d_2: 21300612
+      neck_female_capetie_th_d_3: 21300614
+      neck_female_capetie_th_d_4: 21300616
+      neck_female_capetie_th_d_5: 21300618
+      neck_female_capetie_th_d_6: 21300620
+      neck_female_capetie_th_d_7: 21300622
+      neck_female_capetie_th_l_0: 21300624
+      neck_female_capetie_th_l_1: 21300626
+      neck_female_capetie_th_l_2: 21300628
+      neck_female_capetie_th_l_3: 21300630
+      neck_female_capetie_th_l_4: 21300632
+      neck_female_capetie_th_l_5: 21300634
+      neck_female_capetie_th_l_6: 21300636
+      neck_female_capetie_th_l_7: 21300638
+      neck_female_capetie_th_r_0: 21300592
+      neck_female_capetie_th_r_1: 21300594
+      neck_female_capetie_th_r_2: 21300596
+      neck_female_capetie_th_r_3: 21300598
+      neck_female_capetie_th_r_4: 21300600
+      neck_female_capetie_th_r_5: 21300602
+      neck_female_capetie_th_r_6: 21300604
+      neck_female_capetie_th_r_7: 21300606
+      neck_female_capetie_th_t_0: 21300640
+      neck_female_capetie_th_t_1: 21300642
+      neck_female_capetie_th_t_2: 21300644
+      neck_female_capetie_th_t_3: 21300646
+      neck_female_capetie_th_t_4: 21300648
+      neck_female_capetie_th_t_5: 21300650
+      neck_female_capetie_th_t_6: 21300652
+      neck_female_capetie_th_t_7: 21300654
+      neck_female_capetie_wc_d_0: 21300538
+      neck_female_capetie_wc_d_1: 21300540
+      neck_female_capetie_wc_d_2: 21300542
+      neck_female_capetie_wc_d_3: 21300544
+      neck_female_capetie_wc_d_4: 21300546
+      neck_female_capetie_wc_d_5: 21300548
+      neck_female_capetie_wc_d_6: 21300550
+      neck_female_capetie_wc_d_7: 21300552
+      neck_female_capetie_wc_d_8: 21300554
+      neck_female_capetie_wc_l_0: 21300556
+      neck_female_capetie_wc_l_1: 21300558
+      neck_female_capetie_wc_l_2: 21300560
+      neck_female_capetie_wc_l_3: 21300562
+      neck_female_capetie_wc_l_4: 21300564
+      neck_female_capetie_wc_l_5: 21300566
+      neck_female_capetie_wc_l_6: 21300568
+      neck_female_capetie_wc_l_7: 21300570
+      neck_female_capetie_wc_l_8: 21300572
+      neck_female_capetie_wc_r_0: 21300520
+      neck_female_capetie_wc_r_1: 21300522
+      neck_female_capetie_wc_r_2: 21300524
+      neck_female_capetie_wc_r_3: 21300526
+      neck_female_capetie_wc_r_4: 21300528
+      neck_female_capetie_wc_r_5: 21300530
+      neck_female_capetie_wc_r_6: 21300532
+      neck_female_capetie_wc_r_7: 21300534
+      neck_female_capetie_wc_r_8: 21300536
+      neck_female_capetie_wc_t_0: 21300574
+      neck_female_capetie_wc_t_1: 21300576
+      neck_female_capetie_wc_t_2: 21300578
+      neck_female_capetie_wc_t_3: 21300580
+      neck_female_capetie_wc_t_4: 21300582
+      neck_female_capetie_wc_t_5: 21300584
+      neck_female_capetie_wc_t_6: 21300586
+      neck_female_capetie_wc_t_7: 21300588
+      neck_female_capetie_wc_t_8: 21300590
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 

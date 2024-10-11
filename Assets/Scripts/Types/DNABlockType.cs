@@ -38,7 +38,7 @@ namespace Assets.Scripts.Types
         {
             var index = Array.IndexOf(TypeList, blockType);
             if (direction == DirectionType.Up &&
-                (blockType == Back || blockType == Back2))
+                blockType is Back or Back2)
             {
                 // BACK2 will be on top of BACK when facing up
                 return (TypeList.Length - index) * 100;

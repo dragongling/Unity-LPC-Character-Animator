@@ -21,7 +21,7 @@ public class AtlasManagerEditor : Editor
 
         if (_am?.SpriteList == null)
         {
-            _am = _am ?? new AtlasManager();
+            _am ??= new AtlasManager();
             _am.SpriteList = new List<Sprite>();
             _dirty = true;
         }
@@ -37,12 +37,10 @@ public class AtlasManagerEditor : Editor
             LoadFiles(equipmentSprites);
 
             // update the model-list text file
-            using (var outputFile = new StreamWriter("model-list.txt"))
+            using var outputFile = new StreamWriter("model-list.txt");
+            foreach (var model in _am.ModelList)
             {
-                foreach (var model in _am.ModelList)
-                {
-                    outputFile.WriteLine(model);
-                }
+                outputFile.WriteLine(model);
             }
         }
 

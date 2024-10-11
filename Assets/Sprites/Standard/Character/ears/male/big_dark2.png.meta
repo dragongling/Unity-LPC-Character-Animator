@@ -1,189 +1,543 @@
 fileFormatVersion: 2
 guid: 346b4c6c7b8102646b1fe3118e2158f2
-timeCreated: 1487912848
-licenseType: Free
 TextureImporter:
-  fileIDToRecycleName:
-    21300000: ears_male_big_dark2_hu_0
-    21300002: ears_male_big_dark2_hu_1
-    21300004: ears_male_big_dark2_hu_2
-    21300006: ears_male_big_dark2_hu_3
-    21300008: ears_male_big_dark2_hu_4
-    21300010: ears_male_big_dark2_hu_5
-    21300012: ears_male_big_dark2_sh_r_0
-    21300014: ears_male_big_dark2_sh_r_1
-    21300016: ears_male_big_dark2_sh_r_2
-    21300018: ears_male_big_dark2_sh_r_3
-    21300020: ears_male_big_dark2_sh_r_4
-    21300022: ears_male_big_dark2_sh_r_5
-    21300024: ears_male_big_dark2_sh_r_6
-    21300026: ears_male_big_dark2_sh_r_7
-    21300028: ears_male_big_dark2_sh_r_8
-    21300030: ears_male_big_dark2_sh_r_9
-    21300032: ears_male_big_dark2_sh_r_10
-    21300034: ears_male_big_dark2_sh_r_11
-    21300036: ears_male_big_dark2_sh_r_12
-    21300038: ears_male_big_dark2_sh_d_0
-    21300040: ears_male_big_dark2_sh_d_1
-    21300042: ears_male_big_dark2_sh_d_2
-    21300044: ears_male_big_dark2_sh_d_3
-    21300046: ears_male_big_dark2_sh_d_4
-    21300048: ears_male_big_dark2_sh_d_5
-    21300050: ears_male_big_dark2_sh_d_6
-    21300052: ears_male_big_dark2_sh_d_7
-    21300054: ears_male_big_dark2_sh_d_8
-    21300056: ears_male_big_dark2_sh_d_9
-    21300058: ears_male_big_dark2_sh_d_10
-    21300060: ears_male_big_dark2_sh_d_11
-    21300062: ears_male_big_dark2_sh_d_12
-    21300064: ears_male_big_dark2_sh_l_0
-    21300066: ears_male_big_dark2_sh_l_1
-    21300068: ears_male_big_dark2_sh_l_2
-    21300070: ears_male_big_dark2_sh_l_3
-    21300072: ears_male_big_dark2_sh_l_4
-    21300074: ears_male_big_dark2_sh_l_5
-    21300076: ears_male_big_dark2_sh_l_6
-    21300078: ears_male_big_dark2_sh_l_7
-    21300080: ears_male_big_dark2_sh_l_8
-    21300082: ears_male_big_dark2_sh_l_9
-    21300084: ears_male_big_dark2_sh_l_10
-    21300086: ears_male_big_dark2_sh_l_11
-    21300088: ears_male_big_dark2_sh_l_12
-    21300090: ears_male_big_dark2_sh_t_0
-    21300092: ears_male_big_dark2_sh_t_1
-    21300094: ears_male_big_dark2_sh_t_2
-    21300096: ears_male_big_dark2_sh_t_3
-    21300098: ears_male_big_dark2_sh_t_4
-    21300100: ears_male_big_dark2_sh_t_5
-    21300102: ears_male_big_dark2_sh_t_6
-    21300104: ears_male_big_dark2_sh_t_7
-    21300106: ears_male_big_dark2_sh_t_8
-    21300108: ears_male_big_dark2_sh_t_9
-    21300110: ears_male_big_dark2_sh_t_10
-    21300112: ears_male_big_dark2_sh_t_11
-    21300114: ears_male_big_dark2_sh_t_12
-    21300116: ears_male_big_dark2_sl_r_0
-    21300118: ears_male_big_dark2_sl_r_1
-    21300120: ears_male_big_dark2_sl_r_2
-    21300122: ears_male_big_dark2_sl_r_3
-    21300124: ears_male_big_dark2_sl_r_4
-    21300126: ears_male_big_dark2_sl_r_5
-    21300128: ears_male_big_dark2_sl_d_0
-    21300130: ears_male_big_dark2_sl_d_1
-    21300132: ears_male_big_dark2_sl_d_2
-    21300134: ears_male_big_dark2_sl_d_3
-    21300136: ears_male_big_dark2_sl_d_4
-    21300138: ears_male_big_dark2_sl_d_5
-    21300140: ears_male_big_dark2_sl_l_0
-    21300142: ears_male_big_dark2_sl_l_1
-    21300144: ears_male_big_dark2_sl_l_2
-    21300146: ears_male_big_dark2_sl_l_3
-    21300148: ears_male_big_dark2_sl_l_4
-    21300150: ears_male_big_dark2_sl_l_5
-    21300152: ears_male_big_dark2_sl_t_0
-    21300154: ears_male_big_dark2_sl_t_1
-    21300156: ears_male_big_dark2_sl_t_2
-    21300158: ears_male_big_dark2_sl_t_3
-    21300160: ears_male_big_dark2_sl_t_4
-    21300162: ears_male_big_dark2_sl_t_5
-    21300164: ears_male_big_dark2_wc_r_0
-    21300166: ears_male_big_dark2_wc_r_1
-    21300168: ears_male_big_dark2_wc_r_2
-    21300170: ears_male_big_dark2_wc_r_3
-    21300172: ears_male_big_dark2_wc_r_4
-    21300174: ears_male_big_dark2_wc_r_5
-    21300176: ears_male_big_dark2_wc_r_6
-    21300178: ears_male_big_dark2_wc_r_7
-    21300180: ears_male_big_dark2_wc_r_8
-    21300182: ears_male_big_dark2_wc_d_0
-    21300184: ears_male_big_dark2_wc_d_1
-    21300186: ears_male_big_dark2_wc_d_2
-    21300188: ears_male_big_dark2_wc_d_3
-    21300190: ears_male_big_dark2_wc_d_4
-    21300192: ears_male_big_dark2_wc_d_5
-    21300194: ears_male_big_dark2_wc_d_6
-    21300196: ears_male_big_dark2_wc_d_7
-    21300198: ears_male_big_dark2_wc_d_8
-    21300200: ears_male_big_dark2_wc_l_0
-    21300202: ears_male_big_dark2_wc_l_1
-    21300204: ears_male_big_dark2_wc_l_2
-    21300206: ears_male_big_dark2_wc_l_3
-    21300208: ears_male_big_dark2_wc_l_4
-    21300210: ears_male_big_dark2_wc_l_5
-    21300212: ears_male_big_dark2_wc_l_6
-    21300214: ears_male_big_dark2_wc_l_7
-    21300216: ears_male_big_dark2_wc_l_8
-    21300218: ears_male_big_dark2_wc_t_0
-    21300220: ears_male_big_dark2_wc_t_1
-    21300222: ears_male_big_dark2_wc_t_2
-    21300224: ears_male_big_dark2_wc_t_3
-    21300226: ears_male_big_dark2_wc_t_4
-    21300228: ears_male_big_dark2_wc_t_5
-    21300230: ears_male_big_dark2_wc_t_6
-    21300232: ears_male_big_dark2_wc_t_7
-    21300234: ears_male_big_dark2_wc_t_8
-    21300236: ears_male_big_dark2_th_r_0
-    21300238: ears_male_big_dark2_th_r_1
-    21300240: ears_male_big_dark2_th_r_2
-    21300242: ears_male_big_dark2_th_r_3
-    21300244: ears_male_big_dark2_th_r_4
-    21300246: ears_male_big_dark2_th_r_5
-    21300248: ears_male_big_dark2_th_r_6
-    21300250: ears_male_big_dark2_th_r_7
-    21300252: ears_male_big_dark2_th_d_0
-    21300254: ears_male_big_dark2_th_d_1
-    21300256: ears_male_big_dark2_th_d_2
-    21300258: ears_male_big_dark2_th_d_3
-    21300260: ears_male_big_dark2_th_d_4
-    21300262: ears_male_big_dark2_th_d_5
-    21300264: ears_male_big_dark2_th_d_6
-    21300266: ears_male_big_dark2_th_d_7
-    21300268: ears_male_big_dark2_th_l_0
-    21300270: ears_male_big_dark2_th_l_1
-    21300272: ears_male_big_dark2_th_l_2
-    21300274: ears_male_big_dark2_th_l_3
-    21300276: ears_male_big_dark2_th_l_4
-    21300278: ears_male_big_dark2_th_l_5
-    21300280: ears_male_big_dark2_th_l_6
-    21300282: ears_male_big_dark2_th_l_7
-    21300284: ears_male_big_dark2_th_t_0
-    21300286: ears_male_big_dark2_th_t_1
-    21300288: ears_male_big_dark2_th_t_2
-    21300290: ears_male_big_dark2_th_t_3
-    21300292: ears_male_big_dark2_th_t_4
-    21300294: ears_male_big_dark2_th_t_5
-    21300296: ears_male_big_dark2_th_t_6
-    21300298: ears_male_big_dark2_th_t_7
-    21300300: ears_male_big_dark2_sc_r_0
-    21300302: ears_male_big_dark2_sc_r_1
-    21300304: ears_male_big_dark2_sc_r_2
-    21300306: ears_male_big_dark2_sc_r_3
-    21300308: ears_male_big_dark2_sc_r_4
-    21300310: ears_male_big_dark2_sc_r_5
-    21300312: ears_male_big_dark2_sc_r_6
-    21300314: ears_male_big_dark2_sc_d_0
-    21300316: ears_male_big_dark2_sc_d_1
-    21300318: ears_male_big_dark2_sc_d_2
-    21300320: ears_male_big_dark2_sc_d_3
-    21300322: ears_male_big_dark2_sc_d_4
-    21300324: ears_male_big_dark2_sc_d_5
-    21300326: ears_male_big_dark2_sc_d_6
-    21300328: ears_male_big_dark2_sc_l_0
-    21300330: ears_male_big_dark2_sc_l_1
-    21300332: ears_male_big_dark2_sc_l_2
-    21300334: ears_male_big_dark2_sc_l_3
-    21300336: ears_male_big_dark2_sc_l_4
-    21300338: ears_male_big_dark2_sc_l_5
-    21300340: ears_male_big_dark2_sc_l_6
-    21300342: ears_male_big_dark2_sc_t_0
-    21300344: ears_male_big_dark2_sc_t_1
-    21300346: ears_male_big_dark2_sc_t_2
-    21300348: ears_male_big_dark2_sc_t_3
-    21300350: ears_male_big_dark2_sc_t_4
-    21300352: ears_male_big_dark2_sc_t_5
-    21300354: ears_male_big_dark2_sc_t_6
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: ears_male_big_dark2_hu_0
+  - first:
+      213: 21300002
+    second: ears_male_big_dark2_hu_1
+  - first:
+      213: 21300004
+    second: ears_male_big_dark2_hu_2
+  - first:
+      213: 21300006
+    second: ears_male_big_dark2_hu_3
+  - first:
+      213: 21300008
+    second: ears_male_big_dark2_hu_4
+  - first:
+      213: 21300010
+    second: ears_male_big_dark2_hu_5
+  - first:
+      213: 21300012
+    second: ears_male_big_dark2_sh_r_0
+  - first:
+      213: 21300014
+    second: ears_male_big_dark2_sh_r_1
+  - first:
+      213: 21300016
+    second: ears_male_big_dark2_sh_r_2
+  - first:
+      213: 21300018
+    second: ears_male_big_dark2_sh_r_3
+  - first:
+      213: 21300020
+    second: ears_male_big_dark2_sh_r_4
+  - first:
+      213: 21300022
+    second: ears_male_big_dark2_sh_r_5
+  - first:
+      213: 21300024
+    second: ears_male_big_dark2_sh_r_6
+  - first:
+      213: 21300026
+    second: ears_male_big_dark2_sh_r_7
+  - first:
+      213: 21300028
+    second: ears_male_big_dark2_sh_r_8
+  - first:
+      213: 21300030
+    second: ears_male_big_dark2_sh_r_9
+  - first:
+      213: 21300032
+    second: ears_male_big_dark2_sh_r_10
+  - first:
+      213: 21300034
+    second: ears_male_big_dark2_sh_r_11
+  - first:
+      213: 21300036
+    second: ears_male_big_dark2_sh_r_12
+  - first:
+      213: 21300038
+    second: ears_male_big_dark2_sh_d_0
+  - first:
+      213: 21300040
+    second: ears_male_big_dark2_sh_d_1
+  - first:
+      213: 21300042
+    second: ears_male_big_dark2_sh_d_2
+  - first:
+      213: 21300044
+    second: ears_male_big_dark2_sh_d_3
+  - first:
+      213: 21300046
+    second: ears_male_big_dark2_sh_d_4
+  - first:
+      213: 21300048
+    second: ears_male_big_dark2_sh_d_5
+  - first:
+      213: 21300050
+    second: ears_male_big_dark2_sh_d_6
+  - first:
+      213: 21300052
+    second: ears_male_big_dark2_sh_d_7
+  - first:
+      213: 21300054
+    second: ears_male_big_dark2_sh_d_8
+  - first:
+      213: 21300056
+    second: ears_male_big_dark2_sh_d_9
+  - first:
+      213: 21300058
+    second: ears_male_big_dark2_sh_d_10
+  - first:
+      213: 21300060
+    second: ears_male_big_dark2_sh_d_11
+  - first:
+      213: 21300062
+    second: ears_male_big_dark2_sh_d_12
+  - first:
+      213: 21300064
+    second: ears_male_big_dark2_sh_l_0
+  - first:
+      213: 21300066
+    second: ears_male_big_dark2_sh_l_1
+  - first:
+      213: 21300068
+    second: ears_male_big_dark2_sh_l_2
+  - first:
+      213: 21300070
+    second: ears_male_big_dark2_sh_l_3
+  - first:
+      213: 21300072
+    second: ears_male_big_dark2_sh_l_4
+  - first:
+      213: 21300074
+    second: ears_male_big_dark2_sh_l_5
+  - first:
+      213: 21300076
+    second: ears_male_big_dark2_sh_l_6
+  - first:
+      213: 21300078
+    second: ears_male_big_dark2_sh_l_7
+  - first:
+      213: 21300080
+    second: ears_male_big_dark2_sh_l_8
+  - first:
+      213: 21300082
+    second: ears_male_big_dark2_sh_l_9
+  - first:
+      213: 21300084
+    second: ears_male_big_dark2_sh_l_10
+  - first:
+      213: 21300086
+    second: ears_male_big_dark2_sh_l_11
+  - first:
+      213: 21300088
+    second: ears_male_big_dark2_sh_l_12
+  - first:
+      213: 21300090
+    second: ears_male_big_dark2_sh_t_0
+  - first:
+      213: 21300092
+    second: ears_male_big_dark2_sh_t_1
+  - first:
+      213: 21300094
+    second: ears_male_big_dark2_sh_t_2
+  - first:
+      213: 21300096
+    second: ears_male_big_dark2_sh_t_3
+  - first:
+      213: 21300098
+    second: ears_male_big_dark2_sh_t_4
+  - first:
+      213: 21300100
+    second: ears_male_big_dark2_sh_t_5
+  - first:
+      213: 21300102
+    second: ears_male_big_dark2_sh_t_6
+  - first:
+      213: 21300104
+    second: ears_male_big_dark2_sh_t_7
+  - first:
+      213: 21300106
+    second: ears_male_big_dark2_sh_t_8
+  - first:
+      213: 21300108
+    second: ears_male_big_dark2_sh_t_9
+  - first:
+      213: 21300110
+    second: ears_male_big_dark2_sh_t_10
+  - first:
+      213: 21300112
+    second: ears_male_big_dark2_sh_t_11
+  - first:
+      213: 21300114
+    second: ears_male_big_dark2_sh_t_12
+  - first:
+      213: 21300116
+    second: ears_male_big_dark2_sl_r_0
+  - first:
+      213: 21300118
+    second: ears_male_big_dark2_sl_r_1
+  - first:
+      213: 21300120
+    second: ears_male_big_dark2_sl_r_2
+  - first:
+      213: 21300122
+    second: ears_male_big_dark2_sl_r_3
+  - first:
+      213: 21300124
+    second: ears_male_big_dark2_sl_r_4
+  - first:
+      213: 21300126
+    second: ears_male_big_dark2_sl_r_5
+  - first:
+      213: 21300128
+    second: ears_male_big_dark2_sl_d_0
+  - first:
+      213: 21300130
+    second: ears_male_big_dark2_sl_d_1
+  - first:
+      213: 21300132
+    second: ears_male_big_dark2_sl_d_2
+  - first:
+      213: 21300134
+    second: ears_male_big_dark2_sl_d_3
+  - first:
+      213: 21300136
+    second: ears_male_big_dark2_sl_d_4
+  - first:
+      213: 21300138
+    second: ears_male_big_dark2_sl_d_5
+  - first:
+      213: 21300140
+    second: ears_male_big_dark2_sl_l_0
+  - first:
+      213: 21300142
+    second: ears_male_big_dark2_sl_l_1
+  - first:
+      213: 21300144
+    second: ears_male_big_dark2_sl_l_2
+  - first:
+      213: 21300146
+    second: ears_male_big_dark2_sl_l_3
+  - first:
+      213: 21300148
+    second: ears_male_big_dark2_sl_l_4
+  - first:
+      213: 21300150
+    second: ears_male_big_dark2_sl_l_5
+  - first:
+      213: 21300152
+    second: ears_male_big_dark2_sl_t_0
+  - first:
+      213: 21300154
+    second: ears_male_big_dark2_sl_t_1
+  - first:
+      213: 21300156
+    second: ears_male_big_dark2_sl_t_2
+  - first:
+      213: 21300158
+    second: ears_male_big_dark2_sl_t_3
+  - first:
+      213: 21300160
+    second: ears_male_big_dark2_sl_t_4
+  - first:
+      213: 21300162
+    second: ears_male_big_dark2_sl_t_5
+  - first:
+      213: 21300164
+    second: ears_male_big_dark2_wc_r_0
+  - first:
+      213: 21300166
+    second: ears_male_big_dark2_wc_r_1
+  - first:
+      213: 21300168
+    second: ears_male_big_dark2_wc_r_2
+  - first:
+      213: 21300170
+    second: ears_male_big_dark2_wc_r_3
+  - first:
+      213: 21300172
+    second: ears_male_big_dark2_wc_r_4
+  - first:
+      213: 21300174
+    second: ears_male_big_dark2_wc_r_5
+  - first:
+      213: 21300176
+    second: ears_male_big_dark2_wc_r_6
+  - first:
+      213: 21300178
+    second: ears_male_big_dark2_wc_r_7
+  - first:
+      213: 21300180
+    second: ears_male_big_dark2_wc_r_8
+  - first:
+      213: 21300182
+    second: ears_male_big_dark2_wc_d_0
+  - first:
+      213: 21300184
+    second: ears_male_big_dark2_wc_d_1
+  - first:
+      213: 21300186
+    second: ears_male_big_dark2_wc_d_2
+  - first:
+      213: 21300188
+    second: ears_male_big_dark2_wc_d_3
+  - first:
+      213: 21300190
+    second: ears_male_big_dark2_wc_d_4
+  - first:
+      213: 21300192
+    second: ears_male_big_dark2_wc_d_5
+  - first:
+      213: 21300194
+    second: ears_male_big_dark2_wc_d_6
+  - first:
+      213: 21300196
+    second: ears_male_big_dark2_wc_d_7
+  - first:
+      213: 21300198
+    second: ears_male_big_dark2_wc_d_8
+  - first:
+      213: 21300200
+    second: ears_male_big_dark2_wc_l_0
+  - first:
+      213: 21300202
+    second: ears_male_big_dark2_wc_l_1
+  - first:
+      213: 21300204
+    second: ears_male_big_dark2_wc_l_2
+  - first:
+      213: 21300206
+    second: ears_male_big_dark2_wc_l_3
+  - first:
+      213: 21300208
+    second: ears_male_big_dark2_wc_l_4
+  - first:
+      213: 21300210
+    second: ears_male_big_dark2_wc_l_5
+  - first:
+      213: 21300212
+    second: ears_male_big_dark2_wc_l_6
+  - first:
+      213: 21300214
+    second: ears_male_big_dark2_wc_l_7
+  - first:
+      213: 21300216
+    second: ears_male_big_dark2_wc_l_8
+  - first:
+      213: 21300218
+    second: ears_male_big_dark2_wc_t_0
+  - first:
+      213: 21300220
+    second: ears_male_big_dark2_wc_t_1
+  - first:
+      213: 21300222
+    second: ears_male_big_dark2_wc_t_2
+  - first:
+      213: 21300224
+    second: ears_male_big_dark2_wc_t_3
+  - first:
+      213: 21300226
+    second: ears_male_big_dark2_wc_t_4
+  - first:
+      213: 21300228
+    second: ears_male_big_dark2_wc_t_5
+  - first:
+      213: 21300230
+    second: ears_male_big_dark2_wc_t_6
+  - first:
+      213: 21300232
+    second: ears_male_big_dark2_wc_t_7
+  - first:
+      213: 21300234
+    second: ears_male_big_dark2_wc_t_8
+  - first:
+      213: 21300236
+    second: ears_male_big_dark2_th_r_0
+  - first:
+      213: 21300238
+    second: ears_male_big_dark2_th_r_1
+  - first:
+      213: 21300240
+    second: ears_male_big_dark2_th_r_2
+  - first:
+      213: 21300242
+    second: ears_male_big_dark2_th_r_3
+  - first:
+      213: 21300244
+    second: ears_male_big_dark2_th_r_4
+  - first:
+      213: 21300246
+    second: ears_male_big_dark2_th_r_5
+  - first:
+      213: 21300248
+    second: ears_male_big_dark2_th_r_6
+  - first:
+      213: 21300250
+    second: ears_male_big_dark2_th_r_7
+  - first:
+      213: 21300252
+    second: ears_male_big_dark2_th_d_0
+  - first:
+      213: 21300254
+    second: ears_male_big_dark2_th_d_1
+  - first:
+      213: 21300256
+    second: ears_male_big_dark2_th_d_2
+  - first:
+      213: 21300258
+    second: ears_male_big_dark2_th_d_3
+  - first:
+      213: 21300260
+    second: ears_male_big_dark2_th_d_4
+  - first:
+      213: 21300262
+    second: ears_male_big_dark2_th_d_5
+  - first:
+      213: 21300264
+    second: ears_male_big_dark2_th_d_6
+  - first:
+      213: 21300266
+    second: ears_male_big_dark2_th_d_7
+  - first:
+      213: 21300268
+    second: ears_male_big_dark2_th_l_0
+  - first:
+      213: 21300270
+    second: ears_male_big_dark2_th_l_1
+  - first:
+      213: 21300272
+    second: ears_male_big_dark2_th_l_2
+  - first:
+      213: 21300274
+    second: ears_male_big_dark2_th_l_3
+  - first:
+      213: 21300276
+    second: ears_male_big_dark2_th_l_4
+  - first:
+      213: 21300278
+    second: ears_male_big_dark2_th_l_5
+  - first:
+      213: 21300280
+    second: ears_male_big_dark2_th_l_6
+  - first:
+      213: 21300282
+    second: ears_male_big_dark2_th_l_7
+  - first:
+      213: 21300284
+    second: ears_male_big_dark2_th_t_0
+  - first:
+      213: 21300286
+    second: ears_male_big_dark2_th_t_1
+  - first:
+      213: 21300288
+    second: ears_male_big_dark2_th_t_2
+  - first:
+      213: 21300290
+    second: ears_male_big_dark2_th_t_3
+  - first:
+      213: 21300292
+    second: ears_male_big_dark2_th_t_4
+  - first:
+      213: 21300294
+    second: ears_male_big_dark2_th_t_5
+  - first:
+      213: 21300296
+    second: ears_male_big_dark2_th_t_6
+  - first:
+      213: 21300298
+    second: ears_male_big_dark2_th_t_7
+  - first:
+      213: 21300300
+    second: ears_male_big_dark2_sc_r_0
+  - first:
+      213: 21300302
+    second: ears_male_big_dark2_sc_r_1
+  - first:
+      213: 21300304
+    second: ears_male_big_dark2_sc_r_2
+  - first:
+      213: 21300306
+    second: ears_male_big_dark2_sc_r_3
+  - first:
+      213: 21300308
+    second: ears_male_big_dark2_sc_r_4
+  - first:
+      213: 21300310
+    second: ears_male_big_dark2_sc_r_5
+  - first:
+      213: 21300312
+    second: ears_male_big_dark2_sc_r_6
+  - first:
+      213: 21300314
+    second: ears_male_big_dark2_sc_d_0
+  - first:
+      213: 21300316
+    second: ears_male_big_dark2_sc_d_1
+  - first:
+      213: 21300318
+    second: ears_male_big_dark2_sc_d_2
+  - first:
+      213: 21300320
+    second: ears_male_big_dark2_sc_d_3
+  - first:
+      213: 21300322
+    second: ears_male_big_dark2_sc_d_4
+  - first:
+      213: 21300324
+    second: ears_male_big_dark2_sc_d_5
+  - first:
+      213: 21300326
+    second: ears_male_big_dark2_sc_d_6
+  - first:
+      213: 21300328
+    second: ears_male_big_dark2_sc_l_0
+  - first:
+      213: 21300330
+    second: ears_male_big_dark2_sc_l_1
+  - first:
+      213: 21300332
+    second: ears_male_big_dark2_sc_l_2
+  - first:
+      213: 21300334
+    second: ears_male_big_dark2_sc_l_3
+  - first:
+      213: 21300336
+    second: ears_male_big_dark2_sc_l_4
+  - first:
+      213: 21300338
+    second: ears_male_big_dark2_sc_l_5
+  - first:
+      213: 21300340
+    second: ears_male_big_dark2_sc_l_6
+  - first:
+      213: 21300342
+    second: ears_male_big_dark2_sc_t_0
+  - first:
+      213: 21300344
+    second: ears_male_big_dark2_sc_t_1
+  - first:
+      213: 21300346
+    second: ears_male_big_dark2_sc_t_2
+  - first:
+      213: 21300348
+    second: ears_male_big_dark2_sc_t_3
+  - first:
+      213: 21300350
+    second: ears_male_big_dark2_sc_t_4
+  - first:
+      213: 21300352
+    second: ears_male_big_dark2_sc_t_5
+  - first:
+      213: 21300354
+    second: ears_male_big_dark2_sc_t_6
   externalObjects: {}
-  serializedVersion: 4
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -200,7 +554,12 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
+    flipGreenChannel: 0
   isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -210,8 +569,8 @@ TextureImporter:
   textureSettings:
     serializedVersion: 2
     filterMode: 0
-    aniso: -1
-    mipBias: -1
+    aniso: 1
+    mipBias: 0
     wrapU: 1
     wrapV: 1
     wrapW: 1
@@ -231,11 +590,19 @@ TextureImporter:
   spriteTessellationDetail: -1
   textureType: 8
   textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
   platformSettings:
-  - buildTarget: DefaultTexturePlatform
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -244,7 +611,22 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -262,6 +644,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: ears_male_big_dark2_hu_1
       rect:
@@ -276,6 +665,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: ears_male_big_dark2_hu_2
       rect:
@@ -290,6 +686,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: ears_male_big_dark2_hu_3
       rect:
@@ -304,6 +707,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: ears_male_big_dark2_hu_4
       rect:
@@ -318,6 +728,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: ears_male_big_dark2_hu_5
       rect:
@@ -332,6 +749,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: ears_male_big_dark2_sh_r_0
       rect:
@@ -346,6 +770,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: ears_male_big_dark2_sh_r_1
       rect:
@@ -360,6 +791,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: ears_male_big_dark2_sh_r_2
       rect:
@@ -374,6 +812,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: ears_male_big_dark2_sh_r_3
       rect:
@@ -388,6 +833,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: ears_male_big_dark2_sh_r_4
       rect:
@@ -402,6 +854,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: ears_male_big_dark2_sh_r_5
       rect:
@@ -416,6 +875,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: ears_male_big_dark2_sh_r_6
       rect:
@@ -430,6 +896,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: ears_male_big_dark2_sh_r_7
       rect:
@@ -444,6 +917,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: ears_male_big_dark2_sh_r_8
       rect:
@@ -458,6 +938,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: ears_male_big_dark2_sh_r_9
       rect:
@@ -472,6 +959,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: ears_male_big_dark2_sh_r_10
       rect:
@@ -486,6 +980,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: ears_male_big_dark2_sh_r_11
       rect:
@@ -500,6 +1001,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: ears_male_big_dark2_sh_r_12
       rect:
@@ -514,6 +1022,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: ears_male_big_dark2_sh_d_0
       rect:
@@ -528,6 +1043,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: ears_male_big_dark2_sh_d_1
       rect:
@@ -542,6 +1064,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: ears_male_big_dark2_sh_d_2
       rect:
@@ -556,6 +1085,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: ears_male_big_dark2_sh_d_3
       rect:
@@ -570,6 +1106,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: ears_male_big_dark2_sh_d_4
       rect:
@@ -584,6 +1127,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: ears_male_big_dark2_sh_d_5
       rect:
@@ -598,6 +1148,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: ears_male_big_dark2_sh_d_6
       rect:
@@ -612,6 +1169,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: ears_male_big_dark2_sh_d_7
       rect:
@@ -626,6 +1190,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: ears_male_big_dark2_sh_d_8
       rect:
@@ -640,6 +1211,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: ears_male_big_dark2_sh_d_9
       rect:
@@ -654,6 +1232,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: ears_male_big_dark2_sh_d_10
       rect:
@@ -668,6 +1253,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: ears_male_big_dark2_sh_d_11
       rect:
@@ -682,6 +1274,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: ears_male_big_dark2_sh_d_12
       rect:
@@ -696,6 +1295,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: ears_male_big_dark2_sh_l_0
       rect:
@@ -710,6 +1316,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: ears_male_big_dark2_sh_l_1
       rect:
@@ -724,6 +1337,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: ears_male_big_dark2_sh_l_2
       rect:
@@ -738,6 +1358,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: ears_male_big_dark2_sh_l_3
       rect:
@@ -752,6 +1379,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: ears_male_big_dark2_sh_l_4
       rect:
@@ -766,6 +1400,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: ears_male_big_dark2_sh_l_5
       rect:
@@ -780,6 +1421,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: ears_male_big_dark2_sh_l_6
       rect:
@@ -794,6 +1442,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: ears_male_big_dark2_sh_l_7
       rect:
@@ -808,6 +1463,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: ears_male_big_dark2_sh_l_8
       rect:
@@ -822,6 +1484,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: ears_male_big_dark2_sh_l_9
       rect:
@@ -836,6 +1505,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: ears_male_big_dark2_sh_l_10
       rect:
@@ -850,6 +1526,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: ears_male_big_dark2_sh_l_11
       rect:
@@ -864,6 +1547,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: ears_male_big_dark2_sh_l_12
       rect:
@@ -878,6 +1568,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: ears_male_big_dark2_sh_t_0
       rect:
@@ -892,6 +1589,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: ears_male_big_dark2_sh_t_1
       rect:
@@ -906,6 +1610,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: ears_male_big_dark2_sh_t_2
       rect:
@@ -920,6 +1631,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: ears_male_big_dark2_sh_t_3
       rect:
@@ -934,6 +1652,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: ears_male_big_dark2_sh_t_4
       rect:
@@ -948,6 +1673,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: ears_male_big_dark2_sh_t_5
       rect:
@@ -962,6 +1694,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: ears_male_big_dark2_sh_t_6
       rect:
@@ -976,6 +1715,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: ears_male_big_dark2_sh_t_7
       rect:
@@ -990,6 +1736,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: ears_male_big_dark2_sh_t_8
       rect:
@@ -1004,6 +1757,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: ears_male_big_dark2_sh_t_9
       rect:
@@ -1018,6 +1778,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: ears_male_big_dark2_sh_t_10
       rect:
@@ -1032,6 +1799,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: ears_male_big_dark2_sh_t_11
       rect:
@@ -1046,6 +1820,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: ears_male_big_dark2_sh_t_12
       rect:
@@ -1060,6 +1841,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: ears_male_big_dark2_sl_r_0
       rect:
@@ -1074,6 +1862,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: ears_male_big_dark2_sl_r_1
       rect:
@@ -1088,6 +1883,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: ears_male_big_dark2_sl_r_2
       rect:
@@ -1102,6 +1904,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: ears_male_big_dark2_sl_r_3
       rect:
@@ -1116,6 +1925,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: ears_male_big_dark2_sl_r_4
       rect:
@@ -1130,6 +1946,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: ears_male_big_dark2_sl_r_5
       rect:
@@ -1144,6 +1967,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: ears_male_big_dark2_sl_d_0
       rect:
@@ -1158,6 +1988,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: ears_male_big_dark2_sl_d_1
       rect:
@@ -1172,6 +2009,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: ears_male_big_dark2_sl_d_2
       rect:
@@ -1186,6 +2030,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: ears_male_big_dark2_sl_d_3
       rect:
@@ -1200,6 +2051,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: ears_male_big_dark2_sl_d_4
       rect:
@@ -1214,6 +2072,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: ears_male_big_dark2_sl_d_5
       rect:
@@ -1228,6 +2093,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: ears_male_big_dark2_sl_l_0
       rect:
@@ -1242,6 +2114,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: ears_male_big_dark2_sl_l_1
       rect:
@@ -1256,6 +2135,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: ears_male_big_dark2_sl_l_2
       rect:
@@ -1270,6 +2156,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: ears_male_big_dark2_sl_l_3
       rect:
@@ -1284,6 +2177,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: ears_male_big_dark2_sl_l_4
       rect:
@@ -1298,6 +2198,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: ears_male_big_dark2_sl_l_5
       rect:
@@ -1312,6 +2219,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: ears_male_big_dark2_sl_t_0
       rect:
@@ -1326,6 +2240,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: ears_male_big_dark2_sl_t_1
       rect:
@@ -1340,6 +2261,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: ears_male_big_dark2_sl_t_2
       rect:
@@ -1354,6 +2282,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: ears_male_big_dark2_sl_t_3
       rect:
@@ -1368,6 +2303,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: ears_male_big_dark2_sl_t_4
       rect:
@@ -1382,6 +2324,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: ears_male_big_dark2_sl_t_5
       rect:
@@ -1396,6 +2345,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: ears_male_big_dark2_wc_r_0
       rect:
@@ -1410,6 +2366,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: ears_male_big_dark2_wc_r_1
       rect:
@@ -1424,6 +2387,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: ears_male_big_dark2_wc_r_2
       rect:
@@ -1438,6 +2408,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: ears_male_big_dark2_wc_r_3
       rect:
@@ -1452,6 +2429,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: ears_male_big_dark2_wc_r_4
       rect:
@@ -1466,6 +2450,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: ears_male_big_dark2_wc_r_5
       rect:
@@ -1480,6 +2471,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: ears_male_big_dark2_wc_r_6
       rect:
@@ -1494,6 +2492,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: ears_male_big_dark2_wc_r_7
       rect:
@@ -1508,6 +2513,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: ears_male_big_dark2_wc_r_8
       rect:
@@ -1522,6 +2534,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: ears_male_big_dark2_wc_d_0
       rect:
@@ -1536,6 +2555,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: ears_male_big_dark2_wc_d_1
       rect:
@@ -1550,6 +2576,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: ears_male_big_dark2_wc_d_2
       rect:
@@ -1564,6 +2597,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: ears_male_big_dark2_wc_d_3
       rect:
@@ -1578,6 +2618,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: ears_male_big_dark2_wc_d_4
       rect:
@@ -1592,6 +2639,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: ears_male_big_dark2_wc_d_5
       rect:
@@ -1606,6 +2660,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: ears_male_big_dark2_wc_d_6
       rect:
@@ -1620,6 +2681,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: ears_male_big_dark2_wc_d_7
       rect:
@@ -1634,6 +2702,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: ears_male_big_dark2_wc_d_8
       rect:
@@ -1648,6 +2723,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: ears_male_big_dark2_wc_l_0
       rect:
@@ -1662,6 +2744,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: ears_male_big_dark2_wc_l_1
       rect:
@@ -1676,6 +2765,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: ears_male_big_dark2_wc_l_2
       rect:
@@ -1690,6 +2786,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: ears_male_big_dark2_wc_l_3
       rect:
@@ -1704,6 +2807,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: ears_male_big_dark2_wc_l_4
       rect:
@@ -1718,6 +2828,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: ears_male_big_dark2_wc_l_5
       rect:
@@ -1732,6 +2849,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: ears_male_big_dark2_wc_l_6
       rect:
@@ -1746,6 +2870,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: ears_male_big_dark2_wc_l_7
       rect:
@@ -1760,6 +2891,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: ears_male_big_dark2_wc_l_8
       rect:
@@ -1774,6 +2912,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: ears_male_big_dark2_wc_t_0
       rect:
@@ -1788,6 +2933,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: ears_male_big_dark2_wc_t_1
       rect:
@@ -1802,6 +2954,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: ears_male_big_dark2_wc_t_2
       rect:
@@ -1816,6 +2975,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: ears_male_big_dark2_wc_t_3
       rect:
@@ -1830,6 +2996,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: ears_male_big_dark2_wc_t_4
       rect:
@@ -1844,6 +3017,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: ears_male_big_dark2_wc_t_5
       rect:
@@ -1858,6 +3038,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: ears_male_big_dark2_wc_t_6
       rect:
@@ -1872,6 +3059,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: ears_male_big_dark2_wc_t_7
       rect:
@@ -1886,6 +3080,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: ears_male_big_dark2_wc_t_8
       rect:
@@ -1900,6 +3101,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: ears_male_big_dark2_th_r_0
       rect:
@@ -1914,6 +3122,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: ears_male_big_dark2_th_r_1
       rect:
@@ -1928,6 +3143,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: ears_male_big_dark2_th_r_2
       rect:
@@ -1942,6 +3164,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: ears_male_big_dark2_th_r_3
       rect:
@@ -1956,6 +3185,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: ears_male_big_dark2_th_r_4
       rect:
@@ -1970,6 +3206,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: ears_male_big_dark2_th_r_5
       rect:
@@ -1984,6 +3227,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: ears_male_big_dark2_th_r_6
       rect:
@@ -1998,6 +3248,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: ears_male_big_dark2_th_r_7
       rect:
@@ -2012,6 +3269,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: ears_male_big_dark2_th_d_0
       rect:
@@ -2026,6 +3290,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: ears_male_big_dark2_th_d_1
       rect:
@@ -2040,6 +3311,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: ears_male_big_dark2_th_d_2
       rect:
@@ -2054,6 +3332,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: ears_male_big_dark2_th_d_3
       rect:
@@ -2068,6 +3353,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: ears_male_big_dark2_th_d_4
       rect:
@@ -2082,6 +3374,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: ears_male_big_dark2_th_d_5
       rect:
@@ -2096,6 +3395,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: ears_male_big_dark2_th_d_6
       rect:
@@ -2110,6 +3416,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: ears_male_big_dark2_th_d_7
       rect:
@@ -2124,6 +3437,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: ears_male_big_dark2_th_l_0
       rect:
@@ -2138,6 +3458,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: ears_male_big_dark2_th_l_1
       rect:
@@ -2152,6 +3479,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: ears_male_big_dark2_th_l_2
       rect:
@@ -2166,6 +3500,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: ears_male_big_dark2_th_l_3
       rect:
@@ -2180,6 +3521,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: ears_male_big_dark2_th_l_4
       rect:
@@ -2194,6 +3542,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: ears_male_big_dark2_th_l_5
       rect:
@@ -2208,6 +3563,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: ears_male_big_dark2_th_l_6
       rect:
@@ -2222,6 +3584,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: ears_male_big_dark2_th_l_7
       rect:
@@ -2236,6 +3605,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: ears_male_big_dark2_th_t_0
       rect:
@@ -2250,6 +3626,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: ears_male_big_dark2_th_t_1
       rect:
@@ -2264,6 +3647,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: ears_male_big_dark2_th_t_2
       rect:
@@ -2278,6 +3668,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: ears_male_big_dark2_th_t_3
       rect:
@@ -2292,6 +3689,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: ears_male_big_dark2_th_t_4
       rect:
@@ -2306,6 +3710,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: ears_male_big_dark2_th_t_5
       rect:
@@ -2320,6 +3731,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: ears_male_big_dark2_th_t_6
       rect:
@@ -2334,6 +3752,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: ears_male_big_dark2_th_t_7
       rect:
@@ -2348,6 +3773,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: ears_male_big_dark2_sc_r_0
       rect:
@@ -2362,6 +3794,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: ears_male_big_dark2_sc_r_1
       rect:
@@ -2376,6 +3815,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: ears_male_big_dark2_sc_r_2
       rect:
@@ -2390,6 +3836,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: ears_male_big_dark2_sc_r_3
       rect:
@@ -2404,6 +3857,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: ears_male_big_dark2_sc_r_4
       rect:
@@ -2418,6 +3878,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: ears_male_big_dark2_sc_r_5
       rect:
@@ -2432,6 +3899,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: ears_male_big_dark2_sc_r_6
       rect:
@@ -2446,6 +3920,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: ears_male_big_dark2_sc_d_0
       rect:
@@ -2460,6 +3941,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: ears_male_big_dark2_sc_d_1
       rect:
@@ -2474,6 +3962,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: ears_male_big_dark2_sc_d_2
       rect:
@@ -2488,6 +3983,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: ears_male_big_dark2_sc_d_3
       rect:
@@ -2502,6 +4004,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: ears_male_big_dark2_sc_d_4
       rect:
@@ -2516,6 +4025,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: ears_male_big_dark2_sc_d_5
       rect:
@@ -2530,6 +4046,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: ears_male_big_dark2_sc_d_6
       rect:
@@ -2544,6 +4067,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: ears_male_big_dark2_sc_l_0
       rect:
@@ -2558,6 +4088,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: ears_male_big_dark2_sc_l_1
       rect:
@@ -2572,6 +4109,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: ears_male_big_dark2_sc_l_2
       rect:
@@ -2586,6 +4130,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: ears_male_big_dark2_sc_l_3
       rect:
@@ -2600,6 +4151,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: ears_male_big_dark2_sc_l_4
       rect:
@@ -2614,6 +4172,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: ears_male_big_dark2_sc_l_5
       rect:
@@ -2628,6 +4193,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: ears_male_big_dark2_sc_l_6
       rect:
@@ -2642,6 +4214,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: ears_male_big_dark2_sc_t_0
       rect:
@@ -2656,6 +4235,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: ears_male_big_dark2_sc_t_1
       rect:
@@ -2670,6 +4256,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: ears_male_big_dark2_sc_t_2
       rect:
@@ -2684,6 +4277,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: ears_male_big_dark2_sc_t_3
       rect:
@@ -2698,6 +4298,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: ears_male_big_dark2_sc_t_4
       rect:
@@ -2712,6 +4319,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: ears_male_big_dark2_sc_t_5
       rect:
@@ -2726,6 +4340,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: ears_male_big_dark2_sc_t_6
       rect:
@@ -2740,9 +4361,204 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
-  spritePackingTag: character
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      ears_male_big_dark2_hu_0: 21300000
+      ears_male_big_dark2_hu_1: 21300002
+      ears_male_big_dark2_hu_2: 21300004
+      ears_male_big_dark2_hu_3: 21300006
+      ears_male_big_dark2_hu_4: 21300008
+      ears_male_big_dark2_hu_5: 21300010
+      ears_male_big_dark2_sc_d_0: 21300314
+      ears_male_big_dark2_sc_d_1: 21300316
+      ears_male_big_dark2_sc_d_2: 21300318
+      ears_male_big_dark2_sc_d_3: 21300320
+      ears_male_big_dark2_sc_d_4: 21300322
+      ears_male_big_dark2_sc_d_5: 21300324
+      ears_male_big_dark2_sc_d_6: 21300326
+      ears_male_big_dark2_sc_l_0: 21300328
+      ears_male_big_dark2_sc_l_1: 21300330
+      ears_male_big_dark2_sc_l_2: 21300332
+      ears_male_big_dark2_sc_l_3: 21300334
+      ears_male_big_dark2_sc_l_4: 21300336
+      ears_male_big_dark2_sc_l_5: 21300338
+      ears_male_big_dark2_sc_l_6: 21300340
+      ears_male_big_dark2_sc_r_0: 21300300
+      ears_male_big_dark2_sc_r_1: 21300302
+      ears_male_big_dark2_sc_r_2: 21300304
+      ears_male_big_dark2_sc_r_3: 21300306
+      ears_male_big_dark2_sc_r_4: 21300308
+      ears_male_big_dark2_sc_r_5: 21300310
+      ears_male_big_dark2_sc_r_6: 21300312
+      ears_male_big_dark2_sc_t_0: 21300342
+      ears_male_big_dark2_sc_t_1: 21300344
+      ears_male_big_dark2_sc_t_2: 21300346
+      ears_male_big_dark2_sc_t_3: 21300348
+      ears_male_big_dark2_sc_t_4: 21300350
+      ears_male_big_dark2_sc_t_5: 21300352
+      ears_male_big_dark2_sc_t_6: 21300354
+      ears_male_big_dark2_sh_d_0: 21300038
+      ears_male_big_dark2_sh_d_1: 21300040
+      ears_male_big_dark2_sh_d_10: 21300058
+      ears_male_big_dark2_sh_d_11: 21300060
+      ears_male_big_dark2_sh_d_12: 21300062
+      ears_male_big_dark2_sh_d_2: 21300042
+      ears_male_big_dark2_sh_d_3: 21300044
+      ears_male_big_dark2_sh_d_4: 21300046
+      ears_male_big_dark2_sh_d_5: 21300048
+      ears_male_big_dark2_sh_d_6: 21300050
+      ears_male_big_dark2_sh_d_7: 21300052
+      ears_male_big_dark2_sh_d_8: 21300054
+      ears_male_big_dark2_sh_d_9: 21300056
+      ears_male_big_dark2_sh_l_0: 21300064
+      ears_male_big_dark2_sh_l_1: 21300066
+      ears_male_big_dark2_sh_l_10: 21300084
+      ears_male_big_dark2_sh_l_11: 21300086
+      ears_male_big_dark2_sh_l_12: 21300088
+      ears_male_big_dark2_sh_l_2: 21300068
+      ears_male_big_dark2_sh_l_3: 21300070
+      ears_male_big_dark2_sh_l_4: 21300072
+      ears_male_big_dark2_sh_l_5: 21300074
+      ears_male_big_dark2_sh_l_6: 21300076
+      ears_male_big_dark2_sh_l_7: 21300078
+      ears_male_big_dark2_sh_l_8: 21300080
+      ears_male_big_dark2_sh_l_9: 21300082
+      ears_male_big_dark2_sh_r_0: 21300012
+      ears_male_big_dark2_sh_r_1: 21300014
+      ears_male_big_dark2_sh_r_10: 21300032
+      ears_male_big_dark2_sh_r_11: 21300034
+      ears_male_big_dark2_sh_r_12: 21300036
+      ears_male_big_dark2_sh_r_2: 21300016
+      ears_male_big_dark2_sh_r_3: 21300018
+      ears_male_big_dark2_sh_r_4: 21300020
+      ears_male_big_dark2_sh_r_5: 21300022
+      ears_male_big_dark2_sh_r_6: 21300024
+      ears_male_big_dark2_sh_r_7: 21300026
+      ears_male_big_dark2_sh_r_8: 21300028
+      ears_male_big_dark2_sh_r_9: 21300030
+      ears_male_big_dark2_sh_t_0: 21300090
+      ears_male_big_dark2_sh_t_1: 21300092
+      ears_male_big_dark2_sh_t_10: 21300110
+      ears_male_big_dark2_sh_t_11: 21300112
+      ears_male_big_dark2_sh_t_12: 21300114
+      ears_male_big_dark2_sh_t_2: 21300094
+      ears_male_big_dark2_sh_t_3: 21300096
+      ears_male_big_dark2_sh_t_4: 21300098
+      ears_male_big_dark2_sh_t_5: 21300100
+      ears_male_big_dark2_sh_t_6: 21300102
+      ears_male_big_dark2_sh_t_7: 21300104
+      ears_male_big_dark2_sh_t_8: 21300106
+      ears_male_big_dark2_sh_t_9: 21300108
+      ears_male_big_dark2_sl_d_0: 21300128
+      ears_male_big_dark2_sl_d_1: 21300130
+      ears_male_big_dark2_sl_d_2: 21300132
+      ears_male_big_dark2_sl_d_3: 21300134
+      ears_male_big_dark2_sl_d_4: 21300136
+      ears_male_big_dark2_sl_d_5: 21300138
+      ears_male_big_dark2_sl_l_0: 21300140
+      ears_male_big_dark2_sl_l_1: 21300142
+      ears_male_big_dark2_sl_l_2: 21300144
+      ears_male_big_dark2_sl_l_3: 21300146
+      ears_male_big_dark2_sl_l_4: 21300148
+      ears_male_big_dark2_sl_l_5: 21300150
+      ears_male_big_dark2_sl_r_0: 21300116
+      ears_male_big_dark2_sl_r_1: 21300118
+      ears_male_big_dark2_sl_r_2: 21300120
+      ears_male_big_dark2_sl_r_3: 21300122
+      ears_male_big_dark2_sl_r_4: 21300124
+      ears_male_big_dark2_sl_r_5: 21300126
+      ears_male_big_dark2_sl_t_0: 21300152
+      ears_male_big_dark2_sl_t_1: 21300154
+      ears_male_big_dark2_sl_t_2: 21300156
+      ears_male_big_dark2_sl_t_3: 21300158
+      ears_male_big_dark2_sl_t_4: 21300160
+      ears_male_big_dark2_sl_t_5: 21300162
+      ears_male_big_dark2_th_d_0: 21300252
+      ears_male_big_dark2_th_d_1: 21300254
+      ears_male_big_dark2_th_d_2: 21300256
+      ears_male_big_dark2_th_d_3: 21300258
+      ears_male_big_dark2_th_d_4: 21300260
+      ears_male_big_dark2_th_d_5: 21300262
+      ears_male_big_dark2_th_d_6: 21300264
+      ears_male_big_dark2_th_d_7: 21300266
+      ears_male_big_dark2_th_l_0: 21300268
+      ears_male_big_dark2_th_l_1: 21300270
+      ears_male_big_dark2_th_l_2: 21300272
+      ears_male_big_dark2_th_l_3: 21300274
+      ears_male_big_dark2_th_l_4: 21300276
+      ears_male_big_dark2_th_l_5: 21300278
+      ears_male_big_dark2_th_l_6: 21300280
+      ears_male_big_dark2_th_l_7: 21300282
+      ears_male_big_dark2_th_r_0: 21300236
+      ears_male_big_dark2_th_r_1: 21300238
+      ears_male_big_dark2_th_r_2: 21300240
+      ears_male_big_dark2_th_r_3: 21300242
+      ears_male_big_dark2_th_r_4: 21300244
+      ears_male_big_dark2_th_r_5: 21300246
+      ears_male_big_dark2_th_r_6: 21300248
+      ears_male_big_dark2_th_r_7: 21300250
+      ears_male_big_dark2_th_t_0: 21300284
+      ears_male_big_dark2_th_t_1: 21300286
+      ears_male_big_dark2_th_t_2: 21300288
+      ears_male_big_dark2_th_t_3: 21300290
+      ears_male_big_dark2_th_t_4: 21300292
+      ears_male_big_dark2_th_t_5: 21300294
+      ears_male_big_dark2_th_t_6: 21300296
+      ears_male_big_dark2_th_t_7: 21300298
+      ears_male_big_dark2_wc_d_0: 21300182
+      ears_male_big_dark2_wc_d_1: 21300184
+      ears_male_big_dark2_wc_d_2: 21300186
+      ears_male_big_dark2_wc_d_3: 21300188
+      ears_male_big_dark2_wc_d_4: 21300190
+      ears_male_big_dark2_wc_d_5: 21300192
+      ears_male_big_dark2_wc_d_6: 21300194
+      ears_male_big_dark2_wc_d_7: 21300196
+      ears_male_big_dark2_wc_d_8: 21300198
+      ears_male_big_dark2_wc_l_0: 21300200
+      ears_male_big_dark2_wc_l_1: 21300202
+      ears_male_big_dark2_wc_l_2: 21300204
+      ears_male_big_dark2_wc_l_3: 21300206
+      ears_male_big_dark2_wc_l_4: 21300208
+      ears_male_big_dark2_wc_l_5: 21300210
+      ears_male_big_dark2_wc_l_6: 21300212
+      ears_male_big_dark2_wc_l_7: 21300214
+      ears_male_big_dark2_wc_l_8: 21300216
+      ears_male_big_dark2_wc_r_0: 21300164
+      ears_male_big_dark2_wc_r_1: 21300166
+      ears_male_big_dark2_wc_r_2: 21300168
+      ears_male_big_dark2_wc_r_3: 21300170
+      ears_male_big_dark2_wc_r_4: 21300172
+      ears_male_big_dark2_wc_r_5: 21300174
+      ears_male_big_dark2_wc_r_6: 21300176
+      ears_male_big_dark2_wc_r_7: 21300178
+      ears_male_big_dark2_wc_r_8: 21300180
+      ears_male_big_dark2_wc_t_0: 21300218
+      ears_male_big_dark2_wc_t_1: 21300220
+      ears_male_big_dark2_wc_t_2: 21300222
+      ears_male_big_dark2_wc_t_3: 21300224
+      ears_male_big_dark2_wc_t_4: 21300226
+      ears_male_big_dark2_wc_t_5: 21300228
+      ears_male_big_dark2_wc_t_6: 21300230
+      ears_male_big_dark2_wc_t_7: 21300232
+      ears_male_big_dark2_wc_t_8: 21300234
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 

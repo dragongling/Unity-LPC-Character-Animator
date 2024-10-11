@@ -1,189 +1,543 @@
 fileFormatVersion: 2
 guid: f531d1f418778fd4b9ad2f1013fecc97
-timeCreated: 1486885339
-licenseType: Free
 TextureImporter:
-  fileIDToRecycleName:
-    21300000: chest_female_overskirt_hu_0
-    21300002: chest_female_overskirt_hu_1
-    21300004: chest_female_overskirt_hu_2
-    21300006: chest_female_overskirt_hu_3
-    21300008: chest_female_overskirt_hu_4
-    21300010: chest_female_overskirt_hu_5
-    21300012: chest_female_overskirt_sh_r_0
-    21300014: chest_female_overskirt_sh_r_1
-    21300016: chest_female_overskirt_sh_r_2
-    21300018: chest_female_overskirt_sh_r_3
-    21300020: chest_female_overskirt_sh_r_4
-    21300022: chest_female_overskirt_sh_r_5
-    21300024: chest_female_overskirt_sh_r_6
-    21300026: chest_female_overskirt_sh_r_7
-    21300028: chest_female_overskirt_sh_r_8
-    21300030: chest_female_overskirt_sh_r_9
-    21300032: chest_female_overskirt_sh_r_10
-    21300034: chest_female_overskirt_sh_r_11
-    21300036: chest_female_overskirt_sh_r_12
-    21300038: chest_female_overskirt_sh_d_0
-    21300040: chest_female_overskirt_sh_d_1
-    21300042: chest_female_overskirt_sh_d_2
-    21300044: chest_female_overskirt_sh_d_3
-    21300046: chest_female_overskirt_sh_d_4
-    21300048: chest_female_overskirt_sh_d_5
-    21300050: chest_female_overskirt_sh_d_6
-    21300052: chest_female_overskirt_sh_d_7
-    21300054: chest_female_overskirt_sh_d_8
-    21300056: chest_female_overskirt_sh_d_9
-    21300058: chest_female_overskirt_sh_d_10
-    21300060: chest_female_overskirt_sh_d_11
-    21300062: chest_female_overskirt_sh_d_12
-    21300064: chest_female_overskirt_sh_l_0
-    21300066: chest_female_overskirt_sh_l_1
-    21300068: chest_female_overskirt_sh_l_2
-    21300070: chest_female_overskirt_sh_l_3
-    21300072: chest_female_overskirt_sh_l_4
-    21300074: chest_female_overskirt_sh_l_5
-    21300076: chest_female_overskirt_sh_l_6
-    21300078: chest_female_overskirt_sh_l_7
-    21300080: chest_female_overskirt_sh_l_8
-    21300082: chest_female_overskirt_sh_l_9
-    21300084: chest_female_overskirt_sh_l_10
-    21300086: chest_female_overskirt_sh_l_11
-    21300088: chest_female_overskirt_sh_l_12
-    21300090: chest_female_overskirt_sh_t_0
-    21300092: chest_female_overskirt_sh_t_1
-    21300094: chest_female_overskirt_sh_t_2
-    21300096: chest_female_overskirt_sh_t_3
-    21300098: chest_female_overskirt_sh_t_4
-    21300100: chest_female_overskirt_sh_t_5
-    21300102: chest_female_overskirt_sh_t_6
-    21300104: chest_female_overskirt_sh_t_7
-    21300106: chest_female_overskirt_sh_t_8
-    21300108: chest_female_overskirt_sh_t_9
-    21300110: chest_female_overskirt_sh_t_10
-    21300112: chest_female_overskirt_sh_t_11
-    21300114: chest_female_overskirt_sh_t_12
-    21300116: chest_female_overskirt_sl_r_0
-    21300118: chest_female_overskirt_sl_r_1
-    21300120: chest_female_overskirt_sl_r_2
-    21300122: chest_female_overskirt_sl_r_3
-    21300124: chest_female_overskirt_sl_r_4
-    21300126: chest_female_overskirt_sl_r_5
-    21300128: chest_female_overskirt_sl_d_0
-    21300130: chest_female_overskirt_sl_d_1
-    21300132: chest_female_overskirt_sl_d_2
-    21300134: chest_female_overskirt_sl_d_3
-    21300136: chest_female_overskirt_sl_d_4
-    21300138: chest_female_overskirt_sl_d_5
-    21300140: chest_female_overskirt_sl_l_0
-    21300142: chest_female_overskirt_sl_l_1
-    21300144: chest_female_overskirt_sl_l_2
-    21300146: chest_female_overskirt_sl_l_3
-    21300148: chest_female_overskirt_sl_l_4
-    21300150: chest_female_overskirt_sl_l_5
-    21300152: chest_female_overskirt_sl_t_0
-    21300154: chest_female_overskirt_sl_t_1
-    21300156: chest_female_overskirt_sl_t_2
-    21300158: chest_female_overskirt_sl_t_3
-    21300160: chest_female_overskirt_sl_t_4
-    21300162: chest_female_overskirt_sl_t_5
-    21300164: chest_female_overskirt_wc_r_0
-    21300166: chest_female_overskirt_wc_r_1
-    21300168: chest_female_overskirt_wc_r_2
-    21300170: chest_female_overskirt_wc_r_3
-    21300172: chest_female_overskirt_wc_r_4
-    21300174: chest_female_overskirt_wc_r_5
-    21300176: chest_female_overskirt_wc_r_6
-    21300178: chest_female_overskirt_wc_r_7
-    21300180: chest_female_overskirt_wc_r_8
-    21300182: chest_female_overskirt_wc_d_0
-    21300184: chest_female_overskirt_wc_d_1
-    21300186: chest_female_overskirt_wc_d_2
-    21300188: chest_female_overskirt_wc_d_3
-    21300190: chest_female_overskirt_wc_d_4
-    21300192: chest_female_overskirt_wc_d_5
-    21300194: chest_female_overskirt_wc_d_6
-    21300196: chest_female_overskirt_wc_d_7
-    21300198: chest_female_overskirt_wc_d_8
-    21300200: chest_female_overskirt_wc_l_0
-    21300202: chest_female_overskirt_wc_l_1
-    21300204: chest_female_overskirt_wc_l_2
-    21300206: chest_female_overskirt_wc_l_3
-    21300208: chest_female_overskirt_wc_l_4
-    21300210: chest_female_overskirt_wc_l_5
-    21300212: chest_female_overskirt_wc_l_6
-    21300214: chest_female_overskirt_wc_l_7
-    21300216: chest_female_overskirt_wc_l_8
-    21300218: chest_female_overskirt_wc_t_0
-    21300220: chest_female_overskirt_wc_t_1
-    21300222: chest_female_overskirt_wc_t_2
-    21300224: chest_female_overskirt_wc_t_3
-    21300226: chest_female_overskirt_wc_t_4
-    21300228: chest_female_overskirt_wc_t_5
-    21300230: chest_female_overskirt_wc_t_6
-    21300232: chest_female_overskirt_wc_t_7
-    21300234: chest_female_overskirt_wc_t_8
-    21300236: chest_female_overskirt_th_r_0
-    21300238: chest_female_overskirt_th_r_1
-    21300240: chest_female_overskirt_th_r_2
-    21300242: chest_female_overskirt_th_r_3
-    21300244: chest_female_overskirt_th_r_4
-    21300246: chest_female_overskirt_th_r_5
-    21300248: chest_female_overskirt_th_r_6
-    21300250: chest_female_overskirt_th_r_7
-    21300252: chest_female_overskirt_th_d_0
-    21300254: chest_female_overskirt_th_d_1
-    21300256: chest_female_overskirt_th_d_2
-    21300258: chest_female_overskirt_th_d_3
-    21300260: chest_female_overskirt_th_d_4
-    21300262: chest_female_overskirt_th_d_5
-    21300264: chest_female_overskirt_th_d_6
-    21300266: chest_female_overskirt_th_d_7
-    21300268: chest_female_overskirt_th_l_0
-    21300270: chest_female_overskirt_th_l_1
-    21300272: chest_female_overskirt_th_l_2
-    21300274: chest_female_overskirt_th_l_3
-    21300276: chest_female_overskirt_th_l_4
-    21300278: chest_female_overskirt_th_l_5
-    21300280: chest_female_overskirt_th_l_6
-    21300282: chest_female_overskirt_th_l_7
-    21300284: chest_female_overskirt_th_t_0
-    21300286: chest_female_overskirt_th_t_1
-    21300288: chest_female_overskirt_th_t_2
-    21300290: chest_female_overskirt_th_t_3
-    21300292: chest_female_overskirt_th_t_4
-    21300294: chest_female_overskirt_th_t_5
-    21300296: chest_female_overskirt_th_t_6
-    21300298: chest_female_overskirt_th_t_7
-    21300300: chest_female_overskirt_sc_r_0
-    21300302: chest_female_overskirt_sc_r_1
-    21300304: chest_female_overskirt_sc_r_2
-    21300306: chest_female_overskirt_sc_r_3
-    21300308: chest_female_overskirt_sc_r_4
-    21300310: chest_female_overskirt_sc_r_5
-    21300312: chest_female_overskirt_sc_r_6
-    21300314: chest_female_overskirt_sc_d_0
-    21300316: chest_female_overskirt_sc_d_1
-    21300318: chest_female_overskirt_sc_d_2
-    21300320: chest_female_overskirt_sc_d_3
-    21300322: chest_female_overskirt_sc_d_4
-    21300324: chest_female_overskirt_sc_d_5
-    21300326: chest_female_overskirt_sc_d_6
-    21300328: chest_female_overskirt_sc_l_0
-    21300330: chest_female_overskirt_sc_l_1
-    21300332: chest_female_overskirt_sc_l_2
-    21300334: chest_female_overskirt_sc_l_3
-    21300336: chest_female_overskirt_sc_l_4
-    21300338: chest_female_overskirt_sc_l_5
-    21300340: chest_female_overskirt_sc_l_6
-    21300342: chest_female_overskirt_sc_t_0
-    21300344: chest_female_overskirt_sc_t_1
-    21300346: chest_female_overskirt_sc_t_2
-    21300348: chest_female_overskirt_sc_t_3
-    21300350: chest_female_overskirt_sc_t_4
-    21300352: chest_female_overskirt_sc_t_5
-    21300354: chest_female_overskirt_sc_t_6
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: chest_female_overskirt_hu_0
+  - first:
+      213: 21300002
+    second: chest_female_overskirt_hu_1
+  - first:
+      213: 21300004
+    second: chest_female_overskirt_hu_2
+  - first:
+      213: 21300006
+    second: chest_female_overskirt_hu_3
+  - first:
+      213: 21300008
+    second: chest_female_overskirt_hu_4
+  - first:
+      213: 21300010
+    second: chest_female_overskirt_hu_5
+  - first:
+      213: 21300012
+    second: chest_female_overskirt_sh_r_0
+  - first:
+      213: 21300014
+    second: chest_female_overskirt_sh_r_1
+  - first:
+      213: 21300016
+    second: chest_female_overskirt_sh_r_2
+  - first:
+      213: 21300018
+    second: chest_female_overskirt_sh_r_3
+  - first:
+      213: 21300020
+    second: chest_female_overskirt_sh_r_4
+  - first:
+      213: 21300022
+    second: chest_female_overskirt_sh_r_5
+  - first:
+      213: 21300024
+    second: chest_female_overskirt_sh_r_6
+  - first:
+      213: 21300026
+    second: chest_female_overskirt_sh_r_7
+  - first:
+      213: 21300028
+    second: chest_female_overskirt_sh_r_8
+  - first:
+      213: 21300030
+    second: chest_female_overskirt_sh_r_9
+  - first:
+      213: 21300032
+    second: chest_female_overskirt_sh_r_10
+  - first:
+      213: 21300034
+    second: chest_female_overskirt_sh_r_11
+  - first:
+      213: 21300036
+    second: chest_female_overskirt_sh_r_12
+  - first:
+      213: 21300038
+    second: chest_female_overskirt_sh_d_0
+  - first:
+      213: 21300040
+    second: chest_female_overskirt_sh_d_1
+  - first:
+      213: 21300042
+    second: chest_female_overskirt_sh_d_2
+  - first:
+      213: 21300044
+    second: chest_female_overskirt_sh_d_3
+  - first:
+      213: 21300046
+    second: chest_female_overskirt_sh_d_4
+  - first:
+      213: 21300048
+    second: chest_female_overskirt_sh_d_5
+  - first:
+      213: 21300050
+    second: chest_female_overskirt_sh_d_6
+  - first:
+      213: 21300052
+    second: chest_female_overskirt_sh_d_7
+  - first:
+      213: 21300054
+    second: chest_female_overskirt_sh_d_8
+  - first:
+      213: 21300056
+    second: chest_female_overskirt_sh_d_9
+  - first:
+      213: 21300058
+    second: chest_female_overskirt_sh_d_10
+  - first:
+      213: 21300060
+    second: chest_female_overskirt_sh_d_11
+  - first:
+      213: 21300062
+    second: chest_female_overskirt_sh_d_12
+  - first:
+      213: 21300064
+    second: chest_female_overskirt_sh_l_0
+  - first:
+      213: 21300066
+    second: chest_female_overskirt_sh_l_1
+  - first:
+      213: 21300068
+    second: chest_female_overskirt_sh_l_2
+  - first:
+      213: 21300070
+    second: chest_female_overskirt_sh_l_3
+  - first:
+      213: 21300072
+    second: chest_female_overskirt_sh_l_4
+  - first:
+      213: 21300074
+    second: chest_female_overskirt_sh_l_5
+  - first:
+      213: 21300076
+    second: chest_female_overskirt_sh_l_6
+  - first:
+      213: 21300078
+    second: chest_female_overskirt_sh_l_7
+  - first:
+      213: 21300080
+    second: chest_female_overskirt_sh_l_8
+  - first:
+      213: 21300082
+    second: chest_female_overskirt_sh_l_9
+  - first:
+      213: 21300084
+    second: chest_female_overskirt_sh_l_10
+  - first:
+      213: 21300086
+    second: chest_female_overskirt_sh_l_11
+  - first:
+      213: 21300088
+    second: chest_female_overskirt_sh_l_12
+  - first:
+      213: 21300090
+    second: chest_female_overskirt_sh_t_0
+  - first:
+      213: 21300092
+    second: chest_female_overskirt_sh_t_1
+  - first:
+      213: 21300094
+    second: chest_female_overskirt_sh_t_2
+  - first:
+      213: 21300096
+    second: chest_female_overskirt_sh_t_3
+  - first:
+      213: 21300098
+    second: chest_female_overskirt_sh_t_4
+  - first:
+      213: 21300100
+    second: chest_female_overskirt_sh_t_5
+  - first:
+      213: 21300102
+    second: chest_female_overskirt_sh_t_6
+  - first:
+      213: 21300104
+    second: chest_female_overskirt_sh_t_7
+  - first:
+      213: 21300106
+    second: chest_female_overskirt_sh_t_8
+  - first:
+      213: 21300108
+    second: chest_female_overskirt_sh_t_9
+  - first:
+      213: 21300110
+    second: chest_female_overskirt_sh_t_10
+  - first:
+      213: 21300112
+    second: chest_female_overskirt_sh_t_11
+  - first:
+      213: 21300114
+    second: chest_female_overskirt_sh_t_12
+  - first:
+      213: 21300116
+    second: chest_female_overskirt_sl_r_0
+  - first:
+      213: 21300118
+    second: chest_female_overskirt_sl_r_1
+  - first:
+      213: 21300120
+    second: chest_female_overskirt_sl_r_2
+  - first:
+      213: 21300122
+    second: chest_female_overskirt_sl_r_3
+  - first:
+      213: 21300124
+    second: chest_female_overskirt_sl_r_4
+  - first:
+      213: 21300126
+    second: chest_female_overskirt_sl_r_5
+  - first:
+      213: 21300128
+    second: chest_female_overskirt_sl_d_0
+  - first:
+      213: 21300130
+    second: chest_female_overskirt_sl_d_1
+  - first:
+      213: 21300132
+    second: chest_female_overskirt_sl_d_2
+  - first:
+      213: 21300134
+    second: chest_female_overskirt_sl_d_3
+  - first:
+      213: 21300136
+    second: chest_female_overskirt_sl_d_4
+  - first:
+      213: 21300138
+    second: chest_female_overskirt_sl_d_5
+  - first:
+      213: 21300140
+    second: chest_female_overskirt_sl_l_0
+  - first:
+      213: 21300142
+    second: chest_female_overskirt_sl_l_1
+  - first:
+      213: 21300144
+    second: chest_female_overskirt_sl_l_2
+  - first:
+      213: 21300146
+    second: chest_female_overskirt_sl_l_3
+  - first:
+      213: 21300148
+    second: chest_female_overskirt_sl_l_4
+  - first:
+      213: 21300150
+    second: chest_female_overskirt_sl_l_5
+  - first:
+      213: 21300152
+    second: chest_female_overskirt_sl_t_0
+  - first:
+      213: 21300154
+    second: chest_female_overskirt_sl_t_1
+  - first:
+      213: 21300156
+    second: chest_female_overskirt_sl_t_2
+  - first:
+      213: 21300158
+    second: chest_female_overskirt_sl_t_3
+  - first:
+      213: 21300160
+    second: chest_female_overskirt_sl_t_4
+  - first:
+      213: 21300162
+    second: chest_female_overskirt_sl_t_5
+  - first:
+      213: 21300164
+    second: chest_female_overskirt_wc_r_0
+  - first:
+      213: 21300166
+    second: chest_female_overskirt_wc_r_1
+  - first:
+      213: 21300168
+    second: chest_female_overskirt_wc_r_2
+  - first:
+      213: 21300170
+    second: chest_female_overskirt_wc_r_3
+  - first:
+      213: 21300172
+    second: chest_female_overskirt_wc_r_4
+  - first:
+      213: 21300174
+    second: chest_female_overskirt_wc_r_5
+  - first:
+      213: 21300176
+    second: chest_female_overskirt_wc_r_6
+  - first:
+      213: 21300178
+    second: chest_female_overskirt_wc_r_7
+  - first:
+      213: 21300180
+    second: chest_female_overskirt_wc_r_8
+  - first:
+      213: 21300182
+    second: chest_female_overskirt_wc_d_0
+  - first:
+      213: 21300184
+    second: chest_female_overskirt_wc_d_1
+  - first:
+      213: 21300186
+    second: chest_female_overskirt_wc_d_2
+  - first:
+      213: 21300188
+    second: chest_female_overskirt_wc_d_3
+  - first:
+      213: 21300190
+    second: chest_female_overskirt_wc_d_4
+  - first:
+      213: 21300192
+    second: chest_female_overskirt_wc_d_5
+  - first:
+      213: 21300194
+    second: chest_female_overskirt_wc_d_6
+  - first:
+      213: 21300196
+    second: chest_female_overskirt_wc_d_7
+  - first:
+      213: 21300198
+    second: chest_female_overskirt_wc_d_8
+  - first:
+      213: 21300200
+    second: chest_female_overskirt_wc_l_0
+  - first:
+      213: 21300202
+    second: chest_female_overskirt_wc_l_1
+  - first:
+      213: 21300204
+    second: chest_female_overskirt_wc_l_2
+  - first:
+      213: 21300206
+    second: chest_female_overskirt_wc_l_3
+  - first:
+      213: 21300208
+    second: chest_female_overskirt_wc_l_4
+  - first:
+      213: 21300210
+    second: chest_female_overskirt_wc_l_5
+  - first:
+      213: 21300212
+    second: chest_female_overskirt_wc_l_6
+  - first:
+      213: 21300214
+    second: chest_female_overskirt_wc_l_7
+  - first:
+      213: 21300216
+    second: chest_female_overskirt_wc_l_8
+  - first:
+      213: 21300218
+    second: chest_female_overskirt_wc_t_0
+  - first:
+      213: 21300220
+    second: chest_female_overskirt_wc_t_1
+  - first:
+      213: 21300222
+    second: chest_female_overskirt_wc_t_2
+  - first:
+      213: 21300224
+    second: chest_female_overskirt_wc_t_3
+  - first:
+      213: 21300226
+    second: chest_female_overskirt_wc_t_4
+  - first:
+      213: 21300228
+    second: chest_female_overskirt_wc_t_5
+  - first:
+      213: 21300230
+    second: chest_female_overskirt_wc_t_6
+  - first:
+      213: 21300232
+    second: chest_female_overskirt_wc_t_7
+  - first:
+      213: 21300234
+    second: chest_female_overskirt_wc_t_8
+  - first:
+      213: 21300236
+    second: chest_female_overskirt_th_r_0
+  - first:
+      213: 21300238
+    second: chest_female_overskirt_th_r_1
+  - first:
+      213: 21300240
+    second: chest_female_overskirt_th_r_2
+  - first:
+      213: 21300242
+    second: chest_female_overskirt_th_r_3
+  - first:
+      213: 21300244
+    second: chest_female_overskirt_th_r_4
+  - first:
+      213: 21300246
+    second: chest_female_overskirt_th_r_5
+  - first:
+      213: 21300248
+    second: chest_female_overskirt_th_r_6
+  - first:
+      213: 21300250
+    second: chest_female_overskirt_th_r_7
+  - first:
+      213: 21300252
+    second: chest_female_overskirt_th_d_0
+  - first:
+      213: 21300254
+    second: chest_female_overskirt_th_d_1
+  - first:
+      213: 21300256
+    second: chest_female_overskirt_th_d_2
+  - first:
+      213: 21300258
+    second: chest_female_overskirt_th_d_3
+  - first:
+      213: 21300260
+    second: chest_female_overskirt_th_d_4
+  - first:
+      213: 21300262
+    second: chest_female_overskirt_th_d_5
+  - first:
+      213: 21300264
+    second: chest_female_overskirt_th_d_6
+  - first:
+      213: 21300266
+    second: chest_female_overskirt_th_d_7
+  - first:
+      213: 21300268
+    second: chest_female_overskirt_th_l_0
+  - first:
+      213: 21300270
+    second: chest_female_overskirt_th_l_1
+  - first:
+      213: 21300272
+    second: chest_female_overskirt_th_l_2
+  - first:
+      213: 21300274
+    second: chest_female_overskirt_th_l_3
+  - first:
+      213: 21300276
+    second: chest_female_overskirt_th_l_4
+  - first:
+      213: 21300278
+    second: chest_female_overskirt_th_l_5
+  - first:
+      213: 21300280
+    second: chest_female_overskirt_th_l_6
+  - first:
+      213: 21300282
+    second: chest_female_overskirt_th_l_7
+  - first:
+      213: 21300284
+    second: chest_female_overskirt_th_t_0
+  - first:
+      213: 21300286
+    second: chest_female_overskirt_th_t_1
+  - first:
+      213: 21300288
+    second: chest_female_overskirt_th_t_2
+  - first:
+      213: 21300290
+    second: chest_female_overskirt_th_t_3
+  - first:
+      213: 21300292
+    second: chest_female_overskirt_th_t_4
+  - first:
+      213: 21300294
+    second: chest_female_overskirt_th_t_5
+  - first:
+      213: 21300296
+    second: chest_female_overskirt_th_t_6
+  - first:
+      213: 21300298
+    second: chest_female_overskirt_th_t_7
+  - first:
+      213: 21300300
+    second: chest_female_overskirt_sc_r_0
+  - first:
+      213: 21300302
+    second: chest_female_overskirt_sc_r_1
+  - first:
+      213: 21300304
+    second: chest_female_overskirt_sc_r_2
+  - first:
+      213: 21300306
+    second: chest_female_overskirt_sc_r_3
+  - first:
+      213: 21300308
+    second: chest_female_overskirt_sc_r_4
+  - first:
+      213: 21300310
+    second: chest_female_overskirt_sc_r_5
+  - first:
+      213: 21300312
+    second: chest_female_overskirt_sc_r_6
+  - first:
+      213: 21300314
+    second: chest_female_overskirt_sc_d_0
+  - first:
+      213: 21300316
+    second: chest_female_overskirt_sc_d_1
+  - first:
+      213: 21300318
+    second: chest_female_overskirt_sc_d_2
+  - first:
+      213: 21300320
+    second: chest_female_overskirt_sc_d_3
+  - first:
+      213: 21300322
+    second: chest_female_overskirt_sc_d_4
+  - first:
+      213: 21300324
+    second: chest_female_overskirt_sc_d_5
+  - first:
+      213: 21300326
+    second: chest_female_overskirt_sc_d_6
+  - first:
+      213: 21300328
+    second: chest_female_overskirt_sc_l_0
+  - first:
+      213: 21300330
+    second: chest_female_overskirt_sc_l_1
+  - first:
+      213: 21300332
+    second: chest_female_overskirt_sc_l_2
+  - first:
+      213: 21300334
+    second: chest_female_overskirt_sc_l_3
+  - first:
+      213: 21300336
+    second: chest_female_overskirt_sc_l_4
+  - first:
+      213: 21300338
+    second: chest_female_overskirt_sc_l_5
+  - first:
+      213: 21300340
+    second: chest_female_overskirt_sc_l_6
+  - first:
+      213: 21300342
+    second: chest_female_overskirt_sc_t_0
+  - first:
+      213: 21300344
+    second: chest_female_overskirt_sc_t_1
+  - first:
+      213: 21300346
+    second: chest_female_overskirt_sc_t_2
+  - first:
+      213: 21300348
+    second: chest_female_overskirt_sc_t_3
+  - first:
+      213: 21300350
+    second: chest_female_overskirt_sc_t_4
+  - first:
+      213: 21300352
+    second: chest_female_overskirt_sc_t_5
+  - first:
+      213: 21300354
+    second: chest_female_overskirt_sc_t_6
   externalObjects: {}
-  serializedVersion: 4
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -200,7 +554,12 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
+    flipGreenChannel: 0
   isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -210,8 +569,8 @@ TextureImporter:
   textureSettings:
     serializedVersion: 2
     filterMode: 0
-    aniso: -1
-    mipBias: -1
+    aniso: 1
+    mipBias: 0
     wrapU: 1
     wrapV: 1
     wrapW: 1
@@ -223,18 +582,27 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
   alphaIsTransparency: 1
   spriteTessellationDetail: -1
   textureType: 8
   textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
   platformSettings:
-  - buildTarget: DefaultTexturePlatform
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -243,7 +611,22 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -261,6 +644,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_overskirt_hu_1
       rect:
@@ -275,6 +665,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_overskirt_hu_2
       rect:
@@ -289,6 +686,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_overskirt_hu_3
       rect:
@@ -303,6 +707,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_overskirt_hu_4
       rect:
@@ -317,6 +728,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_overskirt_hu_5
       rect:
@@ -331,6 +749,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_overskirt_sh_r_0
       rect:
@@ -345,6 +770,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_overskirt_sh_r_1
       rect:
@@ -359,6 +791,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_overskirt_sh_r_2
       rect:
@@ -373,6 +812,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_overskirt_sh_r_3
       rect:
@@ -387,6 +833,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_overskirt_sh_r_4
       rect:
@@ -401,6 +854,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_overskirt_sh_r_5
       rect:
@@ -415,6 +875,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_overskirt_sh_r_6
       rect:
@@ -429,6 +896,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_overskirt_sh_r_7
       rect:
@@ -443,6 +917,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_overskirt_sh_r_8
       rect:
@@ -457,6 +938,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_overskirt_sh_r_9
       rect:
@@ -471,6 +959,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_overskirt_sh_r_10
       rect:
@@ -485,6 +980,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_overskirt_sh_r_11
       rect:
@@ -499,6 +1001,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_overskirt_sh_r_12
       rect:
@@ -513,6 +1022,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_overskirt_sh_d_0
       rect:
@@ -527,6 +1043,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_overskirt_sh_d_1
       rect:
@@ -541,6 +1064,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_overskirt_sh_d_2
       rect:
@@ -555,6 +1085,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_overskirt_sh_d_3
       rect:
@@ -569,6 +1106,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_overskirt_sh_d_4
       rect:
@@ -583,6 +1127,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_overskirt_sh_d_5
       rect:
@@ -597,6 +1148,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_overskirt_sh_d_6
       rect:
@@ -611,6 +1169,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_overskirt_sh_d_7
       rect:
@@ -625,6 +1190,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_overskirt_sh_d_8
       rect:
@@ -639,6 +1211,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_overskirt_sh_d_9
       rect:
@@ -653,6 +1232,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_overskirt_sh_d_10
       rect:
@@ -667,6 +1253,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_overskirt_sh_d_11
       rect:
@@ -681,6 +1274,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_overskirt_sh_d_12
       rect:
@@ -695,6 +1295,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_overskirt_sh_l_0
       rect:
@@ -709,6 +1316,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_overskirt_sh_l_1
       rect:
@@ -723,6 +1337,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_overskirt_sh_l_2
       rect:
@@ -737,6 +1358,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_overskirt_sh_l_3
       rect:
@@ -751,6 +1379,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_overskirt_sh_l_4
       rect:
@@ -765,6 +1400,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_overskirt_sh_l_5
       rect:
@@ -779,6 +1421,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_overskirt_sh_l_6
       rect:
@@ -793,6 +1442,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_overskirt_sh_l_7
       rect:
@@ -807,6 +1463,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_overskirt_sh_l_8
       rect:
@@ -821,6 +1484,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_overskirt_sh_l_9
       rect:
@@ -835,6 +1505,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_overskirt_sh_l_10
       rect:
@@ -849,6 +1526,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_overskirt_sh_l_11
       rect:
@@ -863,6 +1547,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_overskirt_sh_l_12
       rect:
@@ -877,6 +1568,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_overskirt_sh_t_0
       rect:
@@ -891,6 +1589,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_overskirt_sh_t_1
       rect:
@@ -905,6 +1610,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_overskirt_sh_t_2
       rect:
@@ -919,6 +1631,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_overskirt_sh_t_3
       rect:
@@ -933,6 +1652,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_overskirt_sh_t_4
       rect:
@@ -947,6 +1673,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_overskirt_sh_t_5
       rect:
@@ -961,6 +1694,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_overskirt_sh_t_6
       rect:
@@ -975,6 +1715,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_overskirt_sh_t_7
       rect:
@@ -989,6 +1736,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_overskirt_sh_t_8
       rect:
@@ -1003,6 +1757,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_overskirt_sh_t_9
       rect:
@@ -1017,6 +1778,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_overskirt_sh_t_10
       rect:
@@ -1031,6 +1799,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_overskirt_sh_t_11
       rect:
@@ -1045,6 +1820,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_overskirt_sh_t_12
       rect:
@@ -1059,6 +1841,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_overskirt_sl_r_0
       rect:
@@ -1073,6 +1862,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_overskirt_sl_r_1
       rect:
@@ -1087,6 +1883,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_overskirt_sl_r_2
       rect:
@@ -1101,6 +1904,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_overskirt_sl_r_3
       rect:
@@ -1115,6 +1925,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_overskirt_sl_r_4
       rect:
@@ -1129,6 +1946,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_overskirt_sl_r_5
       rect:
@@ -1143,6 +1967,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_overskirt_sl_d_0
       rect:
@@ -1157,6 +1988,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_overskirt_sl_d_1
       rect:
@@ -1171,6 +2009,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_overskirt_sl_d_2
       rect:
@@ -1185,6 +2030,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_overskirt_sl_d_3
       rect:
@@ -1199,6 +2051,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_overskirt_sl_d_4
       rect:
@@ -1213,6 +2072,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_overskirt_sl_d_5
       rect:
@@ -1227,6 +2093,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_overskirt_sl_l_0
       rect:
@@ -1241,6 +2114,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_overskirt_sl_l_1
       rect:
@@ -1255,6 +2135,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_overskirt_sl_l_2
       rect:
@@ -1269,6 +2156,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_overskirt_sl_l_3
       rect:
@@ -1283,6 +2177,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_overskirt_sl_l_4
       rect:
@@ -1297,6 +2198,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_overskirt_sl_l_5
       rect:
@@ -1311,6 +2219,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_overskirt_sl_t_0
       rect:
@@ -1325,6 +2240,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_overskirt_sl_t_1
       rect:
@@ -1339,6 +2261,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_overskirt_sl_t_2
       rect:
@@ -1353,6 +2282,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_overskirt_sl_t_3
       rect:
@@ -1367,6 +2303,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_overskirt_sl_t_4
       rect:
@@ -1381,6 +2324,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_overskirt_sl_t_5
       rect:
@@ -1395,6 +2345,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_overskirt_wc_r_0
       rect:
@@ -1409,6 +2366,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_overskirt_wc_r_1
       rect:
@@ -1423,6 +2387,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_overskirt_wc_r_2
       rect:
@@ -1437,6 +2408,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_overskirt_wc_r_3
       rect:
@@ -1451,6 +2429,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_overskirt_wc_r_4
       rect:
@@ -1465,6 +2450,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_overskirt_wc_r_5
       rect:
@@ -1479,6 +2471,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_overskirt_wc_r_6
       rect:
@@ -1493,6 +2492,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_overskirt_wc_r_7
       rect:
@@ -1507,6 +2513,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_overskirt_wc_r_8
       rect:
@@ -1521,6 +2534,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_overskirt_wc_d_0
       rect:
@@ -1535,6 +2555,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_overskirt_wc_d_1
       rect:
@@ -1549,6 +2576,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_overskirt_wc_d_2
       rect:
@@ -1563,6 +2597,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_overskirt_wc_d_3
       rect:
@@ -1577,6 +2618,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_overskirt_wc_d_4
       rect:
@@ -1591,6 +2639,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_overskirt_wc_d_5
       rect:
@@ -1605,6 +2660,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_overskirt_wc_d_6
       rect:
@@ -1619,6 +2681,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_overskirt_wc_d_7
       rect:
@@ -1633,6 +2702,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_overskirt_wc_d_8
       rect:
@@ -1647,6 +2723,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_overskirt_wc_l_0
       rect:
@@ -1661,6 +2744,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_overskirt_wc_l_1
       rect:
@@ -1675,6 +2765,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_overskirt_wc_l_2
       rect:
@@ -1689,6 +2786,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_overskirt_wc_l_3
       rect:
@@ -1703,6 +2807,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_overskirt_wc_l_4
       rect:
@@ -1717,6 +2828,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_overskirt_wc_l_5
       rect:
@@ -1731,6 +2849,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_overskirt_wc_l_6
       rect:
@@ -1745,6 +2870,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_overskirt_wc_l_7
       rect:
@@ -1759,6 +2891,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_overskirt_wc_l_8
       rect:
@@ -1773,6 +2912,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_overskirt_wc_t_0
       rect:
@@ -1787,6 +2933,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_overskirt_wc_t_1
       rect:
@@ -1801,6 +2954,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_overskirt_wc_t_2
       rect:
@@ -1815,6 +2975,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_overskirt_wc_t_3
       rect:
@@ -1829,6 +2996,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_overskirt_wc_t_4
       rect:
@@ -1843,6 +3017,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_overskirt_wc_t_5
       rect:
@@ -1857,6 +3038,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_overskirt_wc_t_6
       rect:
@@ -1871,6 +3059,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_overskirt_wc_t_7
       rect:
@@ -1885,6 +3080,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_overskirt_wc_t_8
       rect:
@@ -1899,6 +3101,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_overskirt_th_r_0
       rect:
@@ -1913,6 +3122,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_overskirt_th_r_1
       rect:
@@ -1927,6 +3143,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_overskirt_th_r_2
       rect:
@@ -1941,6 +3164,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_overskirt_th_r_3
       rect:
@@ -1955,6 +3185,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_overskirt_th_r_4
       rect:
@@ -1969,6 +3206,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_overskirt_th_r_5
       rect:
@@ -1983,6 +3227,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_overskirt_th_r_6
       rect:
@@ -1997,6 +3248,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_overskirt_th_r_7
       rect:
@@ -2011,6 +3269,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_overskirt_th_d_0
       rect:
@@ -2025,6 +3290,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_overskirt_th_d_1
       rect:
@@ -2039,6 +3311,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_overskirt_th_d_2
       rect:
@@ -2053,6 +3332,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_overskirt_th_d_3
       rect:
@@ -2067,6 +3353,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_overskirt_th_d_4
       rect:
@@ -2081,6 +3374,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_overskirt_th_d_5
       rect:
@@ -2095,6 +3395,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_overskirt_th_d_6
       rect:
@@ -2109,6 +3416,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_overskirt_th_d_7
       rect:
@@ -2123,6 +3437,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_overskirt_th_l_0
       rect:
@@ -2137,6 +3458,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_overskirt_th_l_1
       rect:
@@ -2151,6 +3479,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_overskirt_th_l_2
       rect:
@@ -2165,6 +3500,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_overskirt_th_l_3
       rect:
@@ -2179,6 +3521,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_overskirt_th_l_4
       rect:
@@ -2193,6 +3542,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_overskirt_th_l_5
       rect:
@@ -2207,6 +3563,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_overskirt_th_l_6
       rect:
@@ -2221,6 +3584,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_overskirt_th_l_7
       rect:
@@ -2235,6 +3605,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_overskirt_th_t_0
       rect:
@@ -2249,6 +3626,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_overskirt_th_t_1
       rect:
@@ -2263,6 +3647,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_overskirt_th_t_2
       rect:
@@ -2277,6 +3668,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_overskirt_th_t_3
       rect:
@@ -2291,6 +3689,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_overskirt_th_t_4
       rect:
@@ -2305,6 +3710,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_overskirt_th_t_5
       rect:
@@ -2319,6 +3731,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_overskirt_th_t_6
       rect:
@@ -2333,6 +3752,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_overskirt_th_t_7
       rect:
@@ -2347,6 +3773,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_overskirt_sc_r_0
       rect:
@@ -2361,6 +3794,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_overskirt_sc_r_1
       rect:
@@ -2375,6 +3815,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_overskirt_sc_r_2
       rect:
@@ -2389,6 +3836,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_overskirt_sc_r_3
       rect:
@@ -2403,6 +3857,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_overskirt_sc_r_4
       rect:
@@ -2417,6 +3878,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_overskirt_sc_r_5
       rect:
@@ -2431,6 +3899,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_overskirt_sc_r_6
       rect:
@@ -2445,6 +3920,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_overskirt_sc_d_0
       rect:
@@ -2459,6 +3941,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_overskirt_sc_d_1
       rect:
@@ -2473,6 +3962,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_overskirt_sc_d_2
       rect:
@@ -2487,6 +3983,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_overskirt_sc_d_3
       rect:
@@ -2501,6 +4004,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_overskirt_sc_d_4
       rect:
@@ -2515,6 +4025,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_overskirt_sc_d_5
       rect:
@@ -2529,6 +4046,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_overskirt_sc_d_6
       rect:
@@ -2543,6 +4067,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_overskirt_sc_l_0
       rect:
@@ -2557,6 +4088,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_overskirt_sc_l_1
       rect:
@@ -2571,6 +4109,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_overskirt_sc_l_2
       rect:
@@ -2585,6 +4130,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_overskirt_sc_l_3
       rect:
@@ -2599,6 +4151,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_overskirt_sc_l_4
       rect:
@@ -2613,6 +4172,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_overskirt_sc_l_5
       rect:
@@ -2627,6 +4193,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_overskirt_sc_l_6
       rect:
@@ -2641,6 +4214,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_overskirt_sc_t_0
       rect:
@@ -2655,6 +4235,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_overskirt_sc_t_1
       rect:
@@ -2669,6 +4256,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_overskirt_sc_t_2
       rect:
@@ -2683,6 +4277,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_overskirt_sc_t_3
       rect:
@@ -2697,6 +4298,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_overskirt_sc_t_4
       rect:
@@ -2711,6 +4319,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_overskirt_sc_t_5
       rect:
@@ -2725,6 +4340,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_overskirt_sc_t_6
       rect:
@@ -2739,9 +4361,204 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
-  spritePackingTag: character
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      chest_female_overskirt_hu_0: 21300000
+      chest_female_overskirt_hu_1: 21300002
+      chest_female_overskirt_hu_2: 21300004
+      chest_female_overskirt_hu_3: 21300006
+      chest_female_overskirt_hu_4: 21300008
+      chest_female_overskirt_hu_5: 21300010
+      chest_female_overskirt_sc_d_0: 21300314
+      chest_female_overskirt_sc_d_1: 21300316
+      chest_female_overskirt_sc_d_2: 21300318
+      chest_female_overskirt_sc_d_3: 21300320
+      chest_female_overskirt_sc_d_4: 21300322
+      chest_female_overskirt_sc_d_5: 21300324
+      chest_female_overskirt_sc_d_6: 21300326
+      chest_female_overskirt_sc_l_0: 21300328
+      chest_female_overskirt_sc_l_1: 21300330
+      chest_female_overskirt_sc_l_2: 21300332
+      chest_female_overskirt_sc_l_3: 21300334
+      chest_female_overskirt_sc_l_4: 21300336
+      chest_female_overskirt_sc_l_5: 21300338
+      chest_female_overskirt_sc_l_6: 21300340
+      chest_female_overskirt_sc_r_0: 21300300
+      chest_female_overskirt_sc_r_1: 21300302
+      chest_female_overskirt_sc_r_2: 21300304
+      chest_female_overskirt_sc_r_3: 21300306
+      chest_female_overskirt_sc_r_4: 21300308
+      chest_female_overskirt_sc_r_5: 21300310
+      chest_female_overskirt_sc_r_6: 21300312
+      chest_female_overskirt_sc_t_0: 21300342
+      chest_female_overskirt_sc_t_1: 21300344
+      chest_female_overskirt_sc_t_2: 21300346
+      chest_female_overskirt_sc_t_3: 21300348
+      chest_female_overskirt_sc_t_4: 21300350
+      chest_female_overskirt_sc_t_5: 21300352
+      chest_female_overskirt_sc_t_6: 21300354
+      chest_female_overskirt_sh_d_0: 21300038
+      chest_female_overskirt_sh_d_1: 21300040
+      chest_female_overskirt_sh_d_10: 21300058
+      chest_female_overskirt_sh_d_11: 21300060
+      chest_female_overskirt_sh_d_12: 21300062
+      chest_female_overskirt_sh_d_2: 21300042
+      chest_female_overskirt_sh_d_3: 21300044
+      chest_female_overskirt_sh_d_4: 21300046
+      chest_female_overskirt_sh_d_5: 21300048
+      chest_female_overskirt_sh_d_6: 21300050
+      chest_female_overskirt_sh_d_7: 21300052
+      chest_female_overskirt_sh_d_8: 21300054
+      chest_female_overskirt_sh_d_9: 21300056
+      chest_female_overskirt_sh_l_0: 21300064
+      chest_female_overskirt_sh_l_1: 21300066
+      chest_female_overskirt_sh_l_10: 21300084
+      chest_female_overskirt_sh_l_11: 21300086
+      chest_female_overskirt_sh_l_12: 21300088
+      chest_female_overskirt_sh_l_2: 21300068
+      chest_female_overskirt_sh_l_3: 21300070
+      chest_female_overskirt_sh_l_4: 21300072
+      chest_female_overskirt_sh_l_5: 21300074
+      chest_female_overskirt_sh_l_6: 21300076
+      chest_female_overskirt_sh_l_7: 21300078
+      chest_female_overskirt_sh_l_8: 21300080
+      chest_female_overskirt_sh_l_9: 21300082
+      chest_female_overskirt_sh_r_0: 21300012
+      chest_female_overskirt_sh_r_1: 21300014
+      chest_female_overskirt_sh_r_10: 21300032
+      chest_female_overskirt_sh_r_11: 21300034
+      chest_female_overskirt_sh_r_12: 21300036
+      chest_female_overskirt_sh_r_2: 21300016
+      chest_female_overskirt_sh_r_3: 21300018
+      chest_female_overskirt_sh_r_4: 21300020
+      chest_female_overskirt_sh_r_5: 21300022
+      chest_female_overskirt_sh_r_6: 21300024
+      chest_female_overskirt_sh_r_7: 21300026
+      chest_female_overskirt_sh_r_8: 21300028
+      chest_female_overskirt_sh_r_9: 21300030
+      chest_female_overskirt_sh_t_0: 21300090
+      chest_female_overskirt_sh_t_1: 21300092
+      chest_female_overskirt_sh_t_10: 21300110
+      chest_female_overskirt_sh_t_11: 21300112
+      chest_female_overskirt_sh_t_12: 21300114
+      chest_female_overskirt_sh_t_2: 21300094
+      chest_female_overskirt_sh_t_3: 21300096
+      chest_female_overskirt_sh_t_4: 21300098
+      chest_female_overskirt_sh_t_5: 21300100
+      chest_female_overskirt_sh_t_6: 21300102
+      chest_female_overskirt_sh_t_7: 21300104
+      chest_female_overskirt_sh_t_8: 21300106
+      chest_female_overskirt_sh_t_9: 21300108
+      chest_female_overskirt_sl_d_0: 21300128
+      chest_female_overskirt_sl_d_1: 21300130
+      chest_female_overskirt_sl_d_2: 21300132
+      chest_female_overskirt_sl_d_3: 21300134
+      chest_female_overskirt_sl_d_4: 21300136
+      chest_female_overskirt_sl_d_5: 21300138
+      chest_female_overskirt_sl_l_0: 21300140
+      chest_female_overskirt_sl_l_1: 21300142
+      chest_female_overskirt_sl_l_2: 21300144
+      chest_female_overskirt_sl_l_3: 21300146
+      chest_female_overskirt_sl_l_4: 21300148
+      chest_female_overskirt_sl_l_5: 21300150
+      chest_female_overskirt_sl_r_0: 21300116
+      chest_female_overskirt_sl_r_1: 21300118
+      chest_female_overskirt_sl_r_2: 21300120
+      chest_female_overskirt_sl_r_3: 21300122
+      chest_female_overskirt_sl_r_4: 21300124
+      chest_female_overskirt_sl_r_5: 21300126
+      chest_female_overskirt_sl_t_0: 21300152
+      chest_female_overskirt_sl_t_1: 21300154
+      chest_female_overskirt_sl_t_2: 21300156
+      chest_female_overskirt_sl_t_3: 21300158
+      chest_female_overskirt_sl_t_4: 21300160
+      chest_female_overskirt_sl_t_5: 21300162
+      chest_female_overskirt_th_d_0: 21300252
+      chest_female_overskirt_th_d_1: 21300254
+      chest_female_overskirt_th_d_2: 21300256
+      chest_female_overskirt_th_d_3: 21300258
+      chest_female_overskirt_th_d_4: 21300260
+      chest_female_overskirt_th_d_5: 21300262
+      chest_female_overskirt_th_d_6: 21300264
+      chest_female_overskirt_th_d_7: 21300266
+      chest_female_overskirt_th_l_0: 21300268
+      chest_female_overskirt_th_l_1: 21300270
+      chest_female_overskirt_th_l_2: 21300272
+      chest_female_overskirt_th_l_3: 21300274
+      chest_female_overskirt_th_l_4: 21300276
+      chest_female_overskirt_th_l_5: 21300278
+      chest_female_overskirt_th_l_6: 21300280
+      chest_female_overskirt_th_l_7: 21300282
+      chest_female_overskirt_th_r_0: 21300236
+      chest_female_overskirt_th_r_1: 21300238
+      chest_female_overskirt_th_r_2: 21300240
+      chest_female_overskirt_th_r_3: 21300242
+      chest_female_overskirt_th_r_4: 21300244
+      chest_female_overskirt_th_r_5: 21300246
+      chest_female_overskirt_th_r_6: 21300248
+      chest_female_overskirt_th_r_7: 21300250
+      chest_female_overskirt_th_t_0: 21300284
+      chest_female_overskirt_th_t_1: 21300286
+      chest_female_overskirt_th_t_2: 21300288
+      chest_female_overskirt_th_t_3: 21300290
+      chest_female_overskirt_th_t_4: 21300292
+      chest_female_overskirt_th_t_5: 21300294
+      chest_female_overskirt_th_t_6: 21300296
+      chest_female_overskirt_th_t_7: 21300298
+      chest_female_overskirt_wc_d_0: 21300182
+      chest_female_overskirt_wc_d_1: 21300184
+      chest_female_overskirt_wc_d_2: 21300186
+      chest_female_overskirt_wc_d_3: 21300188
+      chest_female_overskirt_wc_d_4: 21300190
+      chest_female_overskirt_wc_d_5: 21300192
+      chest_female_overskirt_wc_d_6: 21300194
+      chest_female_overskirt_wc_d_7: 21300196
+      chest_female_overskirt_wc_d_8: 21300198
+      chest_female_overskirt_wc_l_0: 21300200
+      chest_female_overskirt_wc_l_1: 21300202
+      chest_female_overskirt_wc_l_2: 21300204
+      chest_female_overskirt_wc_l_3: 21300206
+      chest_female_overskirt_wc_l_4: 21300208
+      chest_female_overskirt_wc_l_5: 21300210
+      chest_female_overskirt_wc_l_6: 21300212
+      chest_female_overskirt_wc_l_7: 21300214
+      chest_female_overskirt_wc_l_8: 21300216
+      chest_female_overskirt_wc_r_0: 21300164
+      chest_female_overskirt_wc_r_1: 21300166
+      chest_female_overskirt_wc_r_2: 21300168
+      chest_female_overskirt_wc_r_3: 21300170
+      chest_female_overskirt_wc_r_4: 21300172
+      chest_female_overskirt_wc_r_5: 21300174
+      chest_female_overskirt_wc_r_6: 21300176
+      chest_female_overskirt_wc_r_7: 21300178
+      chest_female_overskirt_wc_r_8: 21300180
+      chest_female_overskirt_wc_t_0: 21300218
+      chest_female_overskirt_wc_t_1: 21300220
+      chest_female_overskirt_wc_t_2: 21300222
+      chest_female_overskirt_wc_t_3: 21300224
+      chest_female_overskirt_wc_t_4: 21300226
+      chest_female_overskirt_wc_t_5: 21300228
+      chest_female_overskirt_wc_t_6: 21300230
+      chest_female_overskirt_wc_t_7: 21300232
+      chest_female_overskirt_wc_t_8: 21300234
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 

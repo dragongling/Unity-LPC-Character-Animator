@@ -106,9 +106,9 @@ namespace Assets.Scripts.Scene
             }
             else
             {
-                var increaseYAmt = 25;
+                const int increaseYAmt = 25;
                 var currentY = 35;
-                var currentX = 10;
+                const int currentX = 10;
 
                 // generate the model text boxes
                 GUI.Label(new Rect(100, 10, 60, 20), "Model Key IDs");

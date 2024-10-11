@@ -1,545 +1,1611 @@
 fileFormatVersion: 2
 guid: 5364e49942710d646b5f850cdf7eb2cb
-timeCreated: 1487559123
-licenseType: Free
 TextureImporter:
-  fileIDToRecycleName:
-    21300000: torso_plate_platemail_hu_0
-    21300002: torso_plate_platemail_hu_1
-    21300004: torso_plate_platemail_hu_2
-    21300006: torso_plate_platemail_hu_3
-    21300008: torso_plate_platemail_hu_4
-    21300010: torso_plate_platemail_hu_5
-    21300012: torso_plate_platemail_sh_r_0
-    21300014: torso_plate_platemail_sh_r_1
-    21300016: torso_plate_platemail_sh_r_2
-    21300018: torso_plate_platemail_sh_r_3
-    21300020: torso_plate_platemail_sh_r_4
-    21300022: torso_plate_platemail_sh_r_5
-    21300024: torso_plate_platemail_sh_r_6
-    21300026: torso_plate_platemail_sh_r_7
-    21300028: torso_plate_platemail_sh_r_8
-    21300030: torso_plate_platemail_sh_r_9
-    21300032: torso_plate_platemail_sh_r_10
-    21300034: torso_plate_platemail_sh_r_11
-    21300036: torso_plate_platemail_sh_r_12
-    21300038: torso_plate_platemail_sh_d_0
-    21300040: torso_plate_platemail_sh_d_1
-    21300042: torso_plate_platemail_sh_d_2
-    21300044: torso_plate_platemail_sh_d_3
-    21300046: torso_plate_platemail_sh_d_4
-    21300048: torso_plate_platemail_sh_d_5
-    21300050: torso_plate_platemail_sh_d_6
-    21300052: torso_plate_platemail_sh_d_7
-    21300054: torso_plate_platemail_sh_d_8
-    21300056: torso_plate_platemail_sh_d_9
-    21300058: torso_plate_platemail_sh_d_10
-    21300060: torso_plate_platemail_sh_d_11
-    21300062: torso_plate_platemail_sh_d_12
-    21300064: torso_plate_platemail_sh_l_0
-    21300066: torso_plate_platemail_sh_l_1
-    21300068: torso_plate_platemail_sh_l_2
-    21300070: torso_plate_platemail_sh_l_3
-    21300072: torso_plate_platemail_sh_l_4
-    21300074: torso_plate_platemail_sh_l_5
-    21300076: torso_plate_platemail_sh_l_6
-    21300078: torso_plate_platemail_sh_l_7
-    21300080: torso_plate_platemail_sh_l_8
-    21300082: torso_plate_platemail_sh_l_9
-    21300084: torso_plate_platemail_sh_l_10
-    21300086: torso_plate_platemail_sh_l_11
-    21300088: torso_plate_platemail_sh_l_12
-    21300090: torso_plate_platemail_sh_t_0
-    21300092: torso_plate_platemail_sh_t_1
-    21300094: torso_plate_platemail_sh_t_2
-    21300096: torso_plate_platemail_sh_t_3
-    21300098: torso_plate_platemail_sh_t_4
-    21300100: torso_plate_platemail_sh_t_5
-    21300102: torso_plate_platemail_sh_t_6
-    21300104: torso_plate_platemail_sh_t_7
-    21300106: torso_plate_platemail_sh_t_8
-    21300108: torso_plate_platemail_sh_t_9
-    21300110: torso_plate_platemail_sh_t_10
-    21300112: torso_plate_platemail_sh_t_11
-    21300114: torso_plate_platemail_sh_t_12
-    21300116: torso_plate_platemail_sl_r_0
-    21300118: torso_plate_platemail_sl_r_1
-    21300120: torso_plate_platemail_sl_r_2
-    21300122: torso_plate_platemail_sl_r_3
-    21300124: torso_plate_platemail_sl_r_4
-    21300126: torso_plate_platemail_sl_r_5
-    21300128: torso_plate_platemail_sl_d_0
-    21300130: torso_plate_platemail_sl_d_1
-    21300132: torso_plate_platemail_sl_d_2
-    21300134: torso_plate_platemail_sl_d_3
-    21300136: torso_plate_platemail_sl_d_4
-    21300138: torso_plate_platemail_sl_d_5
-    21300140: torso_plate_platemail_sl_l_0
-    21300142: torso_plate_platemail_sl_l_1
-    21300144: torso_plate_platemail_sl_l_2
-    21300146: torso_plate_platemail_sl_l_3
-    21300148: torso_plate_platemail_sl_l_4
-    21300150: torso_plate_platemail_sl_l_5
-    21300152: torso_plate_platemail_sl_t_0
-    21300154: torso_plate_platemail_sl_t_1
-    21300156: torso_plate_platemail_sl_t_2
-    21300158: torso_plate_platemail_sl_t_3
-    21300160: torso_plate_platemail_sl_t_4
-    21300162: torso_plate_platemail_sl_t_5
-    21300164: torso_plate_platemail_wc_r_0
-    21300166: torso_plate_platemail_wc_r_1
-    21300168: torso_plate_platemail_wc_r_2
-    21300170: torso_plate_platemail_wc_r_3
-    21300172: torso_plate_platemail_wc_r_4
-    21300174: torso_plate_platemail_wc_r_5
-    21300176: torso_plate_platemail_wc_r_6
-    21300178: torso_plate_platemail_wc_r_7
-    21300180: torso_plate_platemail_wc_r_8
-    21300182: torso_plate_platemail_wc_d_0
-    21300184: torso_plate_platemail_wc_d_1
-    21300186: torso_plate_platemail_wc_d_2
-    21300188: torso_plate_platemail_wc_d_3
-    21300190: torso_plate_platemail_wc_d_4
-    21300192: torso_plate_platemail_wc_d_5
-    21300194: torso_plate_platemail_wc_d_6
-    21300196: torso_plate_platemail_wc_d_7
-    21300198: torso_plate_platemail_wc_d_8
-    21300200: torso_plate_platemail_wc_l_0
-    21300202: torso_plate_platemail_wc_l_1
-    21300204: torso_plate_platemail_wc_l_2
-    21300206: torso_plate_platemail_wc_l_3
-    21300208: torso_plate_platemail_wc_l_4
-    21300210: torso_plate_platemail_wc_l_5
-    21300212: torso_plate_platemail_wc_l_6
-    21300214: torso_plate_platemail_wc_l_7
-    21300216: torso_plate_platemail_wc_l_8
-    21300218: torso_plate_platemail_wc_t_0
-    21300220: torso_plate_platemail_wc_t_1
-    21300222: torso_plate_platemail_wc_t_2
-    21300224: torso_plate_platemail_wc_t_3
-    21300226: torso_plate_platemail_wc_t_4
-    21300228: torso_plate_platemail_wc_t_5
-    21300230: torso_plate_platemail_wc_t_6
-    21300232: torso_plate_platemail_wc_t_7
-    21300234: torso_plate_platemail_wc_t_8
-    21300236: torso_plate_platemail_th_r_0
-    21300238: torso_plate_platemail_th_r_1
-    21300240: torso_plate_platemail_th_r_2
-    21300242: torso_plate_platemail_th_r_3
-    21300244: torso_plate_platemail_th_r_4
-    21300246: torso_plate_platemail_th_r_5
-    21300248: torso_plate_platemail_th_r_6
-    21300250: torso_plate_platemail_th_r_7
-    21300252: torso_plate_platemail_th_d_0
-    21300254: torso_plate_platemail_th_d_1
-    21300256: torso_plate_platemail_th_d_2
-    21300258: torso_plate_platemail_th_d_3
-    21300260: torso_plate_platemail_th_d_4
-    21300262: torso_plate_platemail_th_d_5
-    21300264: torso_plate_platemail_th_d_6
-    21300266: torso_plate_platemail_th_d_7
-    21300268: torso_plate_platemail_th_l_0
-    21300270: torso_plate_platemail_th_l_1
-    21300272: torso_plate_platemail_th_l_2
-    21300274: torso_plate_platemail_th_l_3
-    21300276: torso_plate_platemail_th_l_4
-    21300278: torso_plate_platemail_th_l_5
-    21300280: torso_plate_platemail_th_l_6
-    21300282: torso_plate_platemail_th_l_7
-    21300284: torso_plate_platemail_th_t_0
-    21300286: torso_plate_platemail_th_t_1
-    21300288: torso_plate_platemail_th_t_2
-    21300290: torso_plate_platemail_th_t_3
-    21300292: torso_plate_platemail_th_t_4
-    21300294: torso_plate_platemail_th_t_5
-    21300296: torso_plate_platemail_th_t_6
-    21300298: torso_plate_platemail_th_t_7
-    21300300: torso_plate_platemail_sc_r_0
-    21300302: torso_plate_platemail_sc_r_1
-    21300304: torso_plate_platemail_sc_r_2
-    21300306: torso_plate_platemail_sc_r_3
-    21300308: torso_plate_platemail_sc_r_4
-    21300310: torso_plate_platemail_sc_r_5
-    21300312: torso_plate_platemail_sc_r_6
-    21300314: torso_plate_platemail_sc_d_0
-    21300316: torso_plate_platemail_sc_d_1
-    21300318: torso_plate_platemail_sc_d_2
-    21300320: torso_plate_platemail_sc_d_3
-    21300322: torso_plate_platemail_sc_d_4
-    21300324: torso_plate_platemail_sc_d_5
-    21300326: torso_plate_platemail_sc_d_6
-    21300328: torso_plate_platemail_sc_l_0
-    21300330: torso_plate_platemail_sc_l_1
-    21300332: torso_plate_platemail_sc_l_2
-    21300334: torso_plate_platemail_sc_l_3
-    21300336: torso_plate_platemail_sc_l_4
-    21300338: torso_plate_platemail_sc_l_5
-    21300340: torso_plate_platemail_sc_l_6
-    21300342: torso_plate_platemail_sc_t_0
-    21300344: torso_plate_platemail_sc_t_1
-    21300346: torso_plate_platemail_sc_t_2
-    21300348: torso_plate_platemail_sc_t_3
-    21300350: torso_plate_platemail_sc_t_4
-    21300352: torso_plate_platemail_sc_t_5
-    21300354: torso_plate_platemail_sc_t_6
-    21300356: Equipment_arms_male_platemail_hu_0
-    21300358: Equipment_arms_male_platemail_hu_1
-    21300360: Equipment_arms_male_platemail_hu_2
-    21300362: Equipment_arms_male_platemail_hu_3
-    21300364: Equipment_arms_male_platemail_hu_4
-    21300366: Equipment_arms_male_platemail_hu_5
-    21300368: Equipment_arms_male_platemail_sh_r_0
-    21300370: Equipment_arms_male_platemail_sh_r_1
-    21300372: Equipment_arms_male_platemail_sh_r_2
-    21300374: Equipment_arms_male_platemail_sh_r_3
-    21300376: Equipment_arms_male_platemail_sh_r_4
-    21300378: Equipment_arms_male_platemail_sh_r_5
-    21300380: Equipment_arms_male_platemail_sh_r_6
-    21300382: Equipment_arms_male_platemail_sh_r_7
-    21300384: Equipment_arms_male_platemail_sh_r_8
-    21300386: Equipment_arms_male_platemail_sh_r_9
-    21300388: Equipment_arms_male_platemail_sh_r_10
-    21300390: Equipment_arms_male_platemail_sh_r_11
-    21300392: Equipment_arms_male_platemail_sh_r_12
-    21300394: Equipment_arms_male_platemail_sh_d_0
-    21300396: Equipment_arms_male_platemail_sh_d_1
-    21300398: Equipment_arms_male_platemail_sh_d_2
-    21300400: Equipment_arms_male_platemail_sh_d_3
-    21300402: Equipment_arms_male_platemail_sh_d_4
-    21300404: Equipment_arms_male_platemail_sh_d_5
-    21300406: Equipment_arms_male_platemail_sh_d_6
-    21300408: Equipment_arms_male_platemail_sh_d_7
-    21300410: Equipment_arms_male_platemail_sh_d_8
-    21300412: Equipment_arms_male_platemail_sh_d_9
-    21300414: Equipment_arms_male_platemail_sh_d_10
-    21300416: Equipment_arms_male_platemail_sh_d_11
-    21300418: Equipment_arms_male_platemail_sh_d_12
-    21300420: Equipment_arms_male_platemail_sh_l_0
-    21300422: Equipment_arms_male_platemail_sh_l_1
-    21300424: Equipment_arms_male_platemail_sh_l_2
-    21300426: Equipment_arms_male_platemail_sh_l_3
-    21300428: Equipment_arms_male_platemail_sh_l_4
-    21300430: Equipment_arms_male_platemail_sh_l_5
-    21300432: Equipment_arms_male_platemail_sh_l_6
-    21300434: Equipment_arms_male_platemail_sh_l_7
-    21300436: Equipment_arms_male_platemail_sh_l_8
-    21300438: Equipment_arms_male_platemail_sh_l_9
-    21300440: Equipment_arms_male_platemail_sh_l_10
-    21300442: Equipment_arms_male_platemail_sh_l_11
-    21300444: Equipment_arms_male_platemail_sh_l_12
-    21300446: Equipment_arms_male_platemail_sh_t_0
-    21300448: Equipment_arms_male_platemail_sh_t_1
-    21300450: Equipment_arms_male_platemail_sh_t_2
-    21300452: Equipment_arms_male_platemail_sh_t_3
-    21300454: Equipment_arms_male_platemail_sh_t_4
-    21300456: Equipment_arms_male_platemail_sh_t_5
-    21300458: Equipment_arms_male_platemail_sh_t_6
-    21300460: Equipment_arms_male_platemail_sh_t_7
-    21300462: Equipment_arms_male_platemail_sh_t_8
-    21300464: Equipment_arms_male_platemail_sh_t_9
-    21300466: Equipment_arms_male_platemail_sh_t_10
-    21300468: Equipment_arms_male_platemail_sh_t_11
-    21300470: Equipment_arms_male_platemail_sh_t_12
-    21300472: Equipment_arms_male_platemail_sl_r_0
-    21300474: Equipment_arms_male_platemail_sl_r_1
-    21300476: Equipment_arms_male_platemail_sl_r_2
-    21300478: Equipment_arms_male_platemail_sl_r_3
-    21300480: Equipment_arms_male_platemail_sl_r_4
-    21300482: Equipment_arms_male_platemail_sl_r_5
-    21300484: Equipment_arms_male_platemail_sl_d_0
-    21300486: Equipment_arms_male_platemail_sl_d_1
-    21300488: Equipment_arms_male_platemail_sl_d_2
-    21300490: Equipment_arms_male_platemail_sl_d_3
-    21300492: Equipment_arms_male_platemail_sl_d_4
-    21300494: Equipment_arms_male_platemail_sl_d_5
-    21300496: Equipment_arms_male_platemail_sl_l_0
-    21300498: Equipment_arms_male_platemail_sl_l_1
-    21300500: Equipment_arms_male_platemail_sl_l_2
-    21300502: Equipment_arms_male_platemail_sl_l_3
-    21300504: Equipment_arms_male_platemail_sl_l_4
-    21300506: Equipment_arms_male_platemail_sl_l_5
-    21300508: Equipment_arms_male_platemail_sl_t_0
-    21300510: Equipment_arms_male_platemail_sl_t_1
-    21300512: Equipment_arms_male_platemail_sl_t_2
-    21300514: Equipment_arms_male_platemail_sl_t_3
-    21300516: Equipment_arms_male_platemail_sl_t_4
-    21300518: Equipment_arms_male_platemail_sl_t_5
-    21300520: Equipment_arms_male_platemail_wc_r_0
-    21300522: Equipment_arms_male_platemail_wc_r_1
-    21300524: Equipment_arms_male_platemail_wc_r_2
-    21300526: Equipment_arms_male_platemail_wc_r_3
-    21300528: Equipment_arms_male_platemail_wc_r_4
-    21300530: Equipment_arms_male_platemail_wc_r_5
-    21300532: Equipment_arms_male_platemail_wc_r_6
-    21300534: Equipment_arms_male_platemail_wc_r_7
-    21300536: Equipment_arms_male_platemail_wc_r_8
-    21300538: Equipment_arms_male_platemail_wc_d_0
-    21300540: Equipment_arms_male_platemail_wc_d_1
-    21300542: Equipment_arms_male_platemail_wc_d_2
-    21300544: Equipment_arms_male_platemail_wc_d_3
-    21300546: Equipment_arms_male_platemail_wc_d_4
-    21300548: Equipment_arms_male_platemail_wc_d_5
-    21300550: Equipment_arms_male_platemail_wc_d_6
-    21300552: Equipment_arms_male_platemail_wc_d_7
-    21300554: Equipment_arms_male_platemail_wc_d_8
-    21300556: Equipment_arms_male_platemail_wc_l_0
-    21300558: Equipment_arms_male_platemail_wc_l_1
-    21300560: Equipment_arms_male_platemail_wc_l_2
-    21300562: Equipment_arms_male_platemail_wc_l_3
-    21300564: Equipment_arms_male_platemail_wc_l_4
-    21300566: Equipment_arms_male_platemail_wc_l_5
-    21300568: Equipment_arms_male_platemail_wc_l_6
-    21300570: Equipment_arms_male_platemail_wc_l_7
-    21300572: Equipment_arms_male_platemail_wc_l_8
-    21300574: Equipment_arms_male_platemail_wc_t_0
-    21300576: Equipment_arms_male_platemail_wc_t_1
-    21300578: Equipment_arms_male_platemail_wc_t_2
-    21300580: Equipment_arms_male_platemail_wc_t_3
-    21300582: Equipment_arms_male_platemail_wc_t_4
-    21300584: Equipment_arms_male_platemail_wc_t_5
-    21300586: Equipment_arms_male_platemail_wc_t_6
-    21300588: Equipment_arms_male_platemail_wc_t_7
-    21300590: Equipment_arms_male_platemail_wc_t_8
-    21300592: Equipment_arms_male_platemail_th_r_0
-    21300594: Equipment_arms_male_platemail_th_r_1
-    21300596: Equipment_arms_male_platemail_th_r_2
-    21300598: Equipment_arms_male_platemail_th_r_3
-    21300600: Equipment_arms_male_platemail_th_r_4
-    21300602: Equipment_arms_male_platemail_th_r_5
-    21300604: Equipment_arms_male_platemail_th_r_6
-    21300606: Equipment_arms_male_platemail_th_r_7
-    21300608: Equipment_arms_male_platemail_th_d_0
-    21300610: Equipment_arms_male_platemail_th_d_1
-    21300612: Equipment_arms_male_platemail_th_d_2
-    21300614: Equipment_arms_male_platemail_th_d_3
-    21300616: Equipment_arms_male_platemail_th_d_4
-    21300618: Equipment_arms_male_platemail_th_d_5
-    21300620: Equipment_arms_male_platemail_th_d_6
-    21300622: Equipment_arms_male_platemail_th_d_7
-    21300624: Equipment_arms_male_platemail_th_l_0
-    21300626: Equipment_arms_male_platemail_th_l_1
-    21300628: Equipment_arms_male_platemail_th_l_2
-    21300630: Equipment_arms_male_platemail_th_l_3
-    21300632: Equipment_arms_male_platemail_th_l_4
-    21300634: Equipment_arms_male_platemail_th_l_5
-    21300636: Equipment_arms_male_platemail_th_l_6
-    21300638: Equipment_arms_male_platemail_th_l_7
-    21300640: Equipment_arms_male_platemail_th_t_0
-    21300642: Equipment_arms_male_platemail_th_t_1
-    21300644: Equipment_arms_male_platemail_th_t_2
-    21300646: Equipment_arms_male_platemail_th_t_3
-    21300648: Equipment_arms_male_platemail_th_t_4
-    21300650: Equipment_arms_male_platemail_th_t_5
-    21300652: Equipment_arms_male_platemail_th_t_6
-    21300654: Equipment_arms_male_platemail_th_t_7
-    21300656: Equipment_arms_male_platemail_sc_r_0
-    21300658: Equipment_arms_male_platemail_sc_r_1
-    21300660: Equipment_arms_male_platemail_sc_r_2
-    21300662: Equipment_arms_male_platemail_sc_r_3
-    21300664: Equipment_arms_male_platemail_sc_r_4
-    21300666: Equipment_arms_male_platemail_sc_r_5
-    21300668: Equipment_arms_male_platemail_sc_r_6
-    21300670: Equipment_arms_male_platemail_sc_d_0
-    21300672: Equipment_arms_male_platemail_sc_d_1
-    21300674: Equipment_arms_male_platemail_sc_d_2
-    21300676: Equipment_arms_male_platemail_sc_d_3
-    21300678: Equipment_arms_male_platemail_sc_d_4
-    21300680: Equipment_arms_male_platemail_sc_d_5
-    21300682: Equipment_arms_male_platemail_sc_d_6
-    21300684: Equipment_arms_male_platemail_sc_l_0
-    21300686: Equipment_arms_male_platemail_sc_l_1
-    21300688: Equipment_arms_male_platemail_sc_l_2
-    21300690: Equipment_arms_male_platemail_sc_l_3
-    21300692: Equipment_arms_male_platemail_sc_l_4
-    21300694: Equipment_arms_male_platemail_sc_l_5
-    21300696: Equipment_arms_male_platemail_sc_l_6
-    21300698: Equipment_arms_male_platemail_sc_t_0
-    21300700: Equipment_arms_male_platemail_sc_t_1
-    21300702: Equipment_arms_male_platemail_sc_t_2
-    21300704: Equipment_arms_male_platemail_sc_t_3
-    21300706: Equipment_arms_male_platemail_sc_t_4
-    21300708: Equipment_arms_male_platemail_sc_t_5
-    21300710: Equipment_arms_male_platemail_sc_t_6
-    21300712: arms_male_platemail_hu_0
-    21300714: arms_male_platemail_hu_1
-    21300716: arms_male_platemail_hu_2
-    21300718: arms_male_platemail_hu_3
-    21300720: arms_male_platemail_hu_4
-    21300722: arms_male_platemail_hu_5
-    21300724: arms_male_platemail_sh_r_0
-    21300726: arms_male_platemail_sh_r_1
-    21300728: arms_male_platemail_sh_r_2
-    21300730: arms_male_platemail_sh_r_3
-    21300732: arms_male_platemail_sh_r_4
-    21300734: arms_male_platemail_sh_r_5
-    21300736: arms_male_platemail_sh_r_6
-    21300738: arms_male_platemail_sh_r_7
-    21300740: arms_male_platemail_sh_r_8
-    21300742: arms_male_platemail_sh_r_9
-    21300744: arms_male_platemail_sh_r_10
-    21300746: arms_male_platemail_sh_r_11
-    21300748: arms_male_platemail_sh_r_12
-    21300750: arms_male_platemail_sh_d_0
-    21300752: arms_male_platemail_sh_d_1
-    21300754: arms_male_platemail_sh_d_2
-    21300756: arms_male_platemail_sh_d_3
-    21300758: arms_male_platemail_sh_d_4
-    21300760: arms_male_platemail_sh_d_5
-    21300762: arms_male_platemail_sh_d_6
-    21300764: arms_male_platemail_sh_d_7
-    21300766: arms_male_platemail_sh_d_8
-    21300768: arms_male_platemail_sh_d_9
-    21300770: arms_male_platemail_sh_d_10
-    21300772: arms_male_platemail_sh_d_11
-    21300774: arms_male_platemail_sh_d_12
-    21300776: arms_male_platemail_sh_l_0
-    21300778: arms_male_platemail_sh_l_1
-    21300780: arms_male_platemail_sh_l_2
-    21300782: arms_male_platemail_sh_l_3
-    21300784: arms_male_platemail_sh_l_4
-    21300786: arms_male_platemail_sh_l_5
-    21300788: arms_male_platemail_sh_l_6
-    21300790: arms_male_platemail_sh_l_7
-    21300792: arms_male_platemail_sh_l_8
-    21300794: arms_male_platemail_sh_l_9
-    21300796: arms_male_platemail_sh_l_10
-    21300798: arms_male_platemail_sh_l_11
-    21300800: arms_male_platemail_sh_l_12
-    21300802: arms_male_platemail_sh_t_0
-    21300804: arms_male_platemail_sh_t_1
-    21300806: arms_male_platemail_sh_t_2
-    21300808: arms_male_platemail_sh_t_3
-    21300810: arms_male_platemail_sh_t_4
-    21300812: arms_male_platemail_sh_t_5
-    21300814: arms_male_platemail_sh_t_6
-    21300816: arms_male_platemail_sh_t_7
-    21300818: arms_male_platemail_sh_t_8
-    21300820: arms_male_platemail_sh_t_9
-    21300822: arms_male_platemail_sh_t_10
-    21300824: arms_male_platemail_sh_t_11
-    21300826: arms_male_platemail_sh_t_12
-    21300828: arms_male_platemail_sl_r_0
-    21300830: arms_male_platemail_sl_r_1
-    21300832: arms_male_platemail_sl_r_2
-    21300834: arms_male_platemail_sl_r_3
-    21300836: arms_male_platemail_sl_r_4
-    21300838: arms_male_platemail_sl_r_5
-    21300840: arms_male_platemail_sl_d_0
-    21300842: arms_male_platemail_sl_d_1
-    21300844: arms_male_platemail_sl_d_2
-    21300846: arms_male_platemail_sl_d_3
-    21300848: arms_male_platemail_sl_d_4
-    21300850: arms_male_platemail_sl_d_5
-    21300852: arms_male_platemail_sl_l_0
-    21300854: arms_male_platemail_sl_l_1
-    21300856: arms_male_platemail_sl_l_2
-    21300858: arms_male_platemail_sl_l_3
-    21300860: arms_male_platemail_sl_l_4
-    21300862: arms_male_platemail_sl_l_5
-    21300864: arms_male_platemail_sl_t_0
-    21300866: arms_male_platemail_sl_t_1
-    21300868: arms_male_platemail_sl_t_2
-    21300870: arms_male_platemail_sl_t_3
-    21300872: arms_male_platemail_sl_t_4
-    21300874: arms_male_platemail_sl_t_5
-    21300876: arms_male_platemail_wc_r_0
-    21300878: arms_male_platemail_wc_r_1
-    21300880: arms_male_platemail_wc_r_2
-    21300882: arms_male_platemail_wc_r_3
-    21300884: arms_male_platemail_wc_r_4
-    21300886: arms_male_platemail_wc_r_5
-    21300888: arms_male_platemail_wc_r_6
-    21300890: arms_male_platemail_wc_r_7
-    21300892: arms_male_platemail_wc_r_8
-    21300894: arms_male_platemail_wc_d_0
-    21300896: arms_male_platemail_wc_d_1
-    21300898: arms_male_platemail_wc_d_2
-    21300900: arms_male_platemail_wc_d_3
-    21300902: arms_male_platemail_wc_d_4
-    21300904: arms_male_platemail_wc_d_5
-    21300906: arms_male_platemail_wc_d_6
-    21300908: arms_male_platemail_wc_d_7
-    21300910: arms_male_platemail_wc_d_8
-    21300912: arms_male_platemail_wc_l_0
-    21300914: arms_male_platemail_wc_l_1
-    21300916: arms_male_platemail_wc_l_2
-    21300918: arms_male_platemail_wc_l_3
-    21300920: arms_male_platemail_wc_l_4
-    21300922: arms_male_platemail_wc_l_5
-    21300924: arms_male_platemail_wc_l_6
-    21300926: arms_male_platemail_wc_l_7
-    21300928: arms_male_platemail_wc_l_8
-    21300930: arms_male_platemail_wc_t_0
-    21300932: arms_male_platemail_wc_t_1
-    21300934: arms_male_platemail_wc_t_2
-    21300936: arms_male_platemail_wc_t_3
-    21300938: arms_male_platemail_wc_t_4
-    21300940: arms_male_platemail_wc_t_5
-    21300942: arms_male_platemail_wc_t_6
-    21300944: arms_male_platemail_wc_t_7
-    21300946: arms_male_platemail_wc_t_8
-    21300948: arms_male_platemail_th_r_0
-    21300950: arms_male_platemail_th_r_1
-    21300952: arms_male_platemail_th_r_2
-    21300954: arms_male_platemail_th_r_3
-    21300956: arms_male_platemail_th_r_4
-    21300958: arms_male_platemail_th_r_5
-    21300960: arms_male_platemail_th_r_6
-    21300962: arms_male_platemail_th_r_7
-    21300964: arms_male_platemail_th_d_0
-    21300966: arms_male_platemail_th_d_1
-    21300968: arms_male_platemail_th_d_2
-    21300970: arms_male_platemail_th_d_3
-    21300972: arms_male_platemail_th_d_4
-    21300974: arms_male_platemail_th_d_5
-    21300976: arms_male_platemail_th_d_6
-    21300978: arms_male_platemail_th_d_7
-    21300980: arms_male_platemail_th_l_0
-    21300982: arms_male_platemail_th_l_1
-    21300984: arms_male_platemail_th_l_2
-    21300986: arms_male_platemail_th_l_3
-    21300988: arms_male_platemail_th_l_4
-    21300990: arms_male_platemail_th_l_5
-    21300992: arms_male_platemail_th_l_6
-    21300994: arms_male_platemail_th_l_7
-    21300996: arms_male_platemail_th_t_0
-    21300998: arms_male_platemail_th_t_1
-    21301000: arms_male_platemail_th_t_2
-    21301002: arms_male_platemail_th_t_3
-    21301004: arms_male_platemail_th_t_4
-    21301006: arms_male_platemail_th_t_5
-    21301008: arms_male_platemail_th_t_6
-    21301010: arms_male_platemail_th_t_7
-    21301012: arms_male_platemail_sc_r_0
-    21301014: arms_male_platemail_sc_r_1
-    21301016: arms_male_platemail_sc_r_2
-    21301018: arms_male_platemail_sc_r_3
-    21301020: arms_male_platemail_sc_r_4
-    21301022: arms_male_platemail_sc_r_5
-    21301024: arms_male_platemail_sc_r_6
-    21301026: arms_male_platemail_sc_d_0
-    21301028: arms_male_platemail_sc_d_1
-    21301030: arms_male_platemail_sc_d_2
-    21301032: arms_male_platemail_sc_d_3
-    21301034: arms_male_platemail_sc_d_4
-    21301036: arms_male_platemail_sc_d_5
-    21301038: arms_male_platemail_sc_d_6
-    21301040: arms_male_platemail_sc_l_0
-    21301042: arms_male_platemail_sc_l_1
-    21301044: arms_male_platemail_sc_l_2
-    21301046: arms_male_platemail_sc_l_3
-    21301048: arms_male_platemail_sc_l_4
-    21301050: arms_male_platemail_sc_l_5
-    21301052: arms_male_platemail_sc_l_6
-    21301054: arms_male_platemail_sc_t_0
-    21301056: arms_male_platemail_sc_t_1
-    21301058: arms_male_platemail_sc_t_2
-    21301060: arms_male_platemail_sc_t_3
-    21301062: arms_male_platemail_sc_t_4
-    21301064: arms_male_platemail_sc_t_5
-    21301066: arms_male_platemail_sc_t_6
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: torso_plate_platemail_hu_0
+  - first:
+      213: 21300002
+    second: torso_plate_platemail_hu_1
+  - first:
+      213: 21300004
+    second: torso_plate_platemail_hu_2
+  - first:
+      213: 21300006
+    second: torso_plate_platemail_hu_3
+  - first:
+      213: 21300008
+    second: torso_plate_platemail_hu_4
+  - first:
+      213: 21300010
+    second: torso_plate_platemail_hu_5
+  - first:
+      213: 21300012
+    second: torso_plate_platemail_sh_r_0
+  - first:
+      213: 21300014
+    second: torso_plate_platemail_sh_r_1
+  - first:
+      213: 21300016
+    second: torso_plate_platemail_sh_r_2
+  - first:
+      213: 21300018
+    second: torso_plate_platemail_sh_r_3
+  - first:
+      213: 21300020
+    second: torso_plate_platemail_sh_r_4
+  - first:
+      213: 21300022
+    second: torso_plate_platemail_sh_r_5
+  - first:
+      213: 21300024
+    second: torso_plate_platemail_sh_r_6
+  - first:
+      213: 21300026
+    second: torso_plate_platemail_sh_r_7
+  - first:
+      213: 21300028
+    second: torso_plate_platemail_sh_r_8
+  - first:
+      213: 21300030
+    second: torso_plate_platemail_sh_r_9
+  - first:
+      213: 21300032
+    second: torso_plate_platemail_sh_r_10
+  - first:
+      213: 21300034
+    second: torso_plate_platemail_sh_r_11
+  - first:
+      213: 21300036
+    second: torso_plate_platemail_sh_r_12
+  - first:
+      213: 21300038
+    second: torso_plate_platemail_sh_d_0
+  - first:
+      213: 21300040
+    second: torso_plate_platemail_sh_d_1
+  - first:
+      213: 21300042
+    second: torso_plate_platemail_sh_d_2
+  - first:
+      213: 21300044
+    second: torso_plate_platemail_sh_d_3
+  - first:
+      213: 21300046
+    second: torso_plate_platemail_sh_d_4
+  - first:
+      213: 21300048
+    second: torso_plate_platemail_sh_d_5
+  - first:
+      213: 21300050
+    second: torso_plate_platemail_sh_d_6
+  - first:
+      213: 21300052
+    second: torso_plate_platemail_sh_d_7
+  - first:
+      213: 21300054
+    second: torso_plate_platemail_sh_d_8
+  - first:
+      213: 21300056
+    second: torso_plate_platemail_sh_d_9
+  - first:
+      213: 21300058
+    second: torso_plate_platemail_sh_d_10
+  - first:
+      213: 21300060
+    second: torso_plate_platemail_sh_d_11
+  - first:
+      213: 21300062
+    second: torso_plate_platemail_sh_d_12
+  - first:
+      213: 21300064
+    second: torso_plate_platemail_sh_l_0
+  - first:
+      213: 21300066
+    second: torso_plate_platemail_sh_l_1
+  - first:
+      213: 21300068
+    second: torso_plate_platemail_sh_l_2
+  - first:
+      213: 21300070
+    second: torso_plate_platemail_sh_l_3
+  - first:
+      213: 21300072
+    second: torso_plate_platemail_sh_l_4
+  - first:
+      213: 21300074
+    second: torso_plate_platemail_sh_l_5
+  - first:
+      213: 21300076
+    second: torso_plate_platemail_sh_l_6
+  - first:
+      213: 21300078
+    second: torso_plate_platemail_sh_l_7
+  - first:
+      213: 21300080
+    second: torso_plate_platemail_sh_l_8
+  - first:
+      213: 21300082
+    second: torso_plate_platemail_sh_l_9
+  - first:
+      213: 21300084
+    second: torso_plate_platemail_sh_l_10
+  - first:
+      213: 21300086
+    second: torso_plate_platemail_sh_l_11
+  - first:
+      213: 21300088
+    second: torso_plate_platemail_sh_l_12
+  - first:
+      213: 21300090
+    second: torso_plate_platemail_sh_t_0
+  - first:
+      213: 21300092
+    second: torso_plate_platemail_sh_t_1
+  - first:
+      213: 21300094
+    second: torso_plate_platemail_sh_t_2
+  - first:
+      213: 21300096
+    second: torso_plate_platemail_sh_t_3
+  - first:
+      213: 21300098
+    second: torso_plate_platemail_sh_t_4
+  - first:
+      213: 21300100
+    second: torso_plate_platemail_sh_t_5
+  - first:
+      213: 21300102
+    second: torso_plate_platemail_sh_t_6
+  - first:
+      213: 21300104
+    second: torso_plate_platemail_sh_t_7
+  - first:
+      213: 21300106
+    second: torso_plate_platemail_sh_t_8
+  - first:
+      213: 21300108
+    second: torso_plate_platemail_sh_t_9
+  - first:
+      213: 21300110
+    second: torso_plate_platemail_sh_t_10
+  - first:
+      213: 21300112
+    second: torso_plate_platemail_sh_t_11
+  - first:
+      213: 21300114
+    second: torso_plate_platemail_sh_t_12
+  - first:
+      213: 21300116
+    second: torso_plate_platemail_sl_r_0
+  - first:
+      213: 21300118
+    second: torso_plate_platemail_sl_r_1
+  - first:
+      213: 21300120
+    second: torso_plate_platemail_sl_r_2
+  - first:
+      213: 21300122
+    second: torso_plate_platemail_sl_r_3
+  - first:
+      213: 21300124
+    second: torso_plate_platemail_sl_r_4
+  - first:
+      213: 21300126
+    second: torso_plate_platemail_sl_r_5
+  - first:
+      213: 21300128
+    second: torso_plate_platemail_sl_d_0
+  - first:
+      213: 21300130
+    second: torso_plate_platemail_sl_d_1
+  - first:
+      213: 21300132
+    second: torso_plate_platemail_sl_d_2
+  - first:
+      213: 21300134
+    second: torso_plate_platemail_sl_d_3
+  - first:
+      213: 21300136
+    second: torso_plate_platemail_sl_d_4
+  - first:
+      213: 21300138
+    second: torso_plate_platemail_sl_d_5
+  - first:
+      213: 21300140
+    second: torso_plate_platemail_sl_l_0
+  - first:
+      213: 21300142
+    second: torso_plate_platemail_sl_l_1
+  - first:
+      213: 21300144
+    second: torso_plate_platemail_sl_l_2
+  - first:
+      213: 21300146
+    second: torso_plate_platemail_sl_l_3
+  - first:
+      213: 21300148
+    second: torso_plate_platemail_sl_l_4
+  - first:
+      213: 21300150
+    second: torso_plate_platemail_sl_l_5
+  - first:
+      213: 21300152
+    second: torso_plate_platemail_sl_t_0
+  - first:
+      213: 21300154
+    second: torso_plate_platemail_sl_t_1
+  - first:
+      213: 21300156
+    second: torso_plate_platemail_sl_t_2
+  - first:
+      213: 21300158
+    second: torso_plate_platemail_sl_t_3
+  - first:
+      213: 21300160
+    second: torso_plate_platemail_sl_t_4
+  - first:
+      213: 21300162
+    second: torso_plate_platemail_sl_t_5
+  - first:
+      213: 21300164
+    second: torso_plate_platemail_wc_r_0
+  - first:
+      213: 21300166
+    second: torso_plate_platemail_wc_r_1
+  - first:
+      213: 21300168
+    second: torso_plate_platemail_wc_r_2
+  - first:
+      213: 21300170
+    second: torso_plate_platemail_wc_r_3
+  - first:
+      213: 21300172
+    second: torso_plate_platemail_wc_r_4
+  - first:
+      213: 21300174
+    second: torso_plate_platemail_wc_r_5
+  - first:
+      213: 21300176
+    second: torso_plate_platemail_wc_r_6
+  - first:
+      213: 21300178
+    second: torso_plate_platemail_wc_r_7
+  - first:
+      213: 21300180
+    second: torso_plate_platemail_wc_r_8
+  - first:
+      213: 21300182
+    second: torso_plate_platemail_wc_d_0
+  - first:
+      213: 21300184
+    second: torso_plate_platemail_wc_d_1
+  - first:
+      213: 21300186
+    second: torso_plate_platemail_wc_d_2
+  - first:
+      213: 21300188
+    second: torso_plate_platemail_wc_d_3
+  - first:
+      213: 21300190
+    second: torso_plate_platemail_wc_d_4
+  - first:
+      213: 21300192
+    second: torso_plate_platemail_wc_d_5
+  - first:
+      213: 21300194
+    second: torso_plate_platemail_wc_d_6
+  - first:
+      213: 21300196
+    second: torso_plate_platemail_wc_d_7
+  - first:
+      213: 21300198
+    second: torso_plate_platemail_wc_d_8
+  - first:
+      213: 21300200
+    second: torso_plate_platemail_wc_l_0
+  - first:
+      213: 21300202
+    second: torso_plate_platemail_wc_l_1
+  - first:
+      213: 21300204
+    second: torso_plate_platemail_wc_l_2
+  - first:
+      213: 21300206
+    second: torso_plate_platemail_wc_l_3
+  - first:
+      213: 21300208
+    second: torso_plate_platemail_wc_l_4
+  - first:
+      213: 21300210
+    second: torso_plate_platemail_wc_l_5
+  - first:
+      213: 21300212
+    second: torso_plate_platemail_wc_l_6
+  - first:
+      213: 21300214
+    second: torso_plate_platemail_wc_l_7
+  - first:
+      213: 21300216
+    second: torso_plate_platemail_wc_l_8
+  - first:
+      213: 21300218
+    second: torso_plate_platemail_wc_t_0
+  - first:
+      213: 21300220
+    second: torso_plate_platemail_wc_t_1
+  - first:
+      213: 21300222
+    second: torso_plate_platemail_wc_t_2
+  - first:
+      213: 21300224
+    second: torso_plate_platemail_wc_t_3
+  - first:
+      213: 21300226
+    second: torso_plate_platemail_wc_t_4
+  - first:
+      213: 21300228
+    second: torso_plate_platemail_wc_t_5
+  - first:
+      213: 21300230
+    second: torso_plate_platemail_wc_t_6
+  - first:
+      213: 21300232
+    second: torso_plate_platemail_wc_t_7
+  - first:
+      213: 21300234
+    second: torso_plate_platemail_wc_t_8
+  - first:
+      213: 21300236
+    second: torso_plate_platemail_th_r_0
+  - first:
+      213: 21300238
+    second: torso_plate_platemail_th_r_1
+  - first:
+      213: 21300240
+    second: torso_plate_platemail_th_r_2
+  - first:
+      213: 21300242
+    second: torso_plate_platemail_th_r_3
+  - first:
+      213: 21300244
+    second: torso_plate_platemail_th_r_4
+  - first:
+      213: 21300246
+    second: torso_plate_platemail_th_r_5
+  - first:
+      213: 21300248
+    second: torso_plate_platemail_th_r_6
+  - first:
+      213: 21300250
+    second: torso_plate_platemail_th_r_7
+  - first:
+      213: 21300252
+    second: torso_plate_platemail_th_d_0
+  - first:
+      213: 21300254
+    second: torso_plate_platemail_th_d_1
+  - first:
+      213: 21300256
+    second: torso_plate_platemail_th_d_2
+  - first:
+      213: 21300258
+    second: torso_plate_platemail_th_d_3
+  - first:
+      213: 21300260
+    second: torso_plate_platemail_th_d_4
+  - first:
+      213: 21300262
+    second: torso_plate_platemail_th_d_5
+  - first:
+      213: 21300264
+    second: torso_plate_platemail_th_d_6
+  - first:
+      213: 21300266
+    second: torso_plate_platemail_th_d_7
+  - first:
+      213: 21300268
+    second: torso_plate_platemail_th_l_0
+  - first:
+      213: 21300270
+    second: torso_plate_platemail_th_l_1
+  - first:
+      213: 21300272
+    second: torso_plate_platemail_th_l_2
+  - first:
+      213: 21300274
+    second: torso_plate_platemail_th_l_3
+  - first:
+      213: 21300276
+    second: torso_plate_platemail_th_l_4
+  - first:
+      213: 21300278
+    second: torso_plate_platemail_th_l_5
+  - first:
+      213: 21300280
+    second: torso_plate_platemail_th_l_6
+  - first:
+      213: 21300282
+    second: torso_plate_platemail_th_l_7
+  - first:
+      213: 21300284
+    second: torso_plate_platemail_th_t_0
+  - first:
+      213: 21300286
+    second: torso_plate_platemail_th_t_1
+  - first:
+      213: 21300288
+    second: torso_plate_platemail_th_t_2
+  - first:
+      213: 21300290
+    second: torso_plate_platemail_th_t_3
+  - first:
+      213: 21300292
+    second: torso_plate_platemail_th_t_4
+  - first:
+      213: 21300294
+    second: torso_plate_platemail_th_t_5
+  - first:
+      213: 21300296
+    second: torso_plate_platemail_th_t_6
+  - first:
+      213: 21300298
+    second: torso_plate_platemail_th_t_7
+  - first:
+      213: 21300300
+    second: torso_plate_platemail_sc_r_0
+  - first:
+      213: 21300302
+    second: torso_plate_platemail_sc_r_1
+  - first:
+      213: 21300304
+    second: torso_plate_platemail_sc_r_2
+  - first:
+      213: 21300306
+    second: torso_plate_platemail_sc_r_3
+  - first:
+      213: 21300308
+    second: torso_plate_platemail_sc_r_4
+  - first:
+      213: 21300310
+    second: torso_plate_platemail_sc_r_5
+  - first:
+      213: 21300312
+    second: torso_plate_platemail_sc_r_6
+  - first:
+      213: 21300314
+    second: torso_plate_platemail_sc_d_0
+  - first:
+      213: 21300316
+    second: torso_plate_platemail_sc_d_1
+  - first:
+      213: 21300318
+    second: torso_plate_platemail_sc_d_2
+  - first:
+      213: 21300320
+    second: torso_plate_platemail_sc_d_3
+  - first:
+      213: 21300322
+    second: torso_plate_platemail_sc_d_4
+  - first:
+      213: 21300324
+    second: torso_plate_platemail_sc_d_5
+  - first:
+      213: 21300326
+    second: torso_plate_platemail_sc_d_6
+  - first:
+      213: 21300328
+    second: torso_plate_platemail_sc_l_0
+  - first:
+      213: 21300330
+    second: torso_plate_platemail_sc_l_1
+  - first:
+      213: 21300332
+    second: torso_plate_platemail_sc_l_2
+  - first:
+      213: 21300334
+    second: torso_plate_platemail_sc_l_3
+  - first:
+      213: 21300336
+    second: torso_plate_platemail_sc_l_4
+  - first:
+      213: 21300338
+    second: torso_plate_platemail_sc_l_5
+  - first:
+      213: 21300340
+    second: torso_plate_platemail_sc_l_6
+  - first:
+      213: 21300342
+    second: torso_plate_platemail_sc_t_0
+  - first:
+      213: 21300344
+    second: torso_plate_platemail_sc_t_1
+  - first:
+      213: 21300346
+    second: torso_plate_platemail_sc_t_2
+  - first:
+      213: 21300348
+    second: torso_plate_platemail_sc_t_3
+  - first:
+      213: 21300350
+    second: torso_plate_platemail_sc_t_4
+  - first:
+      213: 21300352
+    second: torso_plate_platemail_sc_t_5
+  - first:
+      213: 21300354
+    second: torso_plate_platemail_sc_t_6
+  - first:
+      213: 21300356
+    second: Equipment_arms_male_platemail_hu_0
+  - first:
+      213: 21300358
+    second: Equipment_arms_male_platemail_hu_1
+  - first:
+      213: 21300360
+    second: Equipment_arms_male_platemail_hu_2
+  - first:
+      213: 21300362
+    second: Equipment_arms_male_platemail_hu_3
+  - first:
+      213: 21300364
+    second: Equipment_arms_male_platemail_hu_4
+  - first:
+      213: 21300366
+    second: Equipment_arms_male_platemail_hu_5
+  - first:
+      213: 21300368
+    second: Equipment_arms_male_platemail_sh_r_0
+  - first:
+      213: 21300370
+    second: Equipment_arms_male_platemail_sh_r_1
+  - first:
+      213: 21300372
+    second: Equipment_arms_male_platemail_sh_r_2
+  - first:
+      213: 21300374
+    second: Equipment_arms_male_platemail_sh_r_3
+  - first:
+      213: 21300376
+    second: Equipment_arms_male_platemail_sh_r_4
+  - first:
+      213: 21300378
+    second: Equipment_arms_male_platemail_sh_r_5
+  - first:
+      213: 21300380
+    second: Equipment_arms_male_platemail_sh_r_6
+  - first:
+      213: 21300382
+    second: Equipment_arms_male_platemail_sh_r_7
+  - first:
+      213: 21300384
+    second: Equipment_arms_male_platemail_sh_r_8
+  - first:
+      213: 21300386
+    second: Equipment_arms_male_platemail_sh_r_9
+  - first:
+      213: 21300388
+    second: Equipment_arms_male_platemail_sh_r_10
+  - first:
+      213: 21300390
+    second: Equipment_arms_male_platemail_sh_r_11
+  - first:
+      213: 21300392
+    second: Equipment_arms_male_platemail_sh_r_12
+  - first:
+      213: 21300394
+    second: Equipment_arms_male_platemail_sh_d_0
+  - first:
+      213: 21300396
+    second: Equipment_arms_male_platemail_sh_d_1
+  - first:
+      213: 21300398
+    second: Equipment_arms_male_platemail_sh_d_2
+  - first:
+      213: 21300400
+    second: Equipment_arms_male_platemail_sh_d_3
+  - first:
+      213: 21300402
+    second: Equipment_arms_male_platemail_sh_d_4
+  - first:
+      213: 21300404
+    second: Equipment_arms_male_platemail_sh_d_5
+  - first:
+      213: 21300406
+    second: Equipment_arms_male_platemail_sh_d_6
+  - first:
+      213: 21300408
+    second: Equipment_arms_male_platemail_sh_d_7
+  - first:
+      213: 21300410
+    second: Equipment_arms_male_platemail_sh_d_8
+  - first:
+      213: 21300412
+    second: Equipment_arms_male_platemail_sh_d_9
+  - first:
+      213: 21300414
+    second: Equipment_arms_male_platemail_sh_d_10
+  - first:
+      213: 21300416
+    second: Equipment_arms_male_platemail_sh_d_11
+  - first:
+      213: 21300418
+    second: Equipment_arms_male_platemail_sh_d_12
+  - first:
+      213: 21300420
+    second: Equipment_arms_male_platemail_sh_l_0
+  - first:
+      213: 21300422
+    second: Equipment_arms_male_platemail_sh_l_1
+  - first:
+      213: 21300424
+    second: Equipment_arms_male_platemail_sh_l_2
+  - first:
+      213: 21300426
+    second: Equipment_arms_male_platemail_sh_l_3
+  - first:
+      213: 21300428
+    second: Equipment_arms_male_platemail_sh_l_4
+  - first:
+      213: 21300430
+    second: Equipment_arms_male_platemail_sh_l_5
+  - first:
+      213: 21300432
+    second: Equipment_arms_male_platemail_sh_l_6
+  - first:
+      213: 21300434
+    second: Equipment_arms_male_platemail_sh_l_7
+  - first:
+      213: 21300436
+    second: Equipment_arms_male_platemail_sh_l_8
+  - first:
+      213: 21300438
+    second: Equipment_arms_male_platemail_sh_l_9
+  - first:
+      213: 21300440
+    second: Equipment_arms_male_platemail_sh_l_10
+  - first:
+      213: 21300442
+    second: Equipment_arms_male_platemail_sh_l_11
+  - first:
+      213: 21300444
+    second: Equipment_arms_male_platemail_sh_l_12
+  - first:
+      213: 21300446
+    second: Equipment_arms_male_platemail_sh_t_0
+  - first:
+      213: 21300448
+    second: Equipment_arms_male_platemail_sh_t_1
+  - first:
+      213: 21300450
+    second: Equipment_arms_male_platemail_sh_t_2
+  - first:
+      213: 21300452
+    second: Equipment_arms_male_platemail_sh_t_3
+  - first:
+      213: 21300454
+    second: Equipment_arms_male_platemail_sh_t_4
+  - first:
+      213: 21300456
+    second: Equipment_arms_male_platemail_sh_t_5
+  - first:
+      213: 21300458
+    second: Equipment_arms_male_platemail_sh_t_6
+  - first:
+      213: 21300460
+    second: Equipment_arms_male_platemail_sh_t_7
+  - first:
+      213: 21300462
+    second: Equipment_arms_male_platemail_sh_t_8
+  - first:
+      213: 21300464
+    second: Equipment_arms_male_platemail_sh_t_9
+  - first:
+      213: 21300466
+    second: Equipment_arms_male_platemail_sh_t_10
+  - first:
+      213: 21300468
+    second: Equipment_arms_male_platemail_sh_t_11
+  - first:
+      213: 21300470
+    second: Equipment_arms_male_platemail_sh_t_12
+  - first:
+      213: 21300472
+    second: Equipment_arms_male_platemail_sl_r_0
+  - first:
+      213: 21300474
+    second: Equipment_arms_male_platemail_sl_r_1
+  - first:
+      213: 21300476
+    second: Equipment_arms_male_platemail_sl_r_2
+  - first:
+      213: 21300478
+    second: Equipment_arms_male_platemail_sl_r_3
+  - first:
+      213: 21300480
+    second: Equipment_arms_male_platemail_sl_r_4
+  - first:
+      213: 21300482
+    second: Equipment_arms_male_platemail_sl_r_5
+  - first:
+      213: 21300484
+    second: Equipment_arms_male_platemail_sl_d_0
+  - first:
+      213: 21300486
+    second: Equipment_arms_male_platemail_sl_d_1
+  - first:
+      213: 21300488
+    second: Equipment_arms_male_platemail_sl_d_2
+  - first:
+      213: 21300490
+    second: Equipment_arms_male_platemail_sl_d_3
+  - first:
+      213: 21300492
+    second: Equipment_arms_male_platemail_sl_d_4
+  - first:
+      213: 21300494
+    second: Equipment_arms_male_platemail_sl_d_5
+  - first:
+      213: 21300496
+    second: Equipment_arms_male_platemail_sl_l_0
+  - first:
+      213: 21300498
+    second: Equipment_arms_male_platemail_sl_l_1
+  - first:
+      213: 21300500
+    second: Equipment_arms_male_platemail_sl_l_2
+  - first:
+      213: 21300502
+    second: Equipment_arms_male_platemail_sl_l_3
+  - first:
+      213: 21300504
+    second: Equipment_arms_male_platemail_sl_l_4
+  - first:
+      213: 21300506
+    second: Equipment_arms_male_platemail_sl_l_5
+  - first:
+      213: 21300508
+    second: Equipment_arms_male_platemail_sl_t_0
+  - first:
+      213: 21300510
+    second: Equipment_arms_male_platemail_sl_t_1
+  - first:
+      213: 21300512
+    second: Equipment_arms_male_platemail_sl_t_2
+  - first:
+      213: 21300514
+    second: Equipment_arms_male_platemail_sl_t_3
+  - first:
+      213: 21300516
+    second: Equipment_arms_male_platemail_sl_t_4
+  - first:
+      213: 21300518
+    second: Equipment_arms_male_platemail_sl_t_5
+  - first:
+      213: 21300520
+    second: Equipment_arms_male_platemail_wc_r_0
+  - first:
+      213: 21300522
+    second: Equipment_arms_male_platemail_wc_r_1
+  - first:
+      213: 21300524
+    second: Equipment_arms_male_platemail_wc_r_2
+  - first:
+      213: 21300526
+    second: Equipment_arms_male_platemail_wc_r_3
+  - first:
+      213: 21300528
+    second: Equipment_arms_male_platemail_wc_r_4
+  - first:
+      213: 21300530
+    second: Equipment_arms_male_platemail_wc_r_5
+  - first:
+      213: 21300532
+    second: Equipment_arms_male_platemail_wc_r_6
+  - first:
+      213: 21300534
+    second: Equipment_arms_male_platemail_wc_r_7
+  - first:
+      213: 21300536
+    second: Equipment_arms_male_platemail_wc_r_8
+  - first:
+      213: 21300538
+    second: Equipment_arms_male_platemail_wc_d_0
+  - first:
+      213: 21300540
+    second: Equipment_arms_male_platemail_wc_d_1
+  - first:
+      213: 21300542
+    second: Equipment_arms_male_platemail_wc_d_2
+  - first:
+      213: 21300544
+    second: Equipment_arms_male_platemail_wc_d_3
+  - first:
+      213: 21300546
+    second: Equipment_arms_male_platemail_wc_d_4
+  - first:
+      213: 21300548
+    second: Equipment_arms_male_platemail_wc_d_5
+  - first:
+      213: 21300550
+    second: Equipment_arms_male_platemail_wc_d_6
+  - first:
+      213: 21300552
+    second: Equipment_arms_male_platemail_wc_d_7
+  - first:
+      213: 21300554
+    second: Equipment_arms_male_platemail_wc_d_8
+  - first:
+      213: 21300556
+    second: Equipment_arms_male_platemail_wc_l_0
+  - first:
+      213: 21300558
+    second: Equipment_arms_male_platemail_wc_l_1
+  - first:
+      213: 21300560
+    second: Equipment_arms_male_platemail_wc_l_2
+  - first:
+      213: 21300562
+    second: Equipment_arms_male_platemail_wc_l_3
+  - first:
+      213: 21300564
+    second: Equipment_arms_male_platemail_wc_l_4
+  - first:
+      213: 21300566
+    second: Equipment_arms_male_platemail_wc_l_5
+  - first:
+      213: 21300568
+    second: Equipment_arms_male_platemail_wc_l_6
+  - first:
+      213: 21300570
+    second: Equipment_arms_male_platemail_wc_l_7
+  - first:
+      213: 21300572
+    second: Equipment_arms_male_platemail_wc_l_8
+  - first:
+      213: 21300574
+    second: Equipment_arms_male_platemail_wc_t_0
+  - first:
+      213: 21300576
+    second: Equipment_arms_male_platemail_wc_t_1
+  - first:
+      213: 21300578
+    second: Equipment_arms_male_platemail_wc_t_2
+  - first:
+      213: 21300580
+    second: Equipment_arms_male_platemail_wc_t_3
+  - first:
+      213: 21300582
+    second: Equipment_arms_male_platemail_wc_t_4
+  - first:
+      213: 21300584
+    second: Equipment_arms_male_platemail_wc_t_5
+  - first:
+      213: 21300586
+    second: Equipment_arms_male_platemail_wc_t_6
+  - first:
+      213: 21300588
+    second: Equipment_arms_male_platemail_wc_t_7
+  - first:
+      213: 21300590
+    second: Equipment_arms_male_platemail_wc_t_8
+  - first:
+      213: 21300592
+    second: Equipment_arms_male_platemail_th_r_0
+  - first:
+      213: 21300594
+    second: Equipment_arms_male_platemail_th_r_1
+  - first:
+      213: 21300596
+    second: Equipment_arms_male_platemail_th_r_2
+  - first:
+      213: 21300598
+    second: Equipment_arms_male_platemail_th_r_3
+  - first:
+      213: 21300600
+    second: Equipment_arms_male_platemail_th_r_4
+  - first:
+      213: 21300602
+    second: Equipment_arms_male_platemail_th_r_5
+  - first:
+      213: 21300604
+    second: Equipment_arms_male_platemail_th_r_6
+  - first:
+      213: 21300606
+    second: Equipment_arms_male_platemail_th_r_7
+  - first:
+      213: 21300608
+    second: Equipment_arms_male_platemail_th_d_0
+  - first:
+      213: 21300610
+    second: Equipment_arms_male_platemail_th_d_1
+  - first:
+      213: 21300612
+    second: Equipment_arms_male_platemail_th_d_2
+  - first:
+      213: 21300614
+    second: Equipment_arms_male_platemail_th_d_3
+  - first:
+      213: 21300616
+    second: Equipment_arms_male_platemail_th_d_4
+  - first:
+      213: 21300618
+    second: Equipment_arms_male_platemail_th_d_5
+  - first:
+      213: 21300620
+    second: Equipment_arms_male_platemail_th_d_6
+  - first:
+      213: 21300622
+    second: Equipment_arms_male_platemail_th_d_7
+  - first:
+      213: 21300624
+    second: Equipment_arms_male_platemail_th_l_0
+  - first:
+      213: 21300626
+    second: Equipment_arms_male_platemail_th_l_1
+  - first:
+      213: 21300628
+    second: Equipment_arms_male_platemail_th_l_2
+  - first:
+      213: 21300630
+    second: Equipment_arms_male_platemail_th_l_3
+  - first:
+      213: 21300632
+    second: Equipment_arms_male_platemail_th_l_4
+  - first:
+      213: 21300634
+    second: Equipment_arms_male_platemail_th_l_5
+  - first:
+      213: 21300636
+    second: Equipment_arms_male_platemail_th_l_6
+  - first:
+      213: 21300638
+    second: Equipment_arms_male_platemail_th_l_7
+  - first:
+      213: 21300640
+    second: Equipment_arms_male_platemail_th_t_0
+  - first:
+      213: 21300642
+    second: Equipment_arms_male_platemail_th_t_1
+  - first:
+      213: 21300644
+    second: Equipment_arms_male_platemail_th_t_2
+  - first:
+      213: 21300646
+    second: Equipment_arms_male_platemail_th_t_3
+  - first:
+      213: 21300648
+    second: Equipment_arms_male_platemail_th_t_4
+  - first:
+      213: 21300650
+    second: Equipment_arms_male_platemail_th_t_5
+  - first:
+      213: 21300652
+    second: Equipment_arms_male_platemail_th_t_6
+  - first:
+      213: 21300654
+    second: Equipment_arms_male_platemail_th_t_7
+  - first:
+      213: 21300656
+    second: Equipment_arms_male_platemail_sc_r_0
+  - first:
+      213: 21300658
+    second: Equipment_arms_male_platemail_sc_r_1
+  - first:
+      213: 21300660
+    second: Equipment_arms_male_platemail_sc_r_2
+  - first:
+      213: 21300662
+    second: Equipment_arms_male_platemail_sc_r_3
+  - first:
+      213: 21300664
+    second: Equipment_arms_male_platemail_sc_r_4
+  - first:
+      213: 21300666
+    second: Equipment_arms_male_platemail_sc_r_5
+  - first:
+      213: 21300668
+    second: Equipment_arms_male_platemail_sc_r_6
+  - first:
+      213: 21300670
+    second: Equipment_arms_male_platemail_sc_d_0
+  - first:
+      213: 21300672
+    second: Equipment_arms_male_platemail_sc_d_1
+  - first:
+      213: 21300674
+    second: Equipment_arms_male_platemail_sc_d_2
+  - first:
+      213: 21300676
+    second: Equipment_arms_male_platemail_sc_d_3
+  - first:
+      213: 21300678
+    second: Equipment_arms_male_platemail_sc_d_4
+  - first:
+      213: 21300680
+    second: Equipment_arms_male_platemail_sc_d_5
+  - first:
+      213: 21300682
+    second: Equipment_arms_male_platemail_sc_d_6
+  - first:
+      213: 21300684
+    second: Equipment_arms_male_platemail_sc_l_0
+  - first:
+      213: 21300686
+    second: Equipment_arms_male_platemail_sc_l_1
+  - first:
+      213: 21300688
+    second: Equipment_arms_male_platemail_sc_l_2
+  - first:
+      213: 21300690
+    second: Equipment_arms_male_platemail_sc_l_3
+  - first:
+      213: 21300692
+    second: Equipment_arms_male_platemail_sc_l_4
+  - first:
+      213: 21300694
+    second: Equipment_arms_male_platemail_sc_l_5
+  - first:
+      213: 21300696
+    second: Equipment_arms_male_platemail_sc_l_6
+  - first:
+      213: 21300698
+    second: Equipment_arms_male_platemail_sc_t_0
+  - first:
+      213: 21300700
+    second: Equipment_arms_male_platemail_sc_t_1
+  - first:
+      213: 21300702
+    second: Equipment_arms_male_platemail_sc_t_2
+  - first:
+      213: 21300704
+    second: Equipment_arms_male_platemail_sc_t_3
+  - first:
+      213: 21300706
+    second: Equipment_arms_male_platemail_sc_t_4
+  - first:
+      213: 21300708
+    second: Equipment_arms_male_platemail_sc_t_5
+  - first:
+      213: 21300710
+    second: Equipment_arms_male_platemail_sc_t_6
+  - first:
+      213: 21300712
+    second: arms_male_platemail_hu_0
+  - first:
+      213: 21300714
+    second: arms_male_platemail_hu_1
+  - first:
+      213: 21300716
+    second: arms_male_platemail_hu_2
+  - first:
+      213: 21300718
+    second: arms_male_platemail_hu_3
+  - first:
+      213: 21300720
+    second: arms_male_platemail_hu_4
+  - first:
+      213: 21300722
+    second: arms_male_platemail_hu_5
+  - first:
+      213: 21300724
+    second: arms_male_platemail_sh_r_0
+  - first:
+      213: 21300726
+    second: arms_male_platemail_sh_r_1
+  - first:
+      213: 21300728
+    second: arms_male_platemail_sh_r_2
+  - first:
+      213: 21300730
+    second: arms_male_platemail_sh_r_3
+  - first:
+      213: 21300732
+    second: arms_male_platemail_sh_r_4
+  - first:
+      213: 21300734
+    second: arms_male_platemail_sh_r_5
+  - first:
+      213: 21300736
+    second: arms_male_platemail_sh_r_6
+  - first:
+      213: 21300738
+    second: arms_male_platemail_sh_r_7
+  - first:
+      213: 21300740
+    second: arms_male_platemail_sh_r_8
+  - first:
+      213: 21300742
+    second: arms_male_platemail_sh_r_9
+  - first:
+      213: 21300744
+    second: arms_male_platemail_sh_r_10
+  - first:
+      213: 21300746
+    second: arms_male_platemail_sh_r_11
+  - first:
+      213: 21300748
+    second: arms_male_platemail_sh_r_12
+  - first:
+      213: 21300750
+    second: arms_male_platemail_sh_d_0
+  - first:
+      213: 21300752
+    second: arms_male_platemail_sh_d_1
+  - first:
+      213: 21300754
+    second: arms_male_platemail_sh_d_2
+  - first:
+      213: 21300756
+    second: arms_male_platemail_sh_d_3
+  - first:
+      213: 21300758
+    second: arms_male_platemail_sh_d_4
+  - first:
+      213: 21300760
+    second: arms_male_platemail_sh_d_5
+  - first:
+      213: 21300762
+    second: arms_male_platemail_sh_d_6
+  - first:
+      213: 21300764
+    second: arms_male_platemail_sh_d_7
+  - first:
+      213: 21300766
+    second: arms_male_platemail_sh_d_8
+  - first:
+      213: 21300768
+    second: arms_male_platemail_sh_d_9
+  - first:
+      213: 21300770
+    second: arms_male_platemail_sh_d_10
+  - first:
+      213: 21300772
+    second: arms_male_platemail_sh_d_11
+  - first:
+      213: 21300774
+    second: arms_male_platemail_sh_d_12
+  - first:
+      213: 21300776
+    second: arms_male_platemail_sh_l_0
+  - first:
+      213: 21300778
+    second: arms_male_platemail_sh_l_1
+  - first:
+      213: 21300780
+    second: arms_male_platemail_sh_l_2
+  - first:
+      213: 21300782
+    second: arms_male_platemail_sh_l_3
+  - first:
+      213: 21300784
+    second: arms_male_platemail_sh_l_4
+  - first:
+      213: 21300786
+    second: arms_male_platemail_sh_l_5
+  - first:
+      213: 21300788
+    second: arms_male_platemail_sh_l_6
+  - first:
+      213: 21300790
+    second: arms_male_platemail_sh_l_7
+  - first:
+      213: 21300792
+    second: arms_male_platemail_sh_l_8
+  - first:
+      213: 21300794
+    second: arms_male_platemail_sh_l_9
+  - first:
+      213: 21300796
+    second: arms_male_platemail_sh_l_10
+  - first:
+      213: 21300798
+    second: arms_male_platemail_sh_l_11
+  - first:
+      213: 21300800
+    second: arms_male_platemail_sh_l_12
+  - first:
+      213: 21300802
+    second: arms_male_platemail_sh_t_0
+  - first:
+      213: 21300804
+    second: arms_male_platemail_sh_t_1
+  - first:
+      213: 21300806
+    second: arms_male_platemail_sh_t_2
+  - first:
+      213: 21300808
+    second: arms_male_platemail_sh_t_3
+  - first:
+      213: 21300810
+    second: arms_male_platemail_sh_t_4
+  - first:
+      213: 21300812
+    second: arms_male_platemail_sh_t_5
+  - first:
+      213: 21300814
+    second: arms_male_platemail_sh_t_6
+  - first:
+      213: 21300816
+    second: arms_male_platemail_sh_t_7
+  - first:
+      213: 21300818
+    second: arms_male_platemail_sh_t_8
+  - first:
+      213: 21300820
+    second: arms_male_platemail_sh_t_9
+  - first:
+      213: 21300822
+    second: arms_male_platemail_sh_t_10
+  - first:
+      213: 21300824
+    second: arms_male_platemail_sh_t_11
+  - first:
+      213: 21300826
+    second: arms_male_platemail_sh_t_12
+  - first:
+      213: 21300828
+    second: arms_male_platemail_sl_r_0
+  - first:
+      213: 21300830
+    second: arms_male_platemail_sl_r_1
+  - first:
+      213: 21300832
+    second: arms_male_platemail_sl_r_2
+  - first:
+      213: 21300834
+    second: arms_male_platemail_sl_r_3
+  - first:
+      213: 21300836
+    second: arms_male_platemail_sl_r_4
+  - first:
+      213: 21300838
+    second: arms_male_platemail_sl_r_5
+  - first:
+      213: 21300840
+    second: arms_male_platemail_sl_d_0
+  - first:
+      213: 21300842
+    second: arms_male_platemail_sl_d_1
+  - first:
+      213: 21300844
+    second: arms_male_platemail_sl_d_2
+  - first:
+      213: 21300846
+    second: arms_male_platemail_sl_d_3
+  - first:
+      213: 21300848
+    second: arms_male_platemail_sl_d_4
+  - first:
+      213: 21300850
+    second: arms_male_platemail_sl_d_5
+  - first:
+      213: 21300852
+    second: arms_male_platemail_sl_l_0
+  - first:
+      213: 21300854
+    second: arms_male_platemail_sl_l_1
+  - first:
+      213: 21300856
+    second: arms_male_platemail_sl_l_2
+  - first:
+      213: 21300858
+    second: arms_male_platemail_sl_l_3
+  - first:
+      213: 21300860
+    second: arms_male_platemail_sl_l_4
+  - first:
+      213: 21300862
+    second: arms_male_platemail_sl_l_5
+  - first:
+      213: 21300864
+    second: arms_male_platemail_sl_t_0
+  - first:
+      213: 21300866
+    second: arms_male_platemail_sl_t_1
+  - first:
+      213: 21300868
+    second: arms_male_platemail_sl_t_2
+  - first:
+      213: 21300870
+    second: arms_male_platemail_sl_t_3
+  - first:
+      213: 21300872
+    second: arms_male_platemail_sl_t_4
+  - first:
+      213: 21300874
+    second: arms_male_platemail_sl_t_5
+  - first:
+      213: 21300876
+    second: arms_male_platemail_wc_r_0
+  - first:
+      213: 21300878
+    second: arms_male_platemail_wc_r_1
+  - first:
+      213: 21300880
+    second: arms_male_platemail_wc_r_2
+  - first:
+      213: 21300882
+    second: arms_male_platemail_wc_r_3
+  - first:
+      213: 21300884
+    second: arms_male_platemail_wc_r_4
+  - first:
+      213: 21300886
+    second: arms_male_platemail_wc_r_5
+  - first:
+      213: 21300888
+    second: arms_male_platemail_wc_r_6
+  - first:
+      213: 21300890
+    second: arms_male_platemail_wc_r_7
+  - first:
+      213: 21300892
+    second: arms_male_platemail_wc_r_8
+  - first:
+      213: 21300894
+    second: arms_male_platemail_wc_d_0
+  - first:
+      213: 21300896
+    second: arms_male_platemail_wc_d_1
+  - first:
+      213: 21300898
+    second: arms_male_platemail_wc_d_2
+  - first:
+      213: 21300900
+    second: arms_male_platemail_wc_d_3
+  - first:
+      213: 21300902
+    second: arms_male_platemail_wc_d_4
+  - first:
+      213: 21300904
+    second: arms_male_platemail_wc_d_5
+  - first:
+      213: 21300906
+    second: arms_male_platemail_wc_d_6
+  - first:
+      213: 21300908
+    second: arms_male_platemail_wc_d_7
+  - first:
+      213: 21300910
+    second: arms_male_platemail_wc_d_8
+  - first:
+      213: 21300912
+    second: arms_male_platemail_wc_l_0
+  - first:
+      213: 21300914
+    second: arms_male_platemail_wc_l_1
+  - first:
+      213: 21300916
+    second: arms_male_platemail_wc_l_2
+  - first:
+      213: 21300918
+    second: arms_male_platemail_wc_l_3
+  - first:
+      213: 21300920
+    second: arms_male_platemail_wc_l_4
+  - first:
+      213: 21300922
+    second: arms_male_platemail_wc_l_5
+  - first:
+      213: 21300924
+    second: arms_male_platemail_wc_l_6
+  - first:
+      213: 21300926
+    second: arms_male_platemail_wc_l_7
+  - first:
+      213: 21300928
+    second: arms_male_platemail_wc_l_8
+  - first:
+      213: 21300930
+    second: arms_male_platemail_wc_t_0
+  - first:
+      213: 21300932
+    second: arms_male_platemail_wc_t_1
+  - first:
+      213: 21300934
+    second: arms_male_platemail_wc_t_2
+  - first:
+      213: 21300936
+    second: arms_male_platemail_wc_t_3
+  - first:
+      213: 21300938
+    second: arms_male_platemail_wc_t_4
+  - first:
+      213: 21300940
+    second: arms_male_platemail_wc_t_5
+  - first:
+      213: 21300942
+    second: arms_male_platemail_wc_t_6
+  - first:
+      213: 21300944
+    second: arms_male_platemail_wc_t_7
+  - first:
+      213: 21300946
+    second: arms_male_platemail_wc_t_8
+  - first:
+      213: 21300948
+    second: arms_male_platemail_th_r_0
+  - first:
+      213: 21300950
+    second: arms_male_platemail_th_r_1
+  - first:
+      213: 21300952
+    second: arms_male_platemail_th_r_2
+  - first:
+      213: 21300954
+    second: arms_male_platemail_th_r_3
+  - first:
+      213: 21300956
+    second: arms_male_platemail_th_r_4
+  - first:
+      213: 21300958
+    second: arms_male_platemail_th_r_5
+  - first:
+      213: 21300960
+    second: arms_male_platemail_th_r_6
+  - first:
+      213: 21300962
+    second: arms_male_platemail_th_r_7
+  - first:
+      213: 21300964
+    second: arms_male_platemail_th_d_0
+  - first:
+      213: 21300966
+    second: arms_male_platemail_th_d_1
+  - first:
+      213: 21300968
+    second: arms_male_platemail_th_d_2
+  - first:
+      213: 21300970
+    second: arms_male_platemail_th_d_3
+  - first:
+      213: 21300972
+    second: arms_male_platemail_th_d_4
+  - first:
+      213: 21300974
+    second: arms_male_platemail_th_d_5
+  - first:
+      213: 21300976
+    second: arms_male_platemail_th_d_6
+  - first:
+      213: 21300978
+    second: arms_male_platemail_th_d_7
+  - first:
+      213: 21300980
+    second: arms_male_platemail_th_l_0
+  - first:
+      213: 21300982
+    second: arms_male_platemail_th_l_1
+  - first:
+      213: 21300984
+    second: arms_male_platemail_th_l_2
+  - first:
+      213: 21300986
+    second: arms_male_platemail_th_l_3
+  - first:
+      213: 21300988
+    second: arms_male_platemail_th_l_4
+  - first:
+      213: 21300990
+    second: arms_male_platemail_th_l_5
+  - first:
+      213: 21300992
+    second: arms_male_platemail_th_l_6
+  - first:
+      213: 21300994
+    second: arms_male_platemail_th_l_7
+  - first:
+      213: 21300996
+    second: arms_male_platemail_th_t_0
+  - first:
+      213: 21300998
+    second: arms_male_platemail_th_t_1
+  - first:
+      213: 21301000
+    second: arms_male_platemail_th_t_2
+  - first:
+      213: 21301002
+    second: arms_male_platemail_th_t_3
+  - first:
+      213: 21301004
+    second: arms_male_platemail_th_t_4
+  - first:
+      213: 21301006
+    second: arms_male_platemail_th_t_5
+  - first:
+      213: 21301008
+    second: arms_male_platemail_th_t_6
+  - first:
+      213: 21301010
+    second: arms_male_platemail_th_t_7
+  - first:
+      213: 21301012
+    second: arms_male_platemail_sc_r_0
+  - first:
+      213: 21301014
+    second: arms_male_platemail_sc_r_1
+  - first:
+      213: 21301016
+    second: arms_male_platemail_sc_r_2
+  - first:
+      213: 21301018
+    second: arms_male_platemail_sc_r_3
+  - first:
+      213: 21301020
+    second: arms_male_platemail_sc_r_4
+  - first:
+      213: 21301022
+    second: arms_male_platemail_sc_r_5
+  - first:
+      213: 21301024
+    second: arms_male_platemail_sc_r_6
+  - first:
+      213: 21301026
+    second: arms_male_platemail_sc_d_0
+  - first:
+      213: 21301028
+    second: arms_male_platemail_sc_d_1
+  - first:
+      213: 21301030
+    second: arms_male_platemail_sc_d_2
+  - first:
+      213: 21301032
+    second: arms_male_platemail_sc_d_3
+  - first:
+      213: 21301034
+    second: arms_male_platemail_sc_d_4
+  - first:
+      213: 21301036
+    second: arms_male_platemail_sc_d_5
+  - first:
+      213: 21301038
+    second: arms_male_platemail_sc_d_6
+  - first:
+      213: 21301040
+    second: arms_male_platemail_sc_l_0
+  - first:
+      213: 21301042
+    second: arms_male_platemail_sc_l_1
+  - first:
+      213: 21301044
+    second: arms_male_platemail_sc_l_2
+  - first:
+      213: 21301046
+    second: arms_male_platemail_sc_l_3
+  - first:
+      213: 21301048
+    second: arms_male_platemail_sc_l_4
+  - first:
+      213: 21301050
+    second: arms_male_platemail_sc_l_5
+  - first:
+      213: 21301052
+    second: arms_male_platemail_sc_l_6
+  - first:
+      213: 21301054
+    second: arms_male_platemail_sc_t_0
+  - first:
+      213: 21301056
+    second: arms_male_platemail_sc_t_1
+  - first:
+      213: 21301058
+    second: arms_male_platemail_sc_t_2
+  - first:
+      213: 21301060
+    second: arms_male_platemail_sc_t_3
+  - first:
+      213: 21301062
+    second: arms_male_platemail_sc_t_4
+  - first:
+      213: 21301064
+    second: arms_male_platemail_sc_t_5
+  - first:
+      213: 21301066
+    second: arms_male_platemail_sc_t_6
   externalObjects: {}
-  serializedVersion: 4
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -556,7 +1622,12 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
+    flipGreenChannel: 0
   isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -566,8 +1637,8 @@ TextureImporter:
   textureSettings:
     serializedVersion: 2
     filterMode: 0
-    aniso: -1
-    mipBias: -1
+    aniso: 1
+    mipBias: 0
     wrapU: 1
     wrapV: 1
     wrapW: 1
@@ -579,18 +1650,27 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
   alphaIsTransparency: 1
   spriteTessellationDetail: -1
   textureType: 8
   textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
   platformSettings:
-  - buildTarget: DefaultTexturePlatform
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -599,8 +1679,11 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
-  - buildTarget: Standalone
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -609,8 +1692,11 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
-  - buildTarget: iPhone
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: iPhone
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -619,8 +1705,11 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
-  - buildTarget: Android
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -629,7 +1718,9 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -647,6 +1738,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: arms_male_platemail_hu_1
       rect:
@@ -661,6 +1759,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: arms_male_platemail_hu_2
       rect:
@@ -675,6 +1780,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: arms_male_platemail_hu_3
       rect:
@@ -689,6 +1801,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: arms_male_platemail_hu_4
       rect:
@@ -703,6 +1822,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: arms_male_platemail_hu_5
       rect:
@@ -717,6 +1843,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: arms_male_platemail_sh_r_0
       rect:
@@ -731,6 +1864,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: arms_male_platemail_sh_r_1
       rect:
@@ -745,6 +1885,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: arms_male_platemail_sh_r_2
       rect:
@@ -759,6 +1906,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: arms_male_platemail_sh_r_3
       rect:
@@ -773,6 +1927,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: arms_male_platemail_sh_r_4
       rect:
@@ -787,6 +1948,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: arms_male_platemail_sh_r_5
       rect:
@@ -801,6 +1969,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: arms_male_platemail_sh_r_6
       rect:
@@ -815,6 +1990,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: arms_male_platemail_sh_r_7
       rect:
@@ -829,6 +2011,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: arms_male_platemail_sh_r_8
       rect:
@@ -843,6 +2032,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: arms_male_platemail_sh_r_9
       rect:
@@ -857,6 +2053,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: arms_male_platemail_sh_r_10
       rect:
@@ -871,6 +2074,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: arms_male_platemail_sh_r_11
       rect:
@@ -885,6 +2095,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: arms_male_platemail_sh_r_12
       rect:
@@ -899,6 +2116,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: arms_male_platemail_sh_d_0
       rect:
@@ -913,6 +2137,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: arms_male_platemail_sh_d_1
       rect:
@@ -927,6 +2158,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: arms_male_platemail_sh_d_2
       rect:
@@ -941,6 +2179,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: arms_male_platemail_sh_d_3
       rect:
@@ -955,6 +2200,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: arms_male_platemail_sh_d_4
       rect:
@@ -969,6 +2221,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: arms_male_platemail_sh_d_5
       rect:
@@ -983,6 +2242,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: arms_male_platemail_sh_d_6
       rect:
@@ -997,6 +2263,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: arms_male_platemail_sh_d_7
       rect:
@@ -1011,6 +2284,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: arms_male_platemail_sh_d_8
       rect:
@@ -1025,6 +2305,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: arms_male_platemail_sh_d_9
       rect:
@@ -1039,6 +2326,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: arms_male_platemail_sh_d_10
       rect:
@@ -1053,6 +2347,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: arms_male_platemail_sh_d_11
       rect:
@@ -1067,6 +2368,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: arms_male_platemail_sh_d_12
       rect:
@@ -1081,6 +2389,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: arms_male_platemail_sh_l_0
       rect:
@@ -1095,6 +2410,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: arms_male_platemail_sh_l_1
       rect:
@@ -1109,6 +2431,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: arms_male_platemail_sh_l_2
       rect:
@@ -1123,6 +2452,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: arms_male_platemail_sh_l_3
       rect:
@@ -1137,6 +2473,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: arms_male_platemail_sh_l_4
       rect:
@@ -1151,6 +2494,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: arms_male_platemail_sh_l_5
       rect:
@@ -1165,6 +2515,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: arms_male_platemail_sh_l_6
       rect:
@@ -1179,6 +2536,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: arms_male_platemail_sh_l_7
       rect:
@@ -1193,6 +2557,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: arms_male_platemail_sh_l_8
       rect:
@@ -1207,6 +2578,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: arms_male_platemail_sh_l_9
       rect:
@@ -1221,6 +2599,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: arms_male_platemail_sh_l_10
       rect:
@@ -1235,6 +2620,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: arms_male_platemail_sh_l_11
       rect:
@@ -1249,6 +2641,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: arms_male_platemail_sh_l_12
       rect:
@@ -1263,6 +2662,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: arms_male_platemail_sh_t_0
       rect:
@@ -1277,6 +2683,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: arms_male_platemail_sh_t_1
       rect:
@@ -1291,6 +2704,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: arms_male_platemail_sh_t_2
       rect:
@@ -1305,6 +2725,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: arms_male_platemail_sh_t_3
       rect:
@@ -1319,6 +2746,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: arms_male_platemail_sh_t_4
       rect:
@@ -1333,6 +2767,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: arms_male_platemail_sh_t_5
       rect:
@@ -1347,6 +2788,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: arms_male_platemail_sh_t_6
       rect:
@@ -1361,6 +2809,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: arms_male_platemail_sh_t_7
       rect:
@@ -1375,6 +2830,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: arms_male_platemail_sh_t_8
       rect:
@@ -1389,6 +2851,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: arms_male_platemail_sh_t_9
       rect:
@@ -1403,6 +2872,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: arms_male_platemail_sh_t_10
       rect:
@@ -1417,6 +2893,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: arms_male_platemail_sh_t_11
       rect:
@@ -1431,6 +2914,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: arms_male_platemail_sh_t_12
       rect:
@@ -1445,6 +2935,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: arms_male_platemail_sl_r_0
       rect:
@@ -1459,6 +2956,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: arms_male_platemail_sl_r_1
       rect:
@@ -1473,6 +2977,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: arms_male_platemail_sl_r_2
       rect:
@@ -1487,6 +2998,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: arms_male_platemail_sl_r_3
       rect:
@@ -1501,6 +3019,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: arms_male_platemail_sl_r_4
       rect:
@@ -1515,6 +3040,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: arms_male_platemail_sl_r_5
       rect:
@@ -1529,6 +3061,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: arms_male_platemail_sl_d_0
       rect:
@@ -1543,6 +3082,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: arms_male_platemail_sl_d_1
       rect:
@@ -1557,6 +3103,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: arms_male_platemail_sl_d_2
       rect:
@@ -1571,6 +3124,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: arms_male_platemail_sl_d_3
       rect:
@@ -1585,6 +3145,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: arms_male_platemail_sl_d_4
       rect:
@@ -1599,6 +3166,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: arms_male_platemail_sl_d_5
       rect:
@@ -1613,6 +3187,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: arms_male_platemail_sl_l_0
       rect:
@@ -1627,6 +3208,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: arms_male_platemail_sl_l_1
       rect:
@@ -1641,6 +3229,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: arms_male_platemail_sl_l_2
       rect:
@@ -1655,6 +3250,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: arms_male_platemail_sl_l_3
       rect:
@@ -1669,6 +3271,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: arms_male_platemail_sl_l_4
       rect:
@@ -1683,6 +3292,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: arms_male_platemail_sl_l_5
       rect:
@@ -1697,6 +3313,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: arms_male_platemail_sl_t_0
       rect:
@@ -1711,6 +3334,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: arms_male_platemail_sl_t_1
       rect:
@@ -1725,6 +3355,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: arms_male_platemail_sl_t_2
       rect:
@@ -1739,6 +3376,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: arms_male_platemail_sl_t_3
       rect:
@@ -1753,6 +3397,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: arms_male_platemail_sl_t_4
       rect:
@@ -1767,6 +3418,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: arms_male_platemail_sl_t_5
       rect:
@@ -1781,6 +3439,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: arms_male_platemail_wc_r_0
       rect:
@@ -1795,6 +3460,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: arms_male_platemail_wc_r_1
       rect:
@@ -1809,6 +3481,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: arms_male_platemail_wc_r_2
       rect:
@@ -1823,6 +3502,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: arms_male_platemail_wc_r_3
       rect:
@@ -1837,6 +3523,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: arms_male_platemail_wc_r_4
       rect:
@@ -1851,6 +3544,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: arms_male_platemail_wc_r_5
       rect:
@@ -1865,6 +3565,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: arms_male_platemail_wc_r_6
       rect:
@@ -1879,6 +3586,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: arms_male_platemail_wc_r_7
       rect:
@@ -1893,6 +3607,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: arms_male_platemail_wc_r_8
       rect:
@@ -1907,6 +3628,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: arms_male_platemail_wc_d_0
       rect:
@@ -1921,6 +3649,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: arms_male_platemail_wc_d_1
       rect:
@@ -1935,6 +3670,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: arms_male_platemail_wc_d_2
       rect:
@@ -1949,6 +3691,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: arms_male_platemail_wc_d_3
       rect:
@@ -1963,6 +3712,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: arms_male_platemail_wc_d_4
       rect:
@@ -1977,6 +3733,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: arms_male_platemail_wc_d_5
       rect:
@@ -1991,6 +3754,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: arms_male_platemail_wc_d_6
       rect:
@@ -2005,6 +3775,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: arms_male_platemail_wc_d_7
       rect:
@@ -2019,6 +3796,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: arms_male_platemail_wc_d_8
       rect:
@@ -2033,6 +3817,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: arms_male_platemail_wc_l_0
       rect:
@@ -2047,6 +3838,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: arms_male_platemail_wc_l_1
       rect:
@@ -2061,6 +3859,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: arms_male_platemail_wc_l_2
       rect:
@@ -2075,6 +3880,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: arms_male_platemail_wc_l_3
       rect:
@@ -2089,6 +3901,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: arms_male_platemail_wc_l_4
       rect:
@@ -2103,6 +3922,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: arms_male_platemail_wc_l_5
       rect:
@@ -2117,6 +3943,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: arms_male_platemail_wc_l_6
       rect:
@@ -2131,6 +3964,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: arms_male_platemail_wc_l_7
       rect:
@@ -2145,6 +3985,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: arms_male_platemail_wc_l_8
       rect:
@@ -2159,6 +4006,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: arms_male_platemail_wc_t_0
       rect:
@@ -2173,6 +4027,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: arms_male_platemail_wc_t_1
       rect:
@@ -2187,6 +4048,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: arms_male_platemail_wc_t_2
       rect:
@@ -2201,6 +4069,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: arms_male_platemail_wc_t_3
       rect:
@@ -2215,6 +4090,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: arms_male_platemail_wc_t_4
       rect:
@@ -2229,6 +4111,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: arms_male_platemail_wc_t_5
       rect:
@@ -2243,6 +4132,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: arms_male_platemail_wc_t_6
       rect:
@@ -2257,6 +4153,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: arms_male_platemail_wc_t_7
       rect:
@@ -2271,6 +4174,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: arms_male_platemail_wc_t_8
       rect:
@@ -2285,6 +4195,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: arms_male_platemail_th_r_0
       rect:
@@ -2299,6 +4216,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: arms_male_platemail_th_r_1
       rect:
@@ -2313,6 +4237,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: arms_male_platemail_th_r_2
       rect:
@@ -2327,6 +4258,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: arms_male_platemail_th_r_3
       rect:
@@ -2341,6 +4279,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: arms_male_platemail_th_r_4
       rect:
@@ -2355,6 +4300,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: arms_male_platemail_th_r_5
       rect:
@@ -2369,6 +4321,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: arms_male_platemail_th_r_6
       rect:
@@ -2383,6 +4342,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: arms_male_platemail_th_r_7
       rect:
@@ -2397,6 +4363,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: arms_male_platemail_th_d_0
       rect:
@@ -2411,6 +4384,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: arms_male_platemail_th_d_1
       rect:
@@ -2425,6 +4405,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: arms_male_platemail_th_d_2
       rect:
@@ -2439,6 +4426,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: arms_male_platemail_th_d_3
       rect:
@@ -2453,6 +4447,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: arms_male_platemail_th_d_4
       rect:
@@ -2467,6 +4468,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: arms_male_platemail_th_d_5
       rect:
@@ -2481,6 +4489,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: arms_male_platemail_th_d_6
       rect:
@@ -2495,6 +4510,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: arms_male_platemail_th_d_7
       rect:
@@ -2509,6 +4531,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: arms_male_platemail_th_l_0
       rect:
@@ -2523,6 +4552,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: arms_male_platemail_th_l_1
       rect:
@@ -2537,6 +4573,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: arms_male_platemail_th_l_2
       rect:
@@ -2551,6 +4594,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: arms_male_platemail_th_l_3
       rect:
@@ -2565,6 +4615,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: arms_male_platemail_th_l_4
       rect:
@@ -2579,6 +4636,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: arms_male_platemail_th_l_5
       rect:
@@ -2593,6 +4657,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: arms_male_platemail_th_l_6
       rect:
@@ -2607,6 +4678,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: arms_male_platemail_th_l_7
       rect:
@@ -2621,6 +4699,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: arms_male_platemail_th_t_0
       rect:
@@ -2635,6 +4720,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: arms_male_platemail_th_t_1
       rect:
@@ -2649,6 +4741,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: arms_male_platemail_th_t_2
       rect:
@@ -2663,6 +4762,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: arms_male_platemail_th_t_3
       rect:
@@ -2677,6 +4783,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: arms_male_platemail_th_t_4
       rect:
@@ -2691,6 +4804,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: arms_male_platemail_th_t_5
       rect:
@@ -2705,6 +4825,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: arms_male_platemail_th_t_6
       rect:
@@ -2719,6 +4846,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: arms_male_platemail_th_t_7
       rect:
@@ -2733,6 +4867,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: arms_male_platemail_sc_r_0
       rect:
@@ -2747,6 +4888,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: arms_male_platemail_sc_r_1
       rect:
@@ -2761,6 +4909,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: arms_male_platemail_sc_r_2
       rect:
@@ -2775,6 +4930,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: arms_male_platemail_sc_r_3
       rect:
@@ -2789,6 +4951,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: arms_male_platemail_sc_r_4
       rect:
@@ -2803,6 +4972,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: arms_male_platemail_sc_r_5
       rect:
@@ -2817,6 +4993,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: arms_male_platemail_sc_r_6
       rect:
@@ -2831,6 +5014,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: arms_male_platemail_sc_d_0
       rect:
@@ -2845,6 +5035,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: arms_male_platemail_sc_d_1
       rect:
@@ -2859,6 +5056,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: arms_male_platemail_sc_d_2
       rect:
@@ -2873,6 +5077,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: arms_male_platemail_sc_d_3
       rect:
@@ -2887,6 +5098,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: arms_male_platemail_sc_d_4
       rect:
@@ -2901,6 +5119,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: arms_male_platemail_sc_d_5
       rect:
@@ -2915,6 +5140,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: arms_male_platemail_sc_d_6
       rect:
@@ -2929,6 +5161,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: arms_male_platemail_sc_l_0
       rect:
@@ -2943,6 +5182,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: arms_male_platemail_sc_l_1
       rect:
@@ -2957,6 +5203,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: arms_male_platemail_sc_l_2
       rect:
@@ -2971,6 +5224,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: arms_male_platemail_sc_l_3
       rect:
@@ -2985,6 +5245,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: arms_male_platemail_sc_l_4
       rect:
@@ -2999,6 +5266,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: arms_male_platemail_sc_l_5
       rect:
@@ -3013,6 +5287,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: arms_male_platemail_sc_l_6
       rect:
@@ -3027,6 +5308,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: arms_male_platemail_sc_t_0
       rect:
@@ -3041,6 +5329,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: arms_male_platemail_sc_t_1
       rect:
@@ -3055,6 +5350,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: arms_male_platemail_sc_t_2
       rect:
@@ -3069,6 +5371,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: arms_male_platemail_sc_t_3
       rect:
@@ -3083,6 +5392,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: arms_male_platemail_sc_t_4
       rect:
@@ -3097,6 +5413,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: arms_male_platemail_sc_t_5
       rect:
@@ -3111,6 +5434,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: arms_male_platemail_sc_t_6
       rect:
@@ -3125,9 +5455,204 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
-  spritePackingTag: character
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      arms_male_platemail_hu_0: 21300712
+      arms_male_platemail_hu_1: 21300714
+      arms_male_platemail_hu_2: 21300716
+      arms_male_platemail_hu_3: 21300718
+      arms_male_platemail_hu_4: 21300720
+      arms_male_platemail_hu_5: 21300722
+      arms_male_platemail_sc_d_0: 21301026
+      arms_male_platemail_sc_d_1: 21301028
+      arms_male_platemail_sc_d_2: 21301030
+      arms_male_platemail_sc_d_3: 21301032
+      arms_male_platemail_sc_d_4: 21301034
+      arms_male_platemail_sc_d_5: 21301036
+      arms_male_platemail_sc_d_6: 21301038
+      arms_male_platemail_sc_l_0: 21301040
+      arms_male_platemail_sc_l_1: 21301042
+      arms_male_platemail_sc_l_2: 21301044
+      arms_male_platemail_sc_l_3: 21301046
+      arms_male_platemail_sc_l_4: 21301048
+      arms_male_platemail_sc_l_5: 21301050
+      arms_male_platemail_sc_l_6: 21301052
+      arms_male_platemail_sc_r_0: 21301012
+      arms_male_platemail_sc_r_1: 21301014
+      arms_male_platemail_sc_r_2: 21301016
+      arms_male_platemail_sc_r_3: 21301018
+      arms_male_platemail_sc_r_4: 21301020
+      arms_male_platemail_sc_r_5: 21301022
+      arms_male_platemail_sc_r_6: 21301024
+      arms_male_platemail_sc_t_0: 21301054
+      arms_male_platemail_sc_t_1: 21301056
+      arms_male_platemail_sc_t_2: 21301058
+      arms_male_platemail_sc_t_3: 21301060
+      arms_male_platemail_sc_t_4: 21301062
+      arms_male_platemail_sc_t_5: 21301064
+      arms_male_platemail_sc_t_6: 21301066
+      arms_male_platemail_sh_d_0: 21300750
+      arms_male_platemail_sh_d_1: 21300752
+      arms_male_platemail_sh_d_10: 21300770
+      arms_male_platemail_sh_d_11: 21300772
+      arms_male_platemail_sh_d_12: 21300774
+      arms_male_platemail_sh_d_2: 21300754
+      arms_male_platemail_sh_d_3: 21300756
+      arms_male_platemail_sh_d_4: 21300758
+      arms_male_platemail_sh_d_5: 21300760
+      arms_male_platemail_sh_d_6: 21300762
+      arms_male_platemail_sh_d_7: 21300764
+      arms_male_platemail_sh_d_8: 21300766
+      arms_male_platemail_sh_d_9: 21300768
+      arms_male_platemail_sh_l_0: 21300776
+      arms_male_platemail_sh_l_1: 21300778
+      arms_male_platemail_sh_l_10: 21300796
+      arms_male_platemail_sh_l_11: 21300798
+      arms_male_platemail_sh_l_12: 21300800
+      arms_male_platemail_sh_l_2: 21300780
+      arms_male_platemail_sh_l_3: 21300782
+      arms_male_platemail_sh_l_4: 21300784
+      arms_male_platemail_sh_l_5: 21300786
+      arms_male_platemail_sh_l_6: 21300788
+      arms_male_platemail_sh_l_7: 21300790
+      arms_male_platemail_sh_l_8: 21300792
+      arms_male_platemail_sh_l_9: 21300794
+      arms_male_platemail_sh_r_0: 21300724
+      arms_male_platemail_sh_r_1: 21300726
+      arms_male_platemail_sh_r_10: 21300744
+      arms_male_platemail_sh_r_11: 21300746
+      arms_male_platemail_sh_r_12: 21300748
+      arms_male_platemail_sh_r_2: 21300728
+      arms_male_platemail_sh_r_3: 21300730
+      arms_male_platemail_sh_r_4: 21300732
+      arms_male_platemail_sh_r_5: 21300734
+      arms_male_platemail_sh_r_6: 21300736
+      arms_male_platemail_sh_r_7: 21300738
+      arms_male_platemail_sh_r_8: 21300740
+      arms_male_platemail_sh_r_9: 21300742
+      arms_male_platemail_sh_t_0: 21300802
+      arms_male_platemail_sh_t_1: 21300804
+      arms_male_platemail_sh_t_10: 21300822
+      arms_male_platemail_sh_t_11: 21300824
+      arms_male_platemail_sh_t_12: 21300826
+      arms_male_platemail_sh_t_2: 21300806
+      arms_male_platemail_sh_t_3: 21300808
+      arms_male_platemail_sh_t_4: 21300810
+      arms_male_platemail_sh_t_5: 21300812
+      arms_male_platemail_sh_t_6: 21300814
+      arms_male_platemail_sh_t_7: 21300816
+      arms_male_platemail_sh_t_8: 21300818
+      arms_male_platemail_sh_t_9: 21300820
+      arms_male_platemail_sl_d_0: 21300840
+      arms_male_platemail_sl_d_1: 21300842
+      arms_male_platemail_sl_d_2: 21300844
+      arms_male_platemail_sl_d_3: 21300846
+      arms_male_platemail_sl_d_4: 21300848
+      arms_male_platemail_sl_d_5: 21300850
+      arms_male_platemail_sl_l_0: 21300852
+      arms_male_platemail_sl_l_1: 21300854
+      arms_male_platemail_sl_l_2: 21300856
+      arms_male_platemail_sl_l_3: 21300858
+      arms_male_platemail_sl_l_4: 21300860
+      arms_male_platemail_sl_l_5: 21300862
+      arms_male_platemail_sl_r_0: 21300828
+      arms_male_platemail_sl_r_1: 21300830
+      arms_male_platemail_sl_r_2: 21300832
+      arms_male_platemail_sl_r_3: 21300834
+      arms_male_platemail_sl_r_4: 21300836
+      arms_male_platemail_sl_r_5: 21300838
+      arms_male_platemail_sl_t_0: 21300864
+      arms_male_platemail_sl_t_1: 21300866
+      arms_male_platemail_sl_t_2: 21300868
+      arms_male_platemail_sl_t_3: 21300870
+      arms_male_platemail_sl_t_4: 21300872
+      arms_male_platemail_sl_t_5: 21300874
+      arms_male_platemail_th_d_0: 21300964
+      arms_male_platemail_th_d_1: 21300966
+      arms_male_platemail_th_d_2: 21300968
+      arms_male_platemail_th_d_3: 21300970
+      arms_male_platemail_th_d_4: 21300972
+      arms_male_platemail_th_d_5: 21300974
+      arms_male_platemail_th_d_6: 21300976
+      arms_male_platemail_th_d_7: 21300978
+      arms_male_platemail_th_l_0: 21300980
+      arms_male_platemail_th_l_1: 21300982
+      arms_male_platemail_th_l_2: 21300984
+      arms_male_platemail_th_l_3: 21300986
+      arms_male_platemail_th_l_4: 21300988
+      arms_male_platemail_th_l_5: 21300990
+      arms_male_platemail_th_l_6: 21300992
+      arms_male_platemail_th_l_7: 21300994
+      arms_male_platemail_th_r_0: 21300948
+      arms_male_platemail_th_r_1: 21300950
+      arms_male_platemail_th_r_2: 21300952
+      arms_male_platemail_th_r_3: 21300954
+      arms_male_platemail_th_r_4: 21300956
+      arms_male_platemail_th_r_5: 21300958
+      arms_male_platemail_th_r_6: 21300960
+      arms_male_platemail_th_r_7: 21300962
+      arms_male_platemail_th_t_0: 21300996
+      arms_male_platemail_th_t_1: 21300998
+      arms_male_platemail_th_t_2: 21301000
+      arms_male_platemail_th_t_3: 21301002
+      arms_male_platemail_th_t_4: 21301004
+      arms_male_platemail_th_t_5: 21301006
+      arms_male_platemail_th_t_6: 21301008
+      arms_male_platemail_th_t_7: 21301010
+      arms_male_platemail_wc_d_0: 21300894
+      arms_male_platemail_wc_d_1: 21300896
+      arms_male_platemail_wc_d_2: 21300898
+      arms_male_platemail_wc_d_3: 21300900
+      arms_male_platemail_wc_d_4: 21300902
+      arms_male_platemail_wc_d_5: 21300904
+      arms_male_platemail_wc_d_6: 21300906
+      arms_male_platemail_wc_d_7: 21300908
+      arms_male_platemail_wc_d_8: 21300910
+      arms_male_platemail_wc_l_0: 21300912
+      arms_male_platemail_wc_l_1: 21300914
+      arms_male_platemail_wc_l_2: 21300916
+      arms_male_platemail_wc_l_3: 21300918
+      arms_male_platemail_wc_l_4: 21300920
+      arms_male_platemail_wc_l_5: 21300922
+      arms_male_platemail_wc_l_6: 21300924
+      arms_male_platemail_wc_l_7: 21300926
+      arms_male_platemail_wc_l_8: 21300928
+      arms_male_platemail_wc_r_0: 21300876
+      arms_male_platemail_wc_r_1: 21300878
+      arms_male_platemail_wc_r_2: 21300880
+      arms_male_platemail_wc_r_3: 21300882
+      arms_male_platemail_wc_r_4: 21300884
+      arms_male_platemail_wc_r_5: 21300886
+      arms_male_platemail_wc_r_6: 21300888
+      arms_male_platemail_wc_r_7: 21300890
+      arms_male_platemail_wc_r_8: 21300892
+      arms_male_platemail_wc_t_0: 21300930
+      arms_male_platemail_wc_t_1: 21300932
+      arms_male_platemail_wc_t_2: 21300934
+      arms_male_platemail_wc_t_3: 21300936
+      arms_male_platemail_wc_t_4: 21300938
+      arms_male_platemail_wc_t_5: 21300940
+      arms_male_platemail_wc_t_6: 21300942
+      arms_male_platemail_wc_t_7: 21300944
+      arms_male_platemail_wc_t_8: 21300946
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 

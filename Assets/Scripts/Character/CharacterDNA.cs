@@ -9,7 +9,7 @@ namespace Assets.Scripts.Character
     {
         // This is the LPC Character DNA Block class! In a real use case, 
         // this information would be represented by both the character's 
-        // stats (race, hair, etc..) as well as their armor/weapons rather 
+        // stats (race, hair, etc…) and their armor/weapons rather 
         // than being lumped together into one class
 
         public Dictionary<string, CharacterDNABlock> DNABlocks { get; } = DNABlockType.TypeList.ToDictionary(bt => bt, v => new CharacterDNABlock());
@@ -34,12 +34,7 @@ namespace Assets.Scripts.Character
 
         public bool IsDirty()
         {
-            foreach (var blockKey in DNABlocks.Keys)
-            {
-                if (DNABlocks[blockKey].IsDirty) return true;
-            }
-
-            return false;
+            return DNABlocks.Keys.Any(blockKey => DNABlocks[blockKey].IsDirty);
         }
     }
 }

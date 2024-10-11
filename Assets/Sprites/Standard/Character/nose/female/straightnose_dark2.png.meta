@@ -1,367 +1,1077 @@
 fileFormatVersion: 2
 guid: edf7dbcb4a46c104085b94094c71f969
-timeCreated: 1486885283
-licenseType: Free
 TextureImporter:
-  fileIDToRecycleName:
-    21300000: hu_0
-    21300002: hu_1
-    21300004: hu_2
-    21300006: hu_3
-    21300008: hu_4
-    21300010: hu_5
-    21300012: sh_r_0
-    21300014: sh_r_1
-    21300016: sh_r_2
-    21300018: sh_r_3
-    21300020: sh_r_4
-    21300022: sh_r_5
-    21300024: sh_r_6
-    21300026: sh_r_7
-    21300028: sh_r_8
-    21300030: sh_r_9
-    21300032: sh_r_10
-    21300034: sh_r_11
-    21300036: sh_r_12
-    21300038: sh_d_0
-    21300040: sh_d_1
-    21300042: sh_d_2
-    21300044: sh_d_3
-    21300046: sh_d_4
-    21300048: sh_d_5
-    21300050: sh_d_6
-    21300052: sh_d_7
-    21300054: sh_d_8
-    21300056: sh_d_9
-    21300058: sh_d_10
-    21300060: sh_d_11
-    21300062: sh_d_12
-    21300064: sh_l_0
-    21300066: sh_l_1
-    21300068: sh_l_2
-    21300070: sh_l_3
-    21300072: sh_l_4
-    21300074: sh_l_5
-    21300076: sh_l_6
-    21300078: sh_l_7
-    21300080: sh_l_8
-    21300082: sh_l_9
-    21300084: sh_l_10
-    21300086: sh_l_11
-    21300088: sh_l_12
-    21300090: sh_t_0
-    21300092: sh_t_1
-    21300094: sh_t_2
-    21300096: sh_t_3
-    21300098: sh_t_4
-    21300100: sh_t_5
-    21300102: sh_t_6
-    21300104: sh_t_7
-    21300106: sh_t_8
-    21300108: sh_t_9
-    21300110: sh_t_10
-    21300112: sh_t_11
-    21300114: sh_t_12
-    21300116: sl_r_0
-    21300118: sl_r_1
-    21300120: sl_r_2
-    21300122: sl_r_3
-    21300124: sl_r_4
-    21300126: sl_r_5
-    21300128: sl_d_0
-    21300130: sl_d_1
-    21300132: sl_d_2
-    21300134: sl_d_3
-    21300136: sl_d_4
-    21300138: sl_d_5
-    21300140: sl_l_0
-    21300142: sl_l_1
-    21300144: sl_l_2
-    21300146: sl_l_3
-    21300148: sl_l_4
-    21300150: sl_l_5
-    21300152: sl_t_0
-    21300154: sl_t_1
-    21300156: sl_t_2
-    21300158: sl_t_3
-    21300160: sl_t_4
-    21300162: sl_t_5
-    21300164: wc_r_0
-    21300166: wc_r_1
-    21300168: wc_r_2
-    21300170: wc_r_3
-    21300172: wc_r_4
-    21300174: wc_r_5
-    21300176: wc_r_6
-    21300178: wc_r_7
-    21300180: wc_r_8
-    21300182: wc_d_0
-    21300184: wc_d_1
-    21300186: wc_d_2
-    21300188: wc_d_3
-    21300190: wc_d_4
-    21300192: wc_d_5
-    21300194: wc_d_6
-    21300196: wc_d_7
-    21300198: wc_d_8
-    21300200: wc_l_0
-    21300202: wc_l_1
-    21300204: wc_l_2
-    21300206: wc_l_3
-    21300208: wc_l_4
-    21300210: wc_l_5
-    21300212: wc_l_6
-    21300214: wc_l_7
-    21300216: wc_l_8
-    21300218: wc_t_0
-    21300220: wc_t_1
-    21300222: wc_t_2
-    21300224: wc_t_3
-    21300226: wc_t_4
-    21300228: wc_t_5
-    21300230: wc_t_6
-    21300232: wc_t_7
-    21300234: wc_t_8
-    21300236: th_r_0
-    21300238: th_r_1
-    21300240: th_r_2
-    21300242: th_r_3
-    21300244: th_r_4
-    21300246: th_r_5
-    21300248: th_r_6
-    21300250: th_r_7
-    21300252: th_d_0
-    21300254: th_d_1
-    21300256: th_d_2
-    21300258: th_d_3
-    21300260: th_d_4
-    21300262: th_d_5
-    21300264: th_d_6
-    21300266: th_d_7
-    21300268: th_l_0
-    21300270: th_l_1
-    21300272: th_l_2
-    21300274: th_l_3
-    21300276: th_l_4
-    21300278: th_l_5
-    21300280: th_l_6
-    21300282: th_l_7
-    21300284: th_t_0
-    21300286: th_t_1
-    21300288: th_t_2
-    21300290: th_t_3
-    21300292: th_t_4
-    21300294: th_t_5
-    21300296: th_t_6
-    21300298: th_t_7
-    21300300: sc_r_0
-    21300302: sc_r_1
-    21300304: sc_r_2
-    21300306: sc_r_3
-    21300308: sc_r_4
-    21300310: sc_r_5
-    21300312: sc_r_6
-    21300314: sc_d_0
-    21300316: sc_d_1
-    21300318: sc_d_2
-    21300320: sc_d_3
-    21300322: sc_d_4
-    21300324: sc_d_5
-    21300326: sc_d_6
-    21300328: sc_l_0
-    21300330: sc_l_1
-    21300332: sc_l_2
-    21300334: sc_l_3
-    21300336: sc_l_4
-    21300338: sc_l_5
-    21300340: sc_l_6
-    21300342: sc_t_0
-    21300344: sc_t_1
-    21300346: sc_t_2
-    21300348: sc_t_3
-    21300350: sc_t_4
-    21300352: sc_t_5
-    21300354: sc_t_6
-    21300356: nose_female_straightnose_dark2_hu_0
-    21300358: nose_female_straightnose_dark2_hu_1
-    21300360: nose_female_straightnose_dark2_hu_2
-    21300362: nose_female_straightnose_dark2_hu_3
-    21300364: nose_female_straightnose_dark2_hu_4
-    21300366: nose_female_straightnose_dark2_hu_5
-    21300368: nose_female_straightnose_dark2_sh_r_0
-    21300370: nose_female_straightnose_dark2_sh_r_1
-    21300372: nose_female_straightnose_dark2_sh_r_2
-    21300374: nose_female_straightnose_dark2_sh_r_3
-    21300376: nose_female_straightnose_dark2_sh_r_4
-    21300378: nose_female_straightnose_dark2_sh_r_5
-    21300380: nose_female_straightnose_dark2_sh_r_6
-    21300382: nose_female_straightnose_dark2_sh_r_7
-    21300384: nose_female_straightnose_dark2_sh_r_8
-    21300386: nose_female_straightnose_dark2_sh_r_9
-    21300388: nose_female_straightnose_dark2_sh_r_10
-    21300390: nose_female_straightnose_dark2_sh_r_11
-    21300392: nose_female_straightnose_dark2_sh_r_12
-    21300394: nose_female_straightnose_dark2_sh_d_0
-    21300396: nose_female_straightnose_dark2_sh_d_1
-    21300398: nose_female_straightnose_dark2_sh_d_2
-    21300400: nose_female_straightnose_dark2_sh_d_3
-    21300402: nose_female_straightnose_dark2_sh_d_4
-    21300404: nose_female_straightnose_dark2_sh_d_5
-    21300406: nose_female_straightnose_dark2_sh_d_6
-    21300408: nose_female_straightnose_dark2_sh_d_7
-    21300410: nose_female_straightnose_dark2_sh_d_8
-    21300412: nose_female_straightnose_dark2_sh_d_9
-    21300414: nose_female_straightnose_dark2_sh_d_10
-    21300416: nose_female_straightnose_dark2_sh_d_11
-    21300418: nose_female_straightnose_dark2_sh_d_12
-    21300420: nose_female_straightnose_dark2_sh_l_0
-    21300422: nose_female_straightnose_dark2_sh_l_1
-    21300424: nose_female_straightnose_dark2_sh_l_2
-    21300426: nose_female_straightnose_dark2_sh_l_3
-    21300428: nose_female_straightnose_dark2_sh_l_4
-    21300430: nose_female_straightnose_dark2_sh_l_5
-    21300432: nose_female_straightnose_dark2_sh_l_6
-    21300434: nose_female_straightnose_dark2_sh_l_7
-    21300436: nose_female_straightnose_dark2_sh_l_8
-    21300438: nose_female_straightnose_dark2_sh_l_9
-    21300440: nose_female_straightnose_dark2_sh_l_10
-    21300442: nose_female_straightnose_dark2_sh_l_11
-    21300444: nose_female_straightnose_dark2_sh_l_12
-    21300446: nose_female_straightnose_dark2_sh_t_0
-    21300448: nose_female_straightnose_dark2_sh_t_1
-    21300450: nose_female_straightnose_dark2_sh_t_2
-    21300452: nose_female_straightnose_dark2_sh_t_3
-    21300454: nose_female_straightnose_dark2_sh_t_4
-    21300456: nose_female_straightnose_dark2_sh_t_5
-    21300458: nose_female_straightnose_dark2_sh_t_6
-    21300460: nose_female_straightnose_dark2_sh_t_7
-    21300462: nose_female_straightnose_dark2_sh_t_8
-    21300464: nose_female_straightnose_dark2_sh_t_9
-    21300466: nose_female_straightnose_dark2_sh_t_10
-    21300468: nose_female_straightnose_dark2_sh_t_11
-    21300470: nose_female_straightnose_dark2_sh_t_12
-    21300472: nose_female_straightnose_dark2_sl_r_0
-    21300474: nose_female_straightnose_dark2_sl_r_1
-    21300476: nose_female_straightnose_dark2_sl_r_2
-    21300478: nose_female_straightnose_dark2_sl_r_3
-    21300480: nose_female_straightnose_dark2_sl_r_4
-    21300482: nose_female_straightnose_dark2_sl_r_5
-    21300484: nose_female_straightnose_dark2_sl_d_0
-    21300486: nose_female_straightnose_dark2_sl_d_1
-    21300488: nose_female_straightnose_dark2_sl_d_2
-    21300490: nose_female_straightnose_dark2_sl_d_3
-    21300492: nose_female_straightnose_dark2_sl_d_4
-    21300494: nose_female_straightnose_dark2_sl_d_5
-    21300496: nose_female_straightnose_dark2_sl_l_0
-    21300498: nose_female_straightnose_dark2_sl_l_1
-    21300500: nose_female_straightnose_dark2_sl_l_2
-    21300502: nose_female_straightnose_dark2_sl_l_3
-    21300504: nose_female_straightnose_dark2_sl_l_4
-    21300506: nose_female_straightnose_dark2_sl_l_5
-    21300508: nose_female_straightnose_dark2_sl_t_0
-    21300510: nose_female_straightnose_dark2_sl_t_1
-    21300512: nose_female_straightnose_dark2_sl_t_2
-    21300514: nose_female_straightnose_dark2_sl_t_3
-    21300516: nose_female_straightnose_dark2_sl_t_4
-    21300518: nose_female_straightnose_dark2_sl_t_5
-    21300520: nose_female_straightnose_dark2_wc_r_0
-    21300522: nose_female_straightnose_dark2_wc_r_1
-    21300524: nose_female_straightnose_dark2_wc_r_2
-    21300526: nose_female_straightnose_dark2_wc_r_3
-    21300528: nose_female_straightnose_dark2_wc_r_4
-    21300530: nose_female_straightnose_dark2_wc_r_5
-    21300532: nose_female_straightnose_dark2_wc_r_6
-    21300534: nose_female_straightnose_dark2_wc_r_7
-    21300536: nose_female_straightnose_dark2_wc_r_8
-    21300538: nose_female_straightnose_dark2_wc_d_0
-    21300540: nose_female_straightnose_dark2_wc_d_1
-    21300542: nose_female_straightnose_dark2_wc_d_2
-    21300544: nose_female_straightnose_dark2_wc_d_3
-    21300546: nose_female_straightnose_dark2_wc_d_4
-    21300548: nose_female_straightnose_dark2_wc_d_5
-    21300550: nose_female_straightnose_dark2_wc_d_6
-    21300552: nose_female_straightnose_dark2_wc_d_7
-    21300554: nose_female_straightnose_dark2_wc_d_8
-    21300556: nose_female_straightnose_dark2_wc_l_0
-    21300558: nose_female_straightnose_dark2_wc_l_1
-    21300560: nose_female_straightnose_dark2_wc_l_2
-    21300562: nose_female_straightnose_dark2_wc_l_3
-    21300564: nose_female_straightnose_dark2_wc_l_4
-    21300566: nose_female_straightnose_dark2_wc_l_5
-    21300568: nose_female_straightnose_dark2_wc_l_6
-    21300570: nose_female_straightnose_dark2_wc_l_7
-    21300572: nose_female_straightnose_dark2_wc_l_8
-    21300574: nose_female_straightnose_dark2_wc_t_0
-    21300576: nose_female_straightnose_dark2_wc_t_1
-    21300578: nose_female_straightnose_dark2_wc_t_2
-    21300580: nose_female_straightnose_dark2_wc_t_3
-    21300582: nose_female_straightnose_dark2_wc_t_4
-    21300584: nose_female_straightnose_dark2_wc_t_5
-    21300586: nose_female_straightnose_dark2_wc_t_6
-    21300588: nose_female_straightnose_dark2_wc_t_7
-    21300590: nose_female_straightnose_dark2_wc_t_8
-    21300592: nose_female_straightnose_dark2_th_r_0
-    21300594: nose_female_straightnose_dark2_th_r_1
-    21300596: nose_female_straightnose_dark2_th_r_2
-    21300598: nose_female_straightnose_dark2_th_r_3
-    21300600: nose_female_straightnose_dark2_th_r_4
-    21300602: nose_female_straightnose_dark2_th_r_5
-    21300604: nose_female_straightnose_dark2_th_r_6
-    21300606: nose_female_straightnose_dark2_th_r_7
-    21300608: nose_female_straightnose_dark2_th_d_0
-    21300610: nose_female_straightnose_dark2_th_d_1
-    21300612: nose_female_straightnose_dark2_th_d_2
-    21300614: nose_female_straightnose_dark2_th_d_3
-    21300616: nose_female_straightnose_dark2_th_d_4
-    21300618: nose_female_straightnose_dark2_th_d_5
-    21300620: nose_female_straightnose_dark2_th_d_6
-    21300622: nose_female_straightnose_dark2_th_d_7
-    21300624: nose_female_straightnose_dark2_th_l_0
-    21300626: nose_female_straightnose_dark2_th_l_1
-    21300628: nose_female_straightnose_dark2_th_l_2
-    21300630: nose_female_straightnose_dark2_th_l_3
-    21300632: nose_female_straightnose_dark2_th_l_4
-    21300634: nose_female_straightnose_dark2_th_l_5
-    21300636: nose_female_straightnose_dark2_th_l_6
-    21300638: nose_female_straightnose_dark2_th_l_7
-    21300640: nose_female_straightnose_dark2_th_t_0
-    21300642: nose_female_straightnose_dark2_th_t_1
-    21300644: nose_female_straightnose_dark2_th_t_2
-    21300646: nose_female_straightnose_dark2_th_t_3
-    21300648: nose_female_straightnose_dark2_th_t_4
-    21300650: nose_female_straightnose_dark2_th_t_5
-    21300652: nose_female_straightnose_dark2_th_t_6
-    21300654: nose_female_straightnose_dark2_th_t_7
-    21300656: nose_female_straightnose_dark2_sc_r_0
-    21300658: nose_female_straightnose_dark2_sc_r_1
-    21300660: nose_female_straightnose_dark2_sc_r_2
-    21300662: nose_female_straightnose_dark2_sc_r_3
-    21300664: nose_female_straightnose_dark2_sc_r_4
-    21300666: nose_female_straightnose_dark2_sc_r_5
-    21300668: nose_female_straightnose_dark2_sc_r_6
-    21300670: nose_female_straightnose_dark2_sc_d_0
-    21300672: nose_female_straightnose_dark2_sc_d_1
-    21300674: nose_female_straightnose_dark2_sc_d_2
-    21300676: nose_female_straightnose_dark2_sc_d_3
-    21300678: nose_female_straightnose_dark2_sc_d_4
-    21300680: nose_female_straightnose_dark2_sc_d_5
-    21300682: nose_female_straightnose_dark2_sc_d_6
-    21300684: nose_female_straightnose_dark2_sc_l_0
-    21300686: nose_female_straightnose_dark2_sc_l_1
-    21300688: nose_female_straightnose_dark2_sc_l_2
-    21300690: nose_female_straightnose_dark2_sc_l_3
-    21300692: nose_female_straightnose_dark2_sc_l_4
-    21300694: nose_female_straightnose_dark2_sc_l_5
-    21300696: nose_female_straightnose_dark2_sc_l_6
-    21300698: nose_female_straightnose_dark2_sc_t_0
-    21300700: nose_female_straightnose_dark2_sc_t_1
-    21300702: nose_female_straightnose_dark2_sc_t_2
-    21300704: nose_female_straightnose_dark2_sc_t_3
-    21300706: nose_female_straightnose_dark2_sc_t_4
-    21300708: nose_female_straightnose_dark2_sc_t_5
-    21300710: nose_female_straightnose_dark2_sc_t_6
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: hu_0
+  - first:
+      213: 21300002
+    second: hu_1
+  - first:
+      213: 21300004
+    second: hu_2
+  - first:
+      213: 21300006
+    second: hu_3
+  - first:
+      213: 21300008
+    second: hu_4
+  - first:
+      213: 21300010
+    second: hu_5
+  - first:
+      213: 21300012
+    second: sh_r_0
+  - first:
+      213: 21300014
+    second: sh_r_1
+  - first:
+      213: 21300016
+    second: sh_r_2
+  - first:
+      213: 21300018
+    second: sh_r_3
+  - first:
+      213: 21300020
+    second: sh_r_4
+  - first:
+      213: 21300022
+    second: sh_r_5
+  - first:
+      213: 21300024
+    second: sh_r_6
+  - first:
+      213: 21300026
+    second: sh_r_7
+  - first:
+      213: 21300028
+    second: sh_r_8
+  - first:
+      213: 21300030
+    second: sh_r_9
+  - first:
+      213: 21300032
+    second: sh_r_10
+  - first:
+      213: 21300034
+    second: sh_r_11
+  - first:
+      213: 21300036
+    second: sh_r_12
+  - first:
+      213: 21300038
+    second: sh_d_0
+  - first:
+      213: 21300040
+    second: sh_d_1
+  - first:
+      213: 21300042
+    second: sh_d_2
+  - first:
+      213: 21300044
+    second: sh_d_3
+  - first:
+      213: 21300046
+    second: sh_d_4
+  - first:
+      213: 21300048
+    second: sh_d_5
+  - first:
+      213: 21300050
+    second: sh_d_6
+  - first:
+      213: 21300052
+    second: sh_d_7
+  - first:
+      213: 21300054
+    second: sh_d_8
+  - first:
+      213: 21300056
+    second: sh_d_9
+  - first:
+      213: 21300058
+    second: sh_d_10
+  - first:
+      213: 21300060
+    second: sh_d_11
+  - first:
+      213: 21300062
+    second: sh_d_12
+  - first:
+      213: 21300064
+    second: sh_l_0
+  - first:
+      213: 21300066
+    second: sh_l_1
+  - first:
+      213: 21300068
+    second: sh_l_2
+  - first:
+      213: 21300070
+    second: sh_l_3
+  - first:
+      213: 21300072
+    second: sh_l_4
+  - first:
+      213: 21300074
+    second: sh_l_5
+  - first:
+      213: 21300076
+    second: sh_l_6
+  - first:
+      213: 21300078
+    second: sh_l_7
+  - first:
+      213: 21300080
+    second: sh_l_8
+  - first:
+      213: 21300082
+    second: sh_l_9
+  - first:
+      213: 21300084
+    second: sh_l_10
+  - first:
+      213: 21300086
+    second: sh_l_11
+  - first:
+      213: 21300088
+    second: sh_l_12
+  - first:
+      213: 21300090
+    second: sh_t_0
+  - first:
+      213: 21300092
+    second: sh_t_1
+  - first:
+      213: 21300094
+    second: sh_t_2
+  - first:
+      213: 21300096
+    second: sh_t_3
+  - first:
+      213: 21300098
+    second: sh_t_4
+  - first:
+      213: 21300100
+    second: sh_t_5
+  - first:
+      213: 21300102
+    second: sh_t_6
+  - first:
+      213: 21300104
+    second: sh_t_7
+  - first:
+      213: 21300106
+    second: sh_t_8
+  - first:
+      213: 21300108
+    second: sh_t_9
+  - first:
+      213: 21300110
+    second: sh_t_10
+  - first:
+      213: 21300112
+    second: sh_t_11
+  - first:
+      213: 21300114
+    second: sh_t_12
+  - first:
+      213: 21300116
+    second: sl_r_0
+  - first:
+      213: 21300118
+    second: sl_r_1
+  - first:
+      213: 21300120
+    second: sl_r_2
+  - first:
+      213: 21300122
+    second: sl_r_3
+  - first:
+      213: 21300124
+    second: sl_r_4
+  - first:
+      213: 21300126
+    second: sl_r_5
+  - first:
+      213: 21300128
+    second: sl_d_0
+  - first:
+      213: 21300130
+    second: sl_d_1
+  - first:
+      213: 21300132
+    second: sl_d_2
+  - first:
+      213: 21300134
+    second: sl_d_3
+  - first:
+      213: 21300136
+    second: sl_d_4
+  - first:
+      213: 21300138
+    second: sl_d_5
+  - first:
+      213: 21300140
+    second: sl_l_0
+  - first:
+      213: 21300142
+    second: sl_l_1
+  - first:
+      213: 21300144
+    second: sl_l_2
+  - first:
+      213: 21300146
+    second: sl_l_3
+  - first:
+      213: 21300148
+    second: sl_l_4
+  - first:
+      213: 21300150
+    second: sl_l_5
+  - first:
+      213: 21300152
+    second: sl_t_0
+  - first:
+      213: 21300154
+    second: sl_t_1
+  - first:
+      213: 21300156
+    second: sl_t_2
+  - first:
+      213: 21300158
+    second: sl_t_3
+  - first:
+      213: 21300160
+    second: sl_t_4
+  - first:
+      213: 21300162
+    second: sl_t_5
+  - first:
+      213: 21300164
+    second: wc_r_0
+  - first:
+      213: 21300166
+    second: wc_r_1
+  - first:
+      213: 21300168
+    second: wc_r_2
+  - first:
+      213: 21300170
+    second: wc_r_3
+  - first:
+      213: 21300172
+    second: wc_r_4
+  - first:
+      213: 21300174
+    second: wc_r_5
+  - first:
+      213: 21300176
+    second: wc_r_6
+  - first:
+      213: 21300178
+    second: wc_r_7
+  - first:
+      213: 21300180
+    second: wc_r_8
+  - first:
+      213: 21300182
+    second: wc_d_0
+  - first:
+      213: 21300184
+    second: wc_d_1
+  - first:
+      213: 21300186
+    second: wc_d_2
+  - first:
+      213: 21300188
+    second: wc_d_3
+  - first:
+      213: 21300190
+    second: wc_d_4
+  - first:
+      213: 21300192
+    second: wc_d_5
+  - first:
+      213: 21300194
+    second: wc_d_6
+  - first:
+      213: 21300196
+    second: wc_d_7
+  - first:
+      213: 21300198
+    second: wc_d_8
+  - first:
+      213: 21300200
+    second: wc_l_0
+  - first:
+      213: 21300202
+    second: wc_l_1
+  - first:
+      213: 21300204
+    second: wc_l_2
+  - first:
+      213: 21300206
+    second: wc_l_3
+  - first:
+      213: 21300208
+    second: wc_l_4
+  - first:
+      213: 21300210
+    second: wc_l_5
+  - first:
+      213: 21300212
+    second: wc_l_6
+  - first:
+      213: 21300214
+    second: wc_l_7
+  - first:
+      213: 21300216
+    second: wc_l_8
+  - first:
+      213: 21300218
+    second: wc_t_0
+  - first:
+      213: 21300220
+    second: wc_t_1
+  - first:
+      213: 21300222
+    second: wc_t_2
+  - first:
+      213: 21300224
+    second: wc_t_3
+  - first:
+      213: 21300226
+    second: wc_t_4
+  - first:
+      213: 21300228
+    second: wc_t_5
+  - first:
+      213: 21300230
+    second: wc_t_6
+  - first:
+      213: 21300232
+    second: wc_t_7
+  - first:
+      213: 21300234
+    second: wc_t_8
+  - first:
+      213: 21300236
+    second: th_r_0
+  - first:
+      213: 21300238
+    second: th_r_1
+  - first:
+      213: 21300240
+    second: th_r_2
+  - first:
+      213: 21300242
+    second: th_r_3
+  - first:
+      213: 21300244
+    second: th_r_4
+  - first:
+      213: 21300246
+    second: th_r_5
+  - first:
+      213: 21300248
+    second: th_r_6
+  - first:
+      213: 21300250
+    second: th_r_7
+  - first:
+      213: 21300252
+    second: th_d_0
+  - first:
+      213: 21300254
+    second: th_d_1
+  - first:
+      213: 21300256
+    second: th_d_2
+  - first:
+      213: 21300258
+    second: th_d_3
+  - first:
+      213: 21300260
+    second: th_d_4
+  - first:
+      213: 21300262
+    second: th_d_5
+  - first:
+      213: 21300264
+    second: th_d_6
+  - first:
+      213: 21300266
+    second: th_d_7
+  - first:
+      213: 21300268
+    second: th_l_0
+  - first:
+      213: 21300270
+    second: th_l_1
+  - first:
+      213: 21300272
+    second: th_l_2
+  - first:
+      213: 21300274
+    second: th_l_3
+  - first:
+      213: 21300276
+    second: th_l_4
+  - first:
+      213: 21300278
+    second: th_l_5
+  - first:
+      213: 21300280
+    second: th_l_6
+  - first:
+      213: 21300282
+    second: th_l_7
+  - first:
+      213: 21300284
+    second: th_t_0
+  - first:
+      213: 21300286
+    second: th_t_1
+  - first:
+      213: 21300288
+    second: th_t_2
+  - first:
+      213: 21300290
+    second: th_t_3
+  - first:
+      213: 21300292
+    second: th_t_4
+  - first:
+      213: 21300294
+    second: th_t_5
+  - first:
+      213: 21300296
+    second: th_t_6
+  - first:
+      213: 21300298
+    second: th_t_7
+  - first:
+      213: 21300300
+    second: sc_r_0
+  - first:
+      213: 21300302
+    second: sc_r_1
+  - first:
+      213: 21300304
+    second: sc_r_2
+  - first:
+      213: 21300306
+    second: sc_r_3
+  - first:
+      213: 21300308
+    second: sc_r_4
+  - first:
+      213: 21300310
+    second: sc_r_5
+  - first:
+      213: 21300312
+    second: sc_r_6
+  - first:
+      213: 21300314
+    second: sc_d_0
+  - first:
+      213: 21300316
+    second: sc_d_1
+  - first:
+      213: 21300318
+    second: sc_d_2
+  - first:
+      213: 21300320
+    second: sc_d_3
+  - first:
+      213: 21300322
+    second: sc_d_4
+  - first:
+      213: 21300324
+    second: sc_d_5
+  - first:
+      213: 21300326
+    second: sc_d_6
+  - first:
+      213: 21300328
+    second: sc_l_0
+  - first:
+      213: 21300330
+    second: sc_l_1
+  - first:
+      213: 21300332
+    second: sc_l_2
+  - first:
+      213: 21300334
+    second: sc_l_3
+  - first:
+      213: 21300336
+    second: sc_l_4
+  - first:
+      213: 21300338
+    second: sc_l_5
+  - first:
+      213: 21300340
+    second: sc_l_6
+  - first:
+      213: 21300342
+    second: sc_t_0
+  - first:
+      213: 21300344
+    second: sc_t_1
+  - first:
+      213: 21300346
+    second: sc_t_2
+  - first:
+      213: 21300348
+    second: sc_t_3
+  - first:
+      213: 21300350
+    second: sc_t_4
+  - first:
+      213: 21300352
+    second: sc_t_5
+  - first:
+      213: 21300354
+    second: sc_t_6
+  - first:
+      213: 21300356
+    second: nose_female_straightnose_dark2_hu_0
+  - first:
+      213: 21300358
+    second: nose_female_straightnose_dark2_hu_1
+  - first:
+      213: 21300360
+    second: nose_female_straightnose_dark2_hu_2
+  - first:
+      213: 21300362
+    second: nose_female_straightnose_dark2_hu_3
+  - first:
+      213: 21300364
+    second: nose_female_straightnose_dark2_hu_4
+  - first:
+      213: 21300366
+    second: nose_female_straightnose_dark2_hu_5
+  - first:
+      213: 21300368
+    second: nose_female_straightnose_dark2_sh_r_0
+  - first:
+      213: 21300370
+    second: nose_female_straightnose_dark2_sh_r_1
+  - first:
+      213: 21300372
+    second: nose_female_straightnose_dark2_sh_r_2
+  - first:
+      213: 21300374
+    second: nose_female_straightnose_dark2_sh_r_3
+  - first:
+      213: 21300376
+    second: nose_female_straightnose_dark2_sh_r_4
+  - first:
+      213: 21300378
+    second: nose_female_straightnose_dark2_sh_r_5
+  - first:
+      213: 21300380
+    second: nose_female_straightnose_dark2_sh_r_6
+  - first:
+      213: 21300382
+    second: nose_female_straightnose_dark2_sh_r_7
+  - first:
+      213: 21300384
+    second: nose_female_straightnose_dark2_sh_r_8
+  - first:
+      213: 21300386
+    second: nose_female_straightnose_dark2_sh_r_9
+  - first:
+      213: 21300388
+    second: nose_female_straightnose_dark2_sh_r_10
+  - first:
+      213: 21300390
+    second: nose_female_straightnose_dark2_sh_r_11
+  - first:
+      213: 21300392
+    second: nose_female_straightnose_dark2_sh_r_12
+  - first:
+      213: 21300394
+    second: nose_female_straightnose_dark2_sh_d_0
+  - first:
+      213: 21300396
+    second: nose_female_straightnose_dark2_sh_d_1
+  - first:
+      213: 21300398
+    second: nose_female_straightnose_dark2_sh_d_2
+  - first:
+      213: 21300400
+    second: nose_female_straightnose_dark2_sh_d_3
+  - first:
+      213: 21300402
+    second: nose_female_straightnose_dark2_sh_d_4
+  - first:
+      213: 21300404
+    second: nose_female_straightnose_dark2_sh_d_5
+  - first:
+      213: 21300406
+    second: nose_female_straightnose_dark2_sh_d_6
+  - first:
+      213: 21300408
+    second: nose_female_straightnose_dark2_sh_d_7
+  - first:
+      213: 21300410
+    second: nose_female_straightnose_dark2_sh_d_8
+  - first:
+      213: 21300412
+    second: nose_female_straightnose_dark2_sh_d_9
+  - first:
+      213: 21300414
+    second: nose_female_straightnose_dark2_sh_d_10
+  - first:
+      213: 21300416
+    second: nose_female_straightnose_dark2_sh_d_11
+  - first:
+      213: 21300418
+    second: nose_female_straightnose_dark2_sh_d_12
+  - first:
+      213: 21300420
+    second: nose_female_straightnose_dark2_sh_l_0
+  - first:
+      213: 21300422
+    second: nose_female_straightnose_dark2_sh_l_1
+  - first:
+      213: 21300424
+    second: nose_female_straightnose_dark2_sh_l_2
+  - first:
+      213: 21300426
+    second: nose_female_straightnose_dark2_sh_l_3
+  - first:
+      213: 21300428
+    second: nose_female_straightnose_dark2_sh_l_4
+  - first:
+      213: 21300430
+    second: nose_female_straightnose_dark2_sh_l_5
+  - first:
+      213: 21300432
+    second: nose_female_straightnose_dark2_sh_l_6
+  - first:
+      213: 21300434
+    second: nose_female_straightnose_dark2_sh_l_7
+  - first:
+      213: 21300436
+    second: nose_female_straightnose_dark2_sh_l_8
+  - first:
+      213: 21300438
+    second: nose_female_straightnose_dark2_sh_l_9
+  - first:
+      213: 21300440
+    second: nose_female_straightnose_dark2_sh_l_10
+  - first:
+      213: 21300442
+    second: nose_female_straightnose_dark2_sh_l_11
+  - first:
+      213: 21300444
+    second: nose_female_straightnose_dark2_sh_l_12
+  - first:
+      213: 21300446
+    second: nose_female_straightnose_dark2_sh_t_0
+  - first:
+      213: 21300448
+    second: nose_female_straightnose_dark2_sh_t_1
+  - first:
+      213: 21300450
+    second: nose_female_straightnose_dark2_sh_t_2
+  - first:
+      213: 21300452
+    second: nose_female_straightnose_dark2_sh_t_3
+  - first:
+      213: 21300454
+    second: nose_female_straightnose_dark2_sh_t_4
+  - first:
+      213: 21300456
+    second: nose_female_straightnose_dark2_sh_t_5
+  - first:
+      213: 21300458
+    second: nose_female_straightnose_dark2_sh_t_6
+  - first:
+      213: 21300460
+    second: nose_female_straightnose_dark2_sh_t_7
+  - first:
+      213: 21300462
+    second: nose_female_straightnose_dark2_sh_t_8
+  - first:
+      213: 21300464
+    second: nose_female_straightnose_dark2_sh_t_9
+  - first:
+      213: 21300466
+    second: nose_female_straightnose_dark2_sh_t_10
+  - first:
+      213: 21300468
+    second: nose_female_straightnose_dark2_sh_t_11
+  - first:
+      213: 21300470
+    second: nose_female_straightnose_dark2_sh_t_12
+  - first:
+      213: 21300472
+    second: nose_female_straightnose_dark2_sl_r_0
+  - first:
+      213: 21300474
+    second: nose_female_straightnose_dark2_sl_r_1
+  - first:
+      213: 21300476
+    second: nose_female_straightnose_dark2_sl_r_2
+  - first:
+      213: 21300478
+    second: nose_female_straightnose_dark2_sl_r_3
+  - first:
+      213: 21300480
+    second: nose_female_straightnose_dark2_sl_r_4
+  - first:
+      213: 21300482
+    second: nose_female_straightnose_dark2_sl_r_5
+  - first:
+      213: 21300484
+    second: nose_female_straightnose_dark2_sl_d_0
+  - first:
+      213: 21300486
+    second: nose_female_straightnose_dark2_sl_d_1
+  - first:
+      213: 21300488
+    second: nose_female_straightnose_dark2_sl_d_2
+  - first:
+      213: 21300490
+    second: nose_female_straightnose_dark2_sl_d_3
+  - first:
+      213: 21300492
+    second: nose_female_straightnose_dark2_sl_d_4
+  - first:
+      213: 21300494
+    second: nose_female_straightnose_dark2_sl_d_5
+  - first:
+      213: 21300496
+    second: nose_female_straightnose_dark2_sl_l_0
+  - first:
+      213: 21300498
+    second: nose_female_straightnose_dark2_sl_l_1
+  - first:
+      213: 21300500
+    second: nose_female_straightnose_dark2_sl_l_2
+  - first:
+      213: 21300502
+    second: nose_female_straightnose_dark2_sl_l_3
+  - first:
+      213: 21300504
+    second: nose_female_straightnose_dark2_sl_l_4
+  - first:
+      213: 21300506
+    second: nose_female_straightnose_dark2_sl_l_5
+  - first:
+      213: 21300508
+    second: nose_female_straightnose_dark2_sl_t_0
+  - first:
+      213: 21300510
+    second: nose_female_straightnose_dark2_sl_t_1
+  - first:
+      213: 21300512
+    second: nose_female_straightnose_dark2_sl_t_2
+  - first:
+      213: 21300514
+    second: nose_female_straightnose_dark2_sl_t_3
+  - first:
+      213: 21300516
+    second: nose_female_straightnose_dark2_sl_t_4
+  - first:
+      213: 21300518
+    second: nose_female_straightnose_dark2_sl_t_5
+  - first:
+      213: 21300520
+    second: nose_female_straightnose_dark2_wc_r_0
+  - first:
+      213: 21300522
+    second: nose_female_straightnose_dark2_wc_r_1
+  - first:
+      213: 21300524
+    second: nose_female_straightnose_dark2_wc_r_2
+  - first:
+      213: 21300526
+    second: nose_female_straightnose_dark2_wc_r_3
+  - first:
+      213: 21300528
+    second: nose_female_straightnose_dark2_wc_r_4
+  - first:
+      213: 21300530
+    second: nose_female_straightnose_dark2_wc_r_5
+  - first:
+      213: 21300532
+    second: nose_female_straightnose_dark2_wc_r_6
+  - first:
+      213: 21300534
+    second: nose_female_straightnose_dark2_wc_r_7
+  - first:
+      213: 21300536
+    second: nose_female_straightnose_dark2_wc_r_8
+  - first:
+      213: 21300538
+    second: nose_female_straightnose_dark2_wc_d_0
+  - first:
+      213: 21300540
+    second: nose_female_straightnose_dark2_wc_d_1
+  - first:
+      213: 21300542
+    second: nose_female_straightnose_dark2_wc_d_2
+  - first:
+      213: 21300544
+    second: nose_female_straightnose_dark2_wc_d_3
+  - first:
+      213: 21300546
+    second: nose_female_straightnose_dark2_wc_d_4
+  - first:
+      213: 21300548
+    second: nose_female_straightnose_dark2_wc_d_5
+  - first:
+      213: 21300550
+    second: nose_female_straightnose_dark2_wc_d_6
+  - first:
+      213: 21300552
+    second: nose_female_straightnose_dark2_wc_d_7
+  - first:
+      213: 21300554
+    second: nose_female_straightnose_dark2_wc_d_8
+  - first:
+      213: 21300556
+    second: nose_female_straightnose_dark2_wc_l_0
+  - first:
+      213: 21300558
+    second: nose_female_straightnose_dark2_wc_l_1
+  - first:
+      213: 21300560
+    second: nose_female_straightnose_dark2_wc_l_2
+  - first:
+      213: 21300562
+    second: nose_female_straightnose_dark2_wc_l_3
+  - first:
+      213: 21300564
+    second: nose_female_straightnose_dark2_wc_l_4
+  - first:
+      213: 21300566
+    second: nose_female_straightnose_dark2_wc_l_5
+  - first:
+      213: 21300568
+    second: nose_female_straightnose_dark2_wc_l_6
+  - first:
+      213: 21300570
+    second: nose_female_straightnose_dark2_wc_l_7
+  - first:
+      213: 21300572
+    second: nose_female_straightnose_dark2_wc_l_8
+  - first:
+      213: 21300574
+    second: nose_female_straightnose_dark2_wc_t_0
+  - first:
+      213: 21300576
+    second: nose_female_straightnose_dark2_wc_t_1
+  - first:
+      213: 21300578
+    second: nose_female_straightnose_dark2_wc_t_2
+  - first:
+      213: 21300580
+    second: nose_female_straightnose_dark2_wc_t_3
+  - first:
+      213: 21300582
+    second: nose_female_straightnose_dark2_wc_t_4
+  - first:
+      213: 21300584
+    second: nose_female_straightnose_dark2_wc_t_5
+  - first:
+      213: 21300586
+    second: nose_female_straightnose_dark2_wc_t_6
+  - first:
+      213: 21300588
+    second: nose_female_straightnose_dark2_wc_t_7
+  - first:
+      213: 21300590
+    second: nose_female_straightnose_dark2_wc_t_8
+  - first:
+      213: 21300592
+    second: nose_female_straightnose_dark2_th_r_0
+  - first:
+      213: 21300594
+    second: nose_female_straightnose_dark2_th_r_1
+  - first:
+      213: 21300596
+    second: nose_female_straightnose_dark2_th_r_2
+  - first:
+      213: 21300598
+    second: nose_female_straightnose_dark2_th_r_3
+  - first:
+      213: 21300600
+    second: nose_female_straightnose_dark2_th_r_4
+  - first:
+      213: 21300602
+    second: nose_female_straightnose_dark2_th_r_5
+  - first:
+      213: 21300604
+    second: nose_female_straightnose_dark2_th_r_6
+  - first:
+      213: 21300606
+    second: nose_female_straightnose_dark2_th_r_7
+  - first:
+      213: 21300608
+    second: nose_female_straightnose_dark2_th_d_0
+  - first:
+      213: 21300610
+    second: nose_female_straightnose_dark2_th_d_1
+  - first:
+      213: 21300612
+    second: nose_female_straightnose_dark2_th_d_2
+  - first:
+      213: 21300614
+    second: nose_female_straightnose_dark2_th_d_3
+  - first:
+      213: 21300616
+    second: nose_female_straightnose_dark2_th_d_4
+  - first:
+      213: 21300618
+    second: nose_female_straightnose_dark2_th_d_5
+  - first:
+      213: 21300620
+    second: nose_female_straightnose_dark2_th_d_6
+  - first:
+      213: 21300622
+    second: nose_female_straightnose_dark2_th_d_7
+  - first:
+      213: 21300624
+    second: nose_female_straightnose_dark2_th_l_0
+  - first:
+      213: 21300626
+    second: nose_female_straightnose_dark2_th_l_1
+  - first:
+      213: 21300628
+    second: nose_female_straightnose_dark2_th_l_2
+  - first:
+      213: 21300630
+    second: nose_female_straightnose_dark2_th_l_3
+  - first:
+      213: 21300632
+    second: nose_female_straightnose_dark2_th_l_4
+  - first:
+      213: 21300634
+    second: nose_female_straightnose_dark2_th_l_5
+  - first:
+      213: 21300636
+    second: nose_female_straightnose_dark2_th_l_6
+  - first:
+      213: 21300638
+    second: nose_female_straightnose_dark2_th_l_7
+  - first:
+      213: 21300640
+    second: nose_female_straightnose_dark2_th_t_0
+  - first:
+      213: 21300642
+    second: nose_female_straightnose_dark2_th_t_1
+  - first:
+      213: 21300644
+    second: nose_female_straightnose_dark2_th_t_2
+  - first:
+      213: 21300646
+    second: nose_female_straightnose_dark2_th_t_3
+  - first:
+      213: 21300648
+    second: nose_female_straightnose_dark2_th_t_4
+  - first:
+      213: 21300650
+    second: nose_female_straightnose_dark2_th_t_5
+  - first:
+      213: 21300652
+    second: nose_female_straightnose_dark2_th_t_6
+  - first:
+      213: 21300654
+    second: nose_female_straightnose_dark2_th_t_7
+  - first:
+      213: 21300656
+    second: nose_female_straightnose_dark2_sc_r_0
+  - first:
+      213: 21300658
+    second: nose_female_straightnose_dark2_sc_r_1
+  - first:
+      213: 21300660
+    second: nose_female_straightnose_dark2_sc_r_2
+  - first:
+      213: 21300662
+    second: nose_female_straightnose_dark2_sc_r_3
+  - first:
+      213: 21300664
+    second: nose_female_straightnose_dark2_sc_r_4
+  - first:
+      213: 21300666
+    second: nose_female_straightnose_dark2_sc_r_5
+  - first:
+      213: 21300668
+    second: nose_female_straightnose_dark2_sc_r_6
+  - first:
+      213: 21300670
+    second: nose_female_straightnose_dark2_sc_d_0
+  - first:
+      213: 21300672
+    second: nose_female_straightnose_dark2_sc_d_1
+  - first:
+      213: 21300674
+    second: nose_female_straightnose_dark2_sc_d_2
+  - first:
+      213: 21300676
+    second: nose_female_straightnose_dark2_sc_d_3
+  - first:
+      213: 21300678
+    second: nose_female_straightnose_dark2_sc_d_4
+  - first:
+      213: 21300680
+    second: nose_female_straightnose_dark2_sc_d_5
+  - first:
+      213: 21300682
+    second: nose_female_straightnose_dark2_sc_d_6
+  - first:
+      213: 21300684
+    second: nose_female_straightnose_dark2_sc_l_0
+  - first:
+      213: 21300686
+    second: nose_female_straightnose_dark2_sc_l_1
+  - first:
+      213: 21300688
+    second: nose_female_straightnose_dark2_sc_l_2
+  - first:
+      213: 21300690
+    second: nose_female_straightnose_dark2_sc_l_3
+  - first:
+      213: 21300692
+    second: nose_female_straightnose_dark2_sc_l_4
+  - first:
+      213: 21300694
+    second: nose_female_straightnose_dark2_sc_l_5
+  - first:
+      213: 21300696
+    second: nose_female_straightnose_dark2_sc_l_6
+  - first:
+      213: 21300698
+    second: nose_female_straightnose_dark2_sc_t_0
+  - first:
+      213: 21300700
+    second: nose_female_straightnose_dark2_sc_t_1
+  - first:
+      213: 21300702
+    second: nose_female_straightnose_dark2_sc_t_2
+  - first:
+      213: 21300704
+    second: nose_female_straightnose_dark2_sc_t_3
+  - first:
+      213: 21300706
+    second: nose_female_straightnose_dark2_sc_t_4
+  - first:
+      213: 21300708
+    second: nose_female_straightnose_dark2_sc_t_5
+  - first:
+      213: 21300710
+    second: nose_female_straightnose_dark2_sc_t_6
   externalObjects: {}
-  serializedVersion: 4
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -378,7 +1088,12 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
+    flipGreenChannel: 0
   isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -388,8 +1103,8 @@ TextureImporter:
   textureSettings:
     serializedVersion: 2
     filterMode: 0
-    aniso: -1
-    mipBias: -1
+    aniso: 1
+    mipBias: 0
     wrapU: 1
     wrapV: 1
     wrapW: 1
@@ -401,18 +1116,27 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
   alphaIsTransparency: 1
   spriteTessellationDetail: -1
   textureType: 8
   textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
   platformSettings:
-  - buildTarget: DefaultTexturePlatform
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -421,7 +1145,22 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -439,6 +1178,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: nose_female_straightnose_dark2_hu_1
       rect:
@@ -453,6 +1199,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: nose_female_straightnose_dark2_hu_2
       rect:
@@ -467,6 +1220,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: nose_female_straightnose_dark2_hu_3
       rect:
@@ -481,6 +1241,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: nose_female_straightnose_dark2_hu_4
       rect:
@@ -495,6 +1262,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: nose_female_straightnose_dark2_hu_5
       rect:
@@ -509,6 +1283,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: nose_female_straightnose_dark2_sh_r_0
       rect:
@@ -523,6 +1304,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: nose_female_straightnose_dark2_sh_r_1
       rect:
@@ -537,6 +1325,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: nose_female_straightnose_dark2_sh_r_2
       rect:
@@ -551,6 +1346,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: nose_female_straightnose_dark2_sh_r_3
       rect:
@@ -565,6 +1367,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: nose_female_straightnose_dark2_sh_r_4
       rect:
@@ -579,6 +1388,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: nose_female_straightnose_dark2_sh_r_5
       rect:
@@ -593,6 +1409,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: nose_female_straightnose_dark2_sh_r_6
       rect:
@@ -607,6 +1430,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: nose_female_straightnose_dark2_sh_r_7
       rect:
@@ -621,6 +1451,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: nose_female_straightnose_dark2_sh_r_8
       rect:
@@ -635,6 +1472,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: nose_female_straightnose_dark2_sh_r_9
       rect:
@@ -649,6 +1493,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: nose_female_straightnose_dark2_sh_r_10
       rect:
@@ -663,6 +1514,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: nose_female_straightnose_dark2_sh_r_11
       rect:
@@ -677,6 +1535,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: nose_female_straightnose_dark2_sh_r_12
       rect:
@@ -691,6 +1556,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: nose_female_straightnose_dark2_sh_d_0
       rect:
@@ -705,6 +1577,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: nose_female_straightnose_dark2_sh_d_1
       rect:
@@ -719,6 +1598,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: nose_female_straightnose_dark2_sh_d_2
       rect:
@@ -733,6 +1619,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: nose_female_straightnose_dark2_sh_d_3
       rect:
@@ -747,6 +1640,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: nose_female_straightnose_dark2_sh_d_4
       rect:
@@ -761,6 +1661,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: nose_female_straightnose_dark2_sh_d_5
       rect:
@@ -775,6 +1682,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: nose_female_straightnose_dark2_sh_d_6
       rect:
@@ -789,6 +1703,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: nose_female_straightnose_dark2_sh_d_7
       rect:
@@ -803,6 +1724,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: nose_female_straightnose_dark2_sh_d_8
       rect:
@@ -817,6 +1745,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: nose_female_straightnose_dark2_sh_d_9
       rect:
@@ -831,6 +1766,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: nose_female_straightnose_dark2_sh_d_10
       rect:
@@ -845,6 +1787,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: nose_female_straightnose_dark2_sh_d_11
       rect:
@@ -859,6 +1808,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: nose_female_straightnose_dark2_sh_d_12
       rect:
@@ -873,6 +1829,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: nose_female_straightnose_dark2_sh_l_0
       rect:
@@ -887,6 +1850,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: nose_female_straightnose_dark2_sh_l_1
       rect:
@@ -901,6 +1871,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: nose_female_straightnose_dark2_sh_l_2
       rect:
@@ -915,6 +1892,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: nose_female_straightnose_dark2_sh_l_3
       rect:
@@ -929,6 +1913,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: nose_female_straightnose_dark2_sh_l_4
       rect:
@@ -943,6 +1934,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: nose_female_straightnose_dark2_sh_l_5
       rect:
@@ -957,6 +1955,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: nose_female_straightnose_dark2_sh_l_6
       rect:
@@ -971,6 +1976,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: nose_female_straightnose_dark2_sh_l_7
       rect:
@@ -985,6 +1997,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: nose_female_straightnose_dark2_sh_l_8
       rect:
@@ -999,6 +2018,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: nose_female_straightnose_dark2_sh_l_9
       rect:
@@ -1013,6 +2039,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: nose_female_straightnose_dark2_sh_l_10
       rect:
@@ -1027,6 +2060,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: nose_female_straightnose_dark2_sh_l_11
       rect:
@@ -1041,6 +2081,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: nose_female_straightnose_dark2_sh_l_12
       rect:
@@ -1055,6 +2102,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: nose_female_straightnose_dark2_sh_t_0
       rect:
@@ -1069,6 +2123,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: nose_female_straightnose_dark2_sh_t_1
       rect:
@@ -1083,6 +2144,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: nose_female_straightnose_dark2_sh_t_2
       rect:
@@ -1097,6 +2165,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: nose_female_straightnose_dark2_sh_t_3
       rect:
@@ -1111,6 +2186,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: nose_female_straightnose_dark2_sh_t_4
       rect:
@@ -1125,6 +2207,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: nose_female_straightnose_dark2_sh_t_5
       rect:
@@ -1139,6 +2228,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: nose_female_straightnose_dark2_sh_t_6
       rect:
@@ -1153,6 +2249,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: nose_female_straightnose_dark2_sh_t_7
       rect:
@@ -1167,6 +2270,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: nose_female_straightnose_dark2_sh_t_8
       rect:
@@ -1181,6 +2291,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: nose_female_straightnose_dark2_sh_t_9
       rect:
@@ -1195,6 +2312,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: nose_female_straightnose_dark2_sh_t_10
       rect:
@@ -1209,6 +2333,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: nose_female_straightnose_dark2_sh_t_11
       rect:
@@ -1223,6 +2354,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: nose_female_straightnose_dark2_sh_t_12
       rect:
@@ -1237,6 +2375,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: nose_female_straightnose_dark2_sl_r_0
       rect:
@@ -1251,6 +2396,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: nose_female_straightnose_dark2_sl_r_1
       rect:
@@ -1265,6 +2417,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: nose_female_straightnose_dark2_sl_r_2
       rect:
@@ -1279,6 +2438,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: nose_female_straightnose_dark2_sl_r_3
       rect:
@@ -1293,6 +2459,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: nose_female_straightnose_dark2_sl_r_4
       rect:
@@ -1307,6 +2480,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: nose_female_straightnose_dark2_sl_r_5
       rect:
@@ -1321,6 +2501,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: nose_female_straightnose_dark2_sl_d_0
       rect:
@@ -1335,6 +2522,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: nose_female_straightnose_dark2_sl_d_1
       rect:
@@ -1349,6 +2543,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: nose_female_straightnose_dark2_sl_d_2
       rect:
@@ -1363,6 +2564,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: nose_female_straightnose_dark2_sl_d_3
       rect:
@@ -1377,6 +2585,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: nose_female_straightnose_dark2_sl_d_4
       rect:
@@ -1391,6 +2606,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: nose_female_straightnose_dark2_sl_d_5
       rect:
@@ -1405,6 +2627,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: nose_female_straightnose_dark2_sl_l_0
       rect:
@@ -1419,6 +2648,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: nose_female_straightnose_dark2_sl_l_1
       rect:
@@ -1433,6 +2669,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: nose_female_straightnose_dark2_sl_l_2
       rect:
@@ -1447,6 +2690,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: nose_female_straightnose_dark2_sl_l_3
       rect:
@@ -1461,6 +2711,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: nose_female_straightnose_dark2_sl_l_4
       rect:
@@ -1475,6 +2732,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: nose_female_straightnose_dark2_sl_l_5
       rect:
@@ -1489,6 +2753,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: nose_female_straightnose_dark2_sl_t_0
       rect:
@@ -1503,6 +2774,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: nose_female_straightnose_dark2_sl_t_1
       rect:
@@ -1517,6 +2795,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: nose_female_straightnose_dark2_sl_t_2
       rect:
@@ -1531,6 +2816,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: nose_female_straightnose_dark2_sl_t_3
       rect:
@@ -1545,6 +2837,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: nose_female_straightnose_dark2_sl_t_4
       rect:
@@ -1559,6 +2858,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: nose_female_straightnose_dark2_sl_t_5
       rect:
@@ -1573,6 +2879,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: nose_female_straightnose_dark2_wc_r_0
       rect:
@@ -1587,6 +2900,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: nose_female_straightnose_dark2_wc_r_1
       rect:
@@ -1601,6 +2921,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: nose_female_straightnose_dark2_wc_r_2
       rect:
@@ -1615,6 +2942,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: nose_female_straightnose_dark2_wc_r_3
       rect:
@@ -1629,6 +2963,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: nose_female_straightnose_dark2_wc_r_4
       rect:
@@ -1643,6 +2984,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: nose_female_straightnose_dark2_wc_r_5
       rect:
@@ -1657,6 +3005,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: nose_female_straightnose_dark2_wc_r_6
       rect:
@@ -1671,6 +3026,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: nose_female_straightnose_dark2_wc_r_7
       rect:
@@ -1685,6 +3047,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: nose_female_straightnose_dark2_wc_r_8
       rect:
@@ -1699,6 +3068,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: nose_female_straightnose_dark2_wc_d_0
       rect:
@@ -1713,6 +3089,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: nose_female_straightnose_dark2_wc_d_1
       rect:
@@ -1727,6 +3110,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: nose_female_straightnose_dark2_wc_d_2
       rect:
@@ -1741,6 +3131,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: nose_female_straightnose_dark2_wc_d_3
       rect:
@@ -1755,6 +3152,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: nose_female_straightnose_dark2_wc_d_4
       rect:
@@ -1769,6 +3173,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: nose_female_straightnose_dark2_wc_d_5
       rect:
@@ -1783,6 +3194,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: nose_female_straightnose_dark2_wc_d_6
       rect:
@@ -1797,6 +3215,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: nose_female_straightnose_dark2_wc_d_7
       rect:
@@ -1811,6 +3236,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: nose_female_straightnose_dark2_wc_d_8
       rect:
@@ -1825,6 +3257,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: nose_female_straightnose_dark2_wc_l_0
       rect:
@@ -1839,6 +3278,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: nose_female_straightnose_dark2_wc_l_1
       rect:
@@ -1853,6 +3299,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: nose_female_straightnose_dark2_wc_l_2
       rect:
@@ -1867,6 +3320,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: nose_female_straightnose_dark2_wc_l_3
       rect:
@@ -1881,6 +3341,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: nose_female_straightnose_dark2_wc_l_4
       rect:
@@ -1895,6 +3362,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: nose_female_straightnose_dark2_wc_l_5
       rect:
@@ -1909,6 +3383,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: nose_female_straightnose_dark2_wc_l_6
       rect:
@@ -1923,6 +3404,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: nose_female_straightnose_dark2_wc_l_7
       rect:
@@ -1937,6 +3425,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: nose_female_straightnose_dark2_wc_l_8
       rect:
@@ -1951,6 +3446,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: nose_female_straightnose_dark2_wc_t_0
       rect:
@@ -1965,6 +3467,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: nose_female_straightnose_dark2_wc_t_1
       rect:
@@ -1979,6 +3488,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: nose_female_straightnose_dark2_wc_t_2
       rect:
@@ -1993,6 +3509,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: nose_female_straightnose_dark2_wc_t_3
       rect:
@@ -2007,6 +3530,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: nose_female_straightnose_dark2_wc_t_4
       rect:
@@ -2021,6 +3551,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: nose_female_straightnose_dark2_wc_t_5
       rect:
@@ -2035,6 +3572,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: nose_female_straightnose_dark2_wc_t_6
       rect:
@@ -2049,6 +3593,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: nose_female_straightnose_dark2_wc_t_7
       rect:
@@ -2063,6 +3614,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: nose_female_straightnose_dark2_wc_t_8
       rect:
@@ -2077,6 +3635,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: nose_female_straightnose_dark2_th_r_0
       rect:
@@ -2091,6 +3656,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: nose_female_straightnose_dark2_th_r_1
       rect:
@@ -2105,6 +3677,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: nose_female_straightnose_dark2_th_r_2
       rect:
@@ -2119,6 +3698,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: nose_female_straightnose_dark2_th_r_3
       rect:
@@ -2133,6 +3719,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: nose_female_straightnose_dark2_th_r_4
       rect:
@@ -2147,6 +3740,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: nose_female_straightnose_dark2_th_r_5
       rect:
@@ -2161,6 +3761,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: nose_female_straightnose_dark2_th_r_6
       rect:
@@ -2175,6 +3782,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: nose_female_straightnose_dark2_th_r_7
       rect:
@@ -2189,6 +3803,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: nose_female_straightnose_dark2_th_d_0
       rect:
@@ -2203,6 +3824,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: nose_female_straightnose_dark2_th_d_1
       rect:
@@ -2217,6 +3845,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: nose_female_straightnose_dark2_th_d_2
       rect:
@@ -2231,6 +3866,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: nose_female_straightnose_dark2_th_d_3
       rect:
@@ -2245,6 +3887,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: nose_female_straightnose_dark2_th_d_4
       rect:
@@ -2259,6 +3908,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: nose_female_straightnose_dark2_th_d_5
       rect:
@@ -2273,6 +3929,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: nose_female_straightnose_dark2_th_d_6
       rect:
@@ -2287,6 +3950,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: nose_female_straightnose_dark2_th_d_7
       rect:
@@ -2301,6 +3971,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: nose_female_straightnose_dark2_th_l_0
       rect:
@@ -2315,6 +3992,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: nose_female_straightnose_dark2_th_l_1
       rect:
@@ -2329,6 +4013,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: nose_female_straightnose_dark2_th_l_2
       rect:
@@ -2343,6 +4034,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: nose_female_straightnose_dark2_th_l_3
       rect:
@@ -2357,6 +4055,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: nose_female_straightnose_dark2_th_l_4
       rect:
@@ -2371,6 +4076,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: nose_female_straightnose_dark2_th_l_5
       rect:
@@ -2385,6 +4097,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: nose_female_straightnose_dark2_th_l_6
       rect:
@@ -2399,6 +4118,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: nose_female_straightnose_dark2_th_l_7
       rect:
@@ -2413,6 +4139,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: nose_female_straightnose_dark2_th_t_0
       rect:
@@ -2427,6 +4160,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: nose_female_straightnose_dark2_th_t_1
       rect:
@@ -2441,6 +4181,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: nose_female_straightnose_dark2_th_t_2
       rect:
@@ -2455,6 +4202,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: nose_female_straightnose_dark2_th_t_3
       rect:
@@ -2469,6 +4223,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: nose_female_straightnose_dark2_th_t_4
       rect:
@@ -2483,6 +4244,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: nose_female_straightnose_dark2_th_t_5
       rect:
@@ -2497,6 +4265,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: nose_female_straightnose_dark2_th_t_6
       rect:
@@ -2511,6 +4286,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: nose_female_straightnose_dark2_th_t_7
       rect:
@@ -2525,6 +4307,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: nose_female_straightnose_dark2_sc_r_0
       rect:
@@ -2539,6 +4328,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: nose_female_straightnose_dark2_sc_r_1
       rect:
@@ -2553,6 +4349,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: nose_female_straightnose_dark2_sc_r_2
       rect:
@@ -2567,6 +4370,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: nose_female_straightnose_dark2_sc_r_3
       rect:
@@ -2581,6 +4391,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: nose_female_straightnose_dark2_sc_r_4
       rect:
@@ -2595,6 +4412,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: nose_female_straightnose_dark2_sc_r_5
       rect:
@@ -2609,6 +4433,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: nose_female_straightnose_dark2_sc_r_6
       rect:
@@ -2623,6 +4454,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: nose_female_straightnose_dark2_sc_d_0
       rect:
@@ -2637,6 +4475,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: nose_female_straightnose_dark2_sc_d_1
       rect:
@@ -2651,6 +4496,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: nose_female_straightnose_dark2_sc_d_2
       rect:
@@ -2665,6 +4517,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: nose_female_straightnose_dark2_sc_d_3
       rect:
@@ -2679,6 +4538,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: nose_female_straightnose_dark2_sc_d_4
       rect:
@@ -2693,6 +4559,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: nose_female_straightnose_dark2_sc_d_5
       rect:
@@ -2707,6 +4580,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: nose_female_straightnose_dark2_sc_d_6
       rect:
@@ -2721,6 +4601,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: nose_female_straightnose_dark2_sc_l_0
       rect:
@@ -2735,6 +4622,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: nose_female_straightnose_dark2_sc_l_1
       rect:
@@ -2749,6 +4643,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: nose_female_straightnose_dark2_sc_l_2
       rect:
@@ -2763,6 +4664,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: nose_female_straightnose_dark2_sc_l_3
       rect:
@@ -2777,6 +4685,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: nose_female_straightnose_dark2_sc_l_4
       rect:
@@ -2791,6 +4706,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: nose_female_straightnose_dark2_sc_l_5
       rect:
@@ -2805,6 +4727,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: nose_female_straightnose_dark2_sc_l_6
       rect:
@@ -2819,6 +4748,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: nose_female_straightnose_dark2_sc_t_0
       rect:
@@ -2833,6 +4769,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: nose_female_straightnose_dark2_sc_t_1
       rect:
@@ -2847,6 +4790,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: nose_female_straightnose_dark2_sc_t_2
       rect:
@@ -2861,6 +4811,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: nose_female_straightnose_dark2_sc_t_3
       rect:
@@ -2875,6 +4832,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: nose_female_straightnose_dark2_sc_t_4
       rect:
@@ -2889,6 +4853,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: nose_female_straightnose_dark2_sc_t_5
       rect:
@@ -2903,6 +4874,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: nose_female_straightnose_dark2_sc_t_6
       rect:
@@ -2917,9 +4895,204 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
-  spritePackingTag: character
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      nose_female_straightnose_dark2_hu_0: 21300356
+      nose_female_straightnose_dark2_hu_1: 21300358
+      nose_female_straightnose_dark2_hu_2: 21300360
+      nose_female_straightnose_dark2_hu_3: 21300362
+      nose_female_straightnose_dark2_hu_4: 21300364
+      nose_female_straightnose_dark2_hu_5: 21300366
+      nose_female_straightnose_dark2_sc_d_0: 21300670
+      nose_female_straightnose_dark2_sc_d_1: 21300672
+      nose_female_straightnose_dark2_sc_d_2: 21300674
+      nose_female_straightnose_dark2_sc_d_3: 21300676
+      nose_female_straightnose_dark2_sc_d_4: 21300678
+      nose_female_straightnose_dark2_sc_d_5: 21300680
+      nose_female_straightnose_dark2_sc_d_6: 21300682
+      nose_female_straightnose_dark2_sc_l_0: 21300684
+      nose_female_straightnose_dark2_sc_l_1: 21300686
+      nose_female_straightnose_dark2_sc_l_2: 21300688
+      nose_female_straightnose_dark2_sc_l_3: 21300690
+      nose_female_straightnose_dark2_sc_l_4: 21300692
+      nose_female_straightnose_dark2_sc_l_5: 21300694
+      nose_female_straightnose_dark2_sc_l_6: 21300696
+      nose_female_straightnose_dark2_sc_r_0: 21300656
+      nose_female_straightnose_dark2_sc_r_1: 21300658
+      nose_female_straightnose_dark2_sc_r_2: 21300660
+      nose_female_straightnose_dark2_sc_r_3: 21300662
+      nose_female_straightnose_dark2_sc_r_4: 21300664
+      nose_female_straightnose_dark2_sc_r_5: 21300666
+      nose_female_straightnose_dark2_sc_r_6: 21300668
+      nose_female_straightnose_dark2_sc_t_0: 21300698
+      nose_female_straightnose_dark2_sc_t_1: 21300700
+      nose_female_straightnose_dark2_sc_t_2: 21300702
+      nose_female_straightnose_dark2_sc_t_3: 21300704
+      nose_female_straightnose_dark2_sc_t_4: 21300706
+      nose_female_straightnose_dark2_sc_t_5: 21300708
+      nose_female_straightnose_dark2_sc_t_6: 21300710
+      nose_female_straightnose_dark2_sh_d_0: 21300394
+      nose_female_straightnose_dark2_sh_d_1: 21300396
+      nose_female_straightnose_dark2_sh_d_10: 21300414
+      nose_female_straightnose_dark2_sh_d_11: 21300416
+      nose_female_straightnose_dark2_sh_d_12: 21300418
+      nose_female_straightnose_dark2_sh_d_2: 21300398
+      nose_female_straightnose_dark2_sh_d_3: 21300400
+      nose_female_straightnose_dark2_sh_d_4: 21300402
+      nose_female_straightnose_dark2_sh_d_5: 21300404
+      nose_female_straightnose_dark2_sh_d_6: 21300406
+      nose_female_straightnose_dark2_sh_d_7: 21300408
+      nose_female_straightnose_dark2_sh_d_8: 21300410
+      nose_female_straightnose_dark2_sh_d_9: 21300412
+      nose_female_straightnose_dark2_sh_l_0: 21300420
+      nose_female_straightnose_dark2_sh_l_1: 21300422
+      nose_female_straightnose_dark2_sh_l_10: 21300440
+      nose_female_straightnose_dark2_sh_l_11: 21300442
+      nose_female_straightnose_dark2_sh_l_12: 21300444
+      nose_female_straightnose_dark2_sh_l_2: 21300424
+      nose_female_straightnose_dark2_sh_l_3: 21300426
+      nose_female_straightnose_dark2_sh_l_4: 21300428
+      nose_female_straightnose_dark2_sh_l_5: 21300430
+      nose_female_straightnose_dark2_sh_l_6: 21300432
+      nose_female_straightnose_dark2_sh_l_7: 21300434
+      nose_female_straightnose_dark2_sh_l_8: 21300436
+      nose_female_straightnose_dark2_sh_l_9: 21300438
+      nose_female_straightnose_dark2_sh_r_0: 21300368
+      nose_female_straightnose_dark2_sh_r_1: 21300370
+      nose_female_straightnose_dark2_sh_r_10: 21300388
+      nose_female_straightnose_dark2_sh_r_11: 21300390
+      nose_female_straightnose_dark2_sh_r_12: 21300392
+      nose_female_straightnose_dark2_sh_r_2: 21300372
+      nose_female_straightnose_dark2_sh_r_3: 21300374
+      nose_female_straightnose_dark2_sh_r_4: 21300376
+      nose_female_straightnose_dark2_sh_r_5: 21300378
+      nose_female_straightnose_dark2_sh_r_6: 21300380
+      nose_female_straightnose_dark2_sh_r_7: 21300382
+      nose_female_straightnose_dark2_sh_r_8: 21300384
+      nose_female_straightnose_dark2_sh_r_9: 21300386
+      nose_female_straightnose_dark2_sh_t_0: 21300446
+      nose_female_straightnose_dark2_sh_t_1: 21300448
+      nose_female_straightnose_dark2_sh_t_10: 21300466
+      nose_female_straightnose_dark2_sh_t_11: 21300468
+      nose_female_straightnose_dark2_sh_t_12: 21300470
+      nose_female_straightnose_dark2_sh_t_2: 21300450
+      nose_female_straightnose_dark2_sh_t_3: 21300452
+      nose_female_straightnose_dark2_sh_t_4: 21300454
+      nose_female_straightnose_dark2_sh_t_5: 21300456
+      nose_female_straightnose_dark2_sh_t_6: 21300458
+      nose_female_straightnose_dark2_sh_t_7: 21300460
+      nose_female_straightnose_dark2_sh_t_8: 21300462
+      nose_female_straightnose_dark2_sh_t_9: 21300464
+      nose_female_straightnose_dark2_sl_d_0: 21300484
+      nose_female_straightnose_dark2_sl_d_1: 21300486
+      nose_female_straightnose_dark2_sl_d_2: 21300488
+      nose_female_straightnose_dark2_sl_d_3: 21300490
+      nose_female_straightnose_dark2_sl_d_4: 21300492
+      nose_female_straightnose_dark2_sl_d_5: 21300494
+      nose_female_straightnose_dark2_sl_l_0: 21300496
+      nose_female_straightnose_dark2_sl_l_1: 21300498
+      nose_female_straightnose_dark2_sl_l_2: 21300500
+      nose_female_straightnose_dark2_sl_l_3: 21300502
+      nose_female_straightnose_dark2_sl_l_4: 21300504
+      nose_female_straightnose_dark2_sl_l_5: 21300506
+      nose_female_straightnose_dark2_sl_r_0: 21300472
+      nose_female_straightnose_dark2_sl_r_1: 21300474
+      nose_female_straightnose_dark2_sl_r_2: 21300476
+      nose_female_straightnose_dark2_sl_r_3: 21300478
+      nose_female_straightnose_dark2_sl_r_4: 21300480
+      nose_female_straightnose_dark2_sl_r_5: 21300482
+      nose_female_straightnose_dark2_sl_t_0: 21300508
+      nose_female_straightnose_dark2_sl_t_1: 21300510
+      nose_female_straightnose_dark2_sl_t_2: 21300512
+      nose_female_straightnose_dark2_sl_t_3: 21300514
+      nose_female_straightnose_dark2_sl_t_4: 21300516
+      nose_female_straightnose_dark2_sl_t_5: 21300518
+      nose_female_straightnose_dark2_th_d_0: 21300608
+      nose_female_straightnose_dark2_th_d_1: 21300610
+      nose_female_straightnose_dark2_th_d_2: 21300612
+      nose_female_straightnose_dark2_th_d_3: 21300614
+      nose_female_straightnose_dark2_th_d_4: 21300616
+      nose_female_straightnose_dark2_th_d_5: 21300618
+      nose_female_straightnose_dark2_th_d_6: 21300620
+      nose_female_straightnose_dark2_th_d_7: 21300622
+      nose_female_straightnose_dark2_th_l_0: 21300624
+      nose_female_straightnose_dark2_th_l_1: 21300626
+      nose_female_straightnose_dark2_th_l_2: 21300628
+      nose_female_straightnose_dark2_th_l_3: 21300630
+      nose_female_straightnose_dark2_th_l_4: 21300632
+      nose_female_straightnose_dark2_th_l_5: 21300634
+      nose_female_straightnose_dark2_th_l_6: 21300636
+      nose_female_straightnose_dark2_th_l_7: 21300638
+      nose_female_straightnose_dark2_th_r_0: 21300592
+      nose_female_straightnose_dark2_th_r_1: 21300594
+      nose_female_straightnose_dark2_th_r_2: 21300596
+      nose_female_straightnose_dark2_th_r_3: 21300598
+      nose_female_straightnose_dark2_th_r_4: 21300600
+      nose_female_straightnose_dark2_th_r_5: 21300602
+      nose_female_straightnose_dark2_th_r_6: 21300604
+      nose_female_straightnose_dark2_th_r_7: 21300606
+      nose_female_straightnose_dark2_th_t_0: 21300640
+      nose_female_straightnose_dark2_th_t_1: 21300642
+      nose_female_straightnose_dark2_th_t_2: 21300644
+      nose_female_straightnose_dark2_th_t_3: 21300646
+      nose_female_straightnose_dark2_th_t_4: 21300648
+      nose_female_straightnose_dark2_th_t_5: 21300650
+      nose_female_straightnose_dark2_th_t_6: 21300652
+      nose_female_straightnose_dark2_th_t_7: 21300654
+      nose_female_straightnose_dark2_wc_d_0: 21300538
+      nose_female_straightnose_dark2_wc_d_1: 21300540
+      nose_female_straightnose_dark2_wc_d_2: 21300542
+      nose_female_straightnose_dark2_wc_d_3: 21300544
+      nose_female_straightnose_dark2_wc_d_4: 21300546
+      nose_female_straightnose_dark2_wc_d_5: 21300548
+      nose_female_straightnose_dark2_wc_d_6: 21300550
+      nose_female_straightnose_dark2_wc_d_7: 21300552
+      nose_female_straightnose_dark2_wc_d_8: 21300554
+      nose_female_straightnose_dark2_wc_l_0: 21300556
+      nose_female_straightnose_dark2_wc_l_1: 21300558
+      nose_female_straightnose_dark2_wc_l_2: 21300560
+      nose_female_straightnose_dark2_wc_l_3: 21300562
+      nose_female_straightnose_dark2_wc_l_4: 21300564
+      nose_female_straightnose_dark2_wc_l_5: 21300566
+      nose_female_straightnose_dark2_wc_l_6: 21300568
+      nose_female_straightnose_dark2_wc_l_7: 21300570
+      nose_female_straightnose_dark2_wc_l_8: 21300572
+      nose_female_straightnose_dark2_wc_r_0: 21300520
+      nose_female_straightnose_dark2_wc_r_1: 21300522
+      nose_female_straightnose_dark2_wc_r_2: 21300524
+      nose_female_straightnose_dark2_wc_r_3: 21300526
+      nose_female_straightnose_dark2_wc_r_4: 21300528
+      nose_female_straightnose_dark2_wc_r_5: 21300530
+      nose_female_straightnose_dark2_wc_r_6: 21300532
+      nose_female_straightnose_dark2_wc_r_7: 21300534
+      nose_female_straightnose_dark2_wc_r_8: 21300536
+      nose_female_straightnose_dark2_wc_t_0: 21300574
+      nose_female_straightnose_dark2_wc_t_1: 21300576
+      nose_female_straightnose_dark2_wc_t_2: 21300578
+      nose_female_straightnose_dark2_wc_t_3: 21300580
+      nose_female_straightnose_dark2_wc_t_4: 21300582
+      nose_female_straightnose_dark2_wc_t_5: 21300584
+      nose_female_straightnose_dark2_wc_t_6: 21300586
+      nose_female_straightnose_dark2_wc_t_7: 21300588
+      nose_female_straightnose_dark2_wc_t_8: 21300590
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 

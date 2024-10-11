@@ -53,91 +53,58 @@ public class LpcSpriteSettings : Object
     /* Getter */
     public static bool GetImportEmptySprites()
     {
-        if (EditorPrefs.HasKey(ImportEmptySprites))
-            return EditorPrefs.GetBool(ImportEmptySprites);
-        else
-            return ImportEmptySpritesInit;
+        return EditorPrefs.HasKey(ImportEmptySprites) && EditorPrefs.GetBool(ImportEmptySprites);
     }
 
     public static bool GetExpertMode()
     {
-        if (EditorPrefs.HasKey(ExpertMode))
-            return EditorPrefs.GetBool(ExpertMode);
-        else
-            return ExpertModeInit;
+        return EditorPrefs.HasKey(ExpertMode) && EditorPrefs.GetBool(ExpertMode);
     }
 
     public static int GetColCount()
     {
-        if (EditorPrefs.HasKey(ColCount))
-            return EditorPrefs.GetInt(ColCount);
-        else
-            return ColCountInit;
+        return EditorPrefs.HasKey(ColCount) ? EditorPrefs.GetInt(ColCount) : ColCountInit;
     }
 
     public static int GetRowCount()
     {
-        if (EditorPrefs.HasKey(RowCount))
-            return EditorPrefs.GetInt(RowCount);
-        else
-            return RowCountInit;
+        return EditorPrefs.HasKey(RowCount) ? EditorPrefs.GetInt(RowCount) : RowCountInit;
     }
 
     public static int GetPixelsPerUnit()
     {
-        if (EditorPrefs.HasKey(PixelsPerUnit))
-            return EditorPrefs.GetInt(PixelsPerUnit);
-        else
-            return PixelsPerUnitInit;
+        return EditorPrefs.HasKey(PixelsPerUnit) ? EditorPrefs.GetInt(PixelsPerUnit) : PixelsPerUnitInit;
     }
 
     /* Animation Frame Count Getter */
     public static int GetScFrameCount()
     {
-        if (EditorPrefs.HasKey(ScFrameCount))
-            return EditorPrefs.GetInt(ScFrameCount);
-        else
-            return ScFrameCountInit;
+        return EditorPrefs.HasKey(ScFrameCount) ? EditorPrefs.GetInt(ScFrameCount) : ScFrameCountInit;
     }
 
     public static int GetThFrameCount()
     {
-        if (EditorPrefs.HasKey(ThFrameCount))
-            return EditorPrefs.GetInt(ThFrameCount);
-        else
-            return ThFrameCountInit;
+        return EditorPrefs.HasKey(ThFrameCount) ? EditorPrefs.GetInt(ThFrameCount) : ThFrameCountInit;
     }
 
     public static int GetWcFrameCount()
     {
-        if (EditorPrefs.HasKey(WcFrameCount))
-            return EditorPrefs.GetInt(WcFrameCount);
-        else
-            return WcFrameCountInit;
+        return EditorPrefs.HasKey(WcFrameCount) ? EditorPrefs.GetInt(WcFrameCount) : WcFrameCountInit;
     }
 
     public static int GetSlFrameCount()
     {
-        if (EditorPrefs.HasKey(SlFrameCount))
-            return EditorPrefs.GetInt(SlFrameCount);
-        else
-            return SlFrameCountInit;
+        return EditorPrefs.HasKey(SlFrameCount) ? EditorPrefs.GetInt(SlFrameCount) : SlFrameCountInit;
     }
 
     public static int GetShFrameCount()
     {
-        if (EditorPrefs.HasKey(ShFrameCount))
-            return EditorPrefs.GetInt(ShFrameCount);
-        else
-            return ShFrameCountInit;
+        return EditorPrefs.HasKey(ShFrameCount) ? EditorPrefs.GetInt(ShFrameCount) : ShFrameCountInit;
     }
 
     public static int GetHuFrameCount()
     {
-        if (EditorPrefs.HasKey(HuFrameCount))
-            return EditorPrefs.GetInt(HuFrameCount);
-        else
-            return HuFrameCountInit;
+        return EditorPrefs.HasKey(HuFrameCount) ? EditorPrefs.GetInt(HuFrameCount) : HuFrameCountInit;
     }
 
     /* Setter */

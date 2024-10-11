@@ -1,545 +1,1611 @@
 fileFormatVersion: 2
 guid: affeb06c4dd9bdb43a8f20f4eed38897
-timeCreated: 1486884829
-licenseType: Free
 TextureImporter:
-  fileIDToRecycleName:
-    21300000: torso_shirts_sleeveless_female_tanktop_hu_0
-    21300002: torso_shirts_sleeveless_female_tanktop_hu_1
-    21300004: torso_shirts_sleeveless_female_tanktop_hu_2
-    21300006: torso_shirts_sleeveless_female_tanktop_hu_3
-    21300008: torso_shirts_sleeveless_female_tanktop_hu_4
-    21300010: torso_shirts_sleeveless_female_tanktop_hu_5
-    21300012: torso_shirts_sleeveless_female_tanktop_sh_r_0
-    21300014: torso_shirts_sleeveless_female_tanktop_sh_r_1
-    21300016: torso_shirts_sleeveless_female_tanktop_sh_r_2
-    21300018: torso_shirts_sleeveless_female_tanktop_sh_r_3
-    21300020: torso_shirts_sleeveless_female_tanktop_sh_r_4
-    21300022: torso_shirts_sleeveless_female_tanktop_sh_r_5
-    21300024: torso_shirts_sleeveless_female_tanktop_sh_r_6
-    21300026: torso_shirts_sleeveless_female_tanktop_sh_r_7
-    21300028: torso_shirts_sleeveless_female_tanktop_sh_r_8
-    21300030: torso_shirts_sleeveless_female_tanktop_sh_r_9
-    21300032: torso_shirts_sleeveless_female_tanktop_sh_r_10
-    21300034: torso_shirts_sleeveless_female_tanktop_sh_r_11
-    21300036: torso_shirts_sleeveless_female_tanktop_sh_r_12
-    21300038: torso_shirts_sleeveless_female_tanktop_sh_d_0
-    21300040: torso_shirts_sleeveless_female_tanktop_sh_d_1
-    21300042: torso_shirts_sleeveless_female_tanktop_sh_d_2
-    21300044: torso_shirts_sleeveless_female_tanktop_sh_d_3
-    21300046: torso_shirts_sleeveless_female_tanktop_sh_d_4
-    21300048: torso_shirts_sleeveless_female_tanktop_sh_d_5
-    21300050: torso_shirts_sleeveless_female_tanktop_sh_d_6
-    21300052: torso_shirts_sleeveless_female_tanktop_sh_d_7
-    21300054: torso_shirts_sleeveless_female_tanktop_sh_d_8
-    21300056: torso_shirts_sleeveless_female_tanktop_sh_d_9
-    21300058: torso_shirts_sleeveless_female_tanktop_sh_d_10
-    21300060: torso_shirts_sleeveless_female_tanktop_sh_d_11
-    21300062: torso_shirts_sleeveless_female_tanktop_sh_d_12
-    21300064: torso_shirts_sleeveless_female_tanktop_sh_l_0
-    21300066: torso_shirts_sleeveless_female_tanktop_sh_l_1
-    21300068: torso_shirts_sleeveless_female_tanktop_sh_l_2
-    21300070: torso_shirts_sleeveless_female_tanktop_sh_l_3
-    21300072: torso_shirts_sleeveless_female_tanktop_sh_l_4
-    21300074: torso_shirts_sleeveless_female_tanktop_sh_l_5
-    21300076: torso_shirts_sleeveless_female_tanktop_sh_l_6
-    21300078: torso_shirts_sleeveless_female_tanktop_sh_l_7
-    21300080: torso_shirts_sleeveless_female_tanktop_sh_l_8
-    21300082: torso_shirts_sleeveless_female_tanktop_sh_l_9
-    21300084: torso_shirts_sleeveless_female_tanktop_sh_l_10
-    21300086: torso_shirts_sleeveless_female_tanktop_sh_l_11
-    21300088: torso_shirts_sleeveless_female_tanktop_sh_l_12
-    21300090: torso_shirts_sleeveless_female_tanktop_sh_t_0
-    21300092: torso_shirts_sleeveless_female_tanktop_sh_t_1
-    21300094: torso_shirts_sleeveless_female_tanktop_sh_t_2
-    21300096: torso_shirts_sleeveless_female_tanktop_sh_t_3
-    21300098: torso_shirts_sleeveless_female_tanktop_sh_t_4
-    21300100: torso_shirts_sleeveless_female_tanktop_sh_t_5
-    21300102: torso_shirts_sleeveless_female_tanktop_sh_t_6
-    21300104: torso_shirts_sleeveless_female_tanktop_sh_t_7
-    21300106: torso_shirts_sleeveless_female_tanktop_sh_t_8
-    21300108: torso_shirts_sleeveless_female_tanktop_sh_t_9
-    21300110: torso_shirts_sleeveless_female_tanktop_sh_t_10
-    21300112: torso_shirts_sleeveless_female_tanktop_sh_t_11
-    21300114: torso_shirts_sleeveless_female_tanktop_sh_t_12
-    21300116: torso_shirts_sleeveless_female_tanktop_sl_r_0
-    21300118: torso_shirts_sleeveless_female_tanktop_sl_r_1
-    21300120: torso_shirts_sleeveless_female_tanktop_sl_r_2
-    21300122: torso_shirts_sleeveless_female_tanktop_sl_r_3
-    21300124: torso_shirts_sleeveless_female_tanktop_sl_r_4
-    21300126: torso_shirts_sleeveless_female_tanktop_sl_r_5
-    21300128: torso_shirts_sleeveless_female_tanktop_sl_d_0
-    21300130: torso_shirts_sleeveless_female_tanktop_sl_d_1
-    21300132: torso_shirts_sleeveless_female_tanktop_sl_d_2
-    21300134: torso_shirts_sleeveless_female_tanktop_sl_d_3
-    21300136: torso_shirts_sleeveless_female_tanktop_sl_d_4
-    21300138: torso_shirts_sleeveless_female_tanktop_sl_d_5
-    21300140: torso_shirts_sleeveless_female_tanktop_sl_l_0
-    21300142: torso_shirts_sleeveless_female_tanktop_sl_l_1
-    21300144: torso_shirts_sleeveless_female_tanktop_sl_l_2
-    21300146: torso_shirts_sleeveless_female_tanktop_sl_l_3
-    21300148: torso_shirts_sleeveless_female_tanktop_sl_l_4
-    21300150: torso_shirts_sleeveless_female_tanktop_sl_l_5
-    21300152: torso_shirts_sleeveless_female_tanktop_sl_t_0
-    21300154: torso_shirts_sleeveless_female_tanktop_sl_t_1
-    21300156: torso_shirts_sleeveless_female_tanktop_sl_t_2
-    21300158: torso_shirts_sleeveless_female_tanktop_sl_t_3
-    21300160: torso_shirts_sleeveless_female_tanktop_sl_t_4
-    21300162: torso_shirts_sleeveless_female_tanktop_sl_t_5
-    21300164: torso_shirts_sleeveless_female_tanktop_wc_r_0
-    21300166: torso_shirts_sleeveless_female_tanktop_wc_r_1
-    21300168: torso_shirts_sleeveless_female_tanktop_wc_r_2
-    21300170: torso_shirts_sleeveless_female_tanktop_wc_r_3
-    21300172: torso_shirts_sleeveless_female_tanktop_wc_r_4
-    21300174: torso_shirts_sleeveless_female_tanktop_wc_r_5
-    21300176: torso_shirts_sleeveless_female_tanktop_wc_r_6
-    21300178: torso_shirts_sleeveless_female_tanktop_wc_r_7
-    21300180: torso_shirts_sleeveless_female_tanktop_wc_r_8
-    21300182: torso_shirts_sleeveless_female_tanktop_wc_d_0
-    21300184: torso_shirts_sleeveless_female_tanktop_wc_d_1
-    21300186: torso_shirts_sleeveless_female_tanktop_wc_d_2
-    21300188: torso_shirts_sleeveless_female_tanktop_wc_d_3
-    21300190: torso_shirts_sleeveless_female_tanktop_wc_d_4
-    21300192: torso_shirts_sleeveless_female_tanktop_wc_d_5
-    21300194: torso_shirts_sleeveless_female_tanktop_wc_d_6
-    21300196: torso_shirts_sleeveless_female_tanktop_wc_d_7
-    21300198: torso_shirts_sleeveless_female_tanktop_wc_d_8
-    21300200: torso_shirts_sleeveless_female_tanktop_wc_l_0
-    21300202: torso_shirts_sleeveless_female_tanktop_wc_l_1
-    21300204: torso_shirts_sleeveless_female_tanktop_wc_l_2
-    21300206: torso_shirts_sleeveless_female_tanktop_wc_l_3
-    21300208: torso_shirts_sleeveless_female_tanktop_wc_l_4
-    21300210: torso_shirts_sleeveless_female_tanktop_wc_l_5
-    21300212: torso_shirts_sleeveless_female_tanktop_wc_l_6
-    21300214: torso_shirts_sleeveless_female_tanktop_wc_l_7
-    21300216: torso_shirts_sleeveless_female_tanktop_wc_l_8
-    21300218: torso_shirts_sleeveless_female_tanktop_wc_t_0
-    21300220: torso_shirts_sleeveless_female_tanktop_wc_t_1
-    21300222: torso_shirts_sleeveless_female_tanktop_wc_t_2
-    21300224: torso_shirts_sleeveless_female_tanktop_wc_t_3
-    21300226: torso_shirts_sleeveless_female_tanktop_wc_t_4
-    21300228: torso_shirts_sleeveless_female_tanktop_wc_t_5
-    21300230: torso_shirts_sleeveless_female_tanktop_wc_t_6
-    21300232: torso_shirts_sleeveless_female_tanktop_wc_t_7
-    21300234: torso_shirts_sleeveless_female_tanktop_wc_t_8
-    21300236: torso_shirts_sleeveless_female_tanktop_th_r_0
-    21300238: torso_shirts_sleeveless_female_tanktop_th_r_1
-    21300240: torso_shirts_sleeveless_female_tanktop_th_r_2
-    21300242: torso_shirts_sleeveless_female_tanktop_th_r_3
-    21300244: torso_shirts_sleeveless_female_tanktop_th_r_4
-    21300246: torso_shirts_sleeveless_female_tanktop_th_r_5
-    21300248: torso_shirts_sleeveless_female_tanktop_th_r_6
-    21300250: torso_shirts_sleeveless_female_tanktop_th_r_7
-    21300252: torso_shirts_sleeveless_female_tanktop_th_d_0
-    21300254: torso_shirts_sleeveless_female_tanktop_th_d_1
-    21300256: torso_shirts_sleeveless_female_tanktop_th_d_2
-    21300258: torso_shirts_sleeveless_female_tanktop_th_d_3
-    21300260: torso_shirts_sleeveless_female_tanktop_th_d_4
-    21300262: torso_shirts_sleeveless_female_tanktop_th_d_5
-    21300264: torso_shirts_sleeveless_female_tanktop_th_d_6
-    21300266: torso_shirts_sleeveless_female_tanktop_th_d_7
-    21300268: torso_shirts_sleeveless_female_tanktop_th_l_0
-    21300270: torso_shirts_sleeveless_female_tanktop_th_l_1
-    21300272: torso_shirts_sleeveless_female_tanktop_th_l_2
-    21300274: torso_shirts_sleeveless_female_tanktop_th_l_3
-    21300276: torso_shirts_sleeveless_female_tanktop_th_l_4
-    21300278: torso_shirts_sleeveless_female_tanktop_th_l_5
-    21300280: torso_shirts_sleeveless_female_tanktop_th_l_6
-    21300282: torso_shirts_sleeveless_female_tanktop_th_l_7
-    21300284: torso_shirts_sleeveless_female_tanktop_th_t_0
-    21300286: torso_shirts_sleeveless_female_tanktop_th_t_1
-    21300288: torso_shirts_sleeveless_female_tanktop_th_t_2
-    21300290: torso_shirts_sleeveless_female_tanktop_th_t_3
-    21300292: torso_shirts_sleeveless_female_tanktop_th_t_4
-    21300294: torso_shirts_sleeveless_female_tanktop_th_t_5
-    21300296: torso_shirts_sleeveless_female_tanktop_th_t_6
-    21300298: torso_shirts_sleeveless_female_tanktop_th_t_7
-    21300300: torso_shirts_sleeveless_female_tanktop_sc_r_0
-    21300302: torso_shirts_sleeveless_female_tanktop_sc_r_1
-    21300304: torso_shirts_sleeveless_female_tanktop_sc_r_2
-    21300306: torso_shirts_sleeveless_female_tanktop_sc_r_3
-    21300308: torso_shirts_sleeveless_female_tanktop_sc_r_4
-    21300310: torso_shirts_sleeveless_female_tanktop_sc_r_5
-    21300312: torso_shirts_sleeveless_female_tanktop_sc_r_6
-    21300314: torso_shirts_sleeveless_female_tanktop_sc_d_0
-    21300316: torso_shirts_sleeveless_female_tanktop_sc_d_1
-    21300318: torso_shirts_sleeveless_female_tanktop_sc_d_2
-    21300320: torso_shirts_sleeveless_female_tanktop_sc_d_3
-    21300322: torso_shirts_sleeveless_female_tanktop_sc_d_4
-    21300324: torso_shirts_sleeveless_female_tanktop_sc_d_5
-    21300326: torso_shirts_sleeveless_female_tanktop_sc_d_6
-    21300328: torso_shirts_sleeveless_female_tanktop_sc_l_0
-    21300330: torso_shirts_sleeveless_female_tanktop_sc_l_1
-    21300332: torso_shirts_sleeveless_female_tanktop_sc_l_2
-    21300334: torso_shirts_sleeveless_female_tanktop_sc_l_3
-    21300336: torso_shirts_sleeveless_female_tanktop_sc_l_4
-    21300338: torso_shirts_sleeveless_female_tanktop_sc_l_5
-    21300340: torso_shirts_sleeveless_female_tanktop_sc_l_6
-    21300342: torso_shirts_sleeveless_female_tanktop_sc_t_0
-    21300344: torso_shirts_sleeveless_female_tanktop_sc_t_1
-    21300346: torso_shirts_sleeveless_female_tanktop_sc_t_2
-    21300348: torso_shirts_sleeveless_female_tanktop_sc_t_3
-    21300350: torso_shirts_sleeveless_female_tanktop_sc_t_4
-    21300352: torso_shirts_sleeveless_female_tanktop_sc_t_5
-    21300354: torso_shirts_sleeveless_female_tanktop_sc_t_6
-    21300356: torso_shirts_sleeveless_female_shirt_tanktop_hu_0
-    21300358: torso_shirts_sleeveless_female_shirt_tanktop_hu_1
-    21300360: torso_shirts_sleeveless_female_shirt_tanktop_hu_2
-    21300362: torso_shirts_sleeveless_female_shirt_tanktop_hu_3
-    21300364: torso_shirts_sleeveless_female_shirt_tanktop_hu_4
-    21300366: torso_shirts_sleeveless_female_shirt_tanktop_hu_5
-    21300368: torso_shirts_sleeveless_female_shirt_tanktop_sh_r_0
-    21300370: torso_shirts_sleeveless_female_shirt_tanktop_sh_r_1
-    21300372: torso_shirts_sleeveless_female_shirt_tanktop_sh_r_2
-    21300374: torso_shirts_sleeveless_female_shirt_tanktop_sh_r_3
-    21300376: torso_shirts_sleeveless_female_shirt_tanktop_sh_r_4
-    21300378: torso_shirts_sleeveless_female_shirt_tanktop_sh_r_5
-    21300380: torso_shirts_sleeveless_female_shirt_tanktop_sh_r_6
-    21300382: torso_shirts_sleeveless_female_shirt_tanktop_sh_r_7
-    21300384: torso_shirts_sleeveless_female_shirt_tanktop_sh_r_8
-    21300386: torso_shirts_sleeveless_female_shirt_tanktop_sh_r_9
-    21300388: torso_shirts_sleeveless_female_shirt_tanktop_sh_r_10
-    21300390: torso_shirts_sleeveless_female_shirt_tanktop_sh_r_11
-    21300392: torso_shirts_sleeveless_female_shirt_tanktop_sh_r_12
-    21300394: torso_shirts_sleeveless_female_shirt_tanktop_sh_d_0
-    21300396: torso_shirts_sleeveless_female_shirt_tanktop_sh_d_1
-    21300398: torso_shirts_sleeveless_female_shirt_tanktop_sh_d_2
-    21300400: torso_shirts_sleeveless_female_shirt_tanktop_sh_d_3
-    21300402: torso_shirts_sleeveless_female_shirt_tanktop_sh_d_4
-    21300404: torso_shirts_sleeveless_female_shirt_tanktop_sh_d_5
-    21300406: torso_shirts_sleeveless_female_shirt_tanktop_sh_d_6
-    21300408: torso_shirts_sleeveless_female_shirt_tanktop_sh_d_7
-    21300410: torso_shirts_sleeveless_female_shirt_tanktop_sh_d_8
-    21300412: torso_shirts_sleeveless_female_shirt_tanktop_sh_d_9
-    21300414: torso_shirts_sleeveless_female_shirt_tanktop_sh_d_10
-    21300416: torso_shirts_sleeveless_female_shirt_tanktop_sh_d_11
-    21300418: torso_shirts_sleeveless_female_shirt_tanktop_sh_d_12
-    21300420: torso_shirts_sleeveless_female_shirt_tanktop_sh_l_0
-    21300422: torso_shirts_sleeveless_female_shirt_tanktop_sh_l_1
-    21300424: torso_shirts_sleeveless_female_shirt_tanktop_sh_l_2
-    21300426: torso_shirts_sleeveless_female_shirt_tanktop_sh_l_3
-    21300428: torso_shirts_sleeveless_female_shirt_tanktop_sh_l_4
-    21300430: torso_shirts_sleeveless_female_shirt_tanktop_sh_l_5
-    21300432: torso_shirts_sleeveless_female_shirt_tanktop_sh_l_6
-    21300434: torso_shirts_sleeveless_female_shirt_tanktop_sh_l_7
-    21300436: torso_shirts_sleeveless_female_shirt_tanktop_sh_l_8
-    21300438: torso_shirts_sleeveless_female_shirt_tanktop_sh_l_9
-    21300440: torso_shirts_sleeveless_female_shirt_tanktop_sh_l_10
-    21300442: torso_shirts_sleeveless_female_shirt_tanktop_sh_l_11
-    21300444: torso_shirts_sleeveless_female_shirt_tanktop_sh_l_12
-    21300446: torso_shirts_sleeveless_female_shirt_tanktop_sh_t_0
-    21300448: torso_shirts_sleeveless_female_shirt_tanktop_sh_t_1
-    21300450: torso_shirts_sleeveless_female_shirt_tanktop_sh_t_2
-    21300452: torso_shirts_sleeveless_female_shirt_tanktop_sh_t_3
-    21300454: torso_shirts_sleeveless_female_shirt_tanktop_sh_t_4
-    21300456: torso_shirts_sleeveless_female_shirt_tanktop_sh_t_5
-    21300458: torso_shirts_sleeveless_female_shirt_tanktop_sh_t_6
-    21300460: torso_shirts_sleeveless_female_shirt_tanktop_sh_t_7
-    21300462: torso_shirts_sleeveless_female_shirt_tanktop_sh_t_8
-    21300464: torso_shirts_sleeveless_female_shirt_tanktop_sh_t_9
-    21300466: torso_shirts_sleeveless_female_shirt_tanktop_sh_t_10
-    21300468: torso_shirts_sleeveless_female_shirt_tanktop_sh_t_11
-    21300470: torso_shirts_sleeveless_female_shirt_tanktop_sh_t_12
-    21300472: torso_shirts_sleeveless_female_shirt_tanktop_sl_r_0
-    21300474: torso_shirts_sleeveless_female_shirt_tanktop_sl_r_1
-    21300476: torso_shirts_sleeveless_female_shirt_tanktop_sl_r_2
-    21300478: torso_shirts_sleeveless_female_shirt_tanktop_sl_r_3
-    21300480: torso_shirts_sleeveless_female_shirt_tanktop_sl_r_4
-    21300482: torso_shirts_sleeveless_female_shirt_tanktop_sl_r_5
-    21300484: torso_shirts_sleeveless_female_shirt_tanktop_sl_d_0
-    21300486: torso_shirts_sleeveless_female_shirt_tanktop_sl_d_1
-    21300488: torso_shirts_sleeveless_female_shirt_tanktop_sl_d_2
-    21300490: torso_shirts_sleeveless_female_shirt_tanktop_sl_d_3
-    21300492: torso_shirts_sleeveless_female_shirt_tanktop_sl_d_4
-    21300494: torso_shirts_sleeveless_female_shirt_tanktop_sl_d_5
-    21300496: torso_shirts_sleeveless_female_shirt_tanktop_sl_l_0
-    21300498: torso_shirts_sleeveless_female_shirt_tanktop_sl_l_1
-    21300500: torso_shirts_sleeveless_female_shirt_tanktop_sl_l_2
-    21300502: torso_shirts_sleeveless_female_shirt_tanktop_sl_l_3
-    21300504: torso_shirts_sleeveless_female_shirt_tanktop_sl_l_4
-    21300506: torso_shirts_sleeveless_female_shirt_tanktop_sl_l_5
-    21300508: torso_shirts_sleeveless_female_shirt_tanktop_sl_t_0
-    21300510: torso_shirts_sleeveless_female_shirt_tanktop_sl_t_1
-    21300512: torso_shirts_sleeveless_female_shirt_tanktop_sl_t_2
-    21300514: torso_shirts_sleeveless_female_shirt_tanktop_sl_t_3
-    21300516: torso_shirts_sleeveless_female_shirt_tanktop_sl_t_4
-    21300518: torso_shirts_sleeveless_female_shirt_tanktop_sl_t_5
-    21300520: torso_shirts_sleeveless_female_shirt_tanktop_wc_r_0
-    21300522: torso_shirts_sleeveless_female_shirt_tanktop_wc_r_1
-    21300524: torso_shirts_sleeveless_female_shirt_tanktop_wc_r_2
-    21300526: torso_shirts_sleeveless_female_shirt_tanktop_wc_r_3
-    21300528: torso_shirts_sleeveless_female_shirt_tanktop_wc_r_4
-    21300530: torso_shirts_sleeveless_female_shirt_tanktop_wc_r_5
-    21300532: torso_shirts_sleeveless_female_shirt_tanktop_wc_r_6
-    21300534: torso_shirts_sleeveless_female_shirt_tanktop_wc_r_7
-    21300536: torso_shirts_sleeveless_female_shirt_tanktop_wc_r_8
-    21300538: torso_shirts_sleeveless_female_shirt_tanktop_wc_d_0
-    21300540: torso_shirts_sleeveless_female_shirt_tanktop_wc_d_1
-    21300542: torso_shirts_sleeveless_female_shirt_tanktop_wc_d_2
-    21300544: torso_shirts_sleeveless_female_shirt_tanktop_wc_d_3
-    21300546: torso_shirts_sleeveless_female_shirt_tanktop_wc_d_4
-    21300548: torso_shirts_sleeveless_female_shirt_tanktop_wc_d_5
-    21300550: torso_shirts_sleeveless_female_shirt_tanktop_wc_d_6
-    21300552: torso_shirts_sleeveless_female_shirt_tanktop_wc_d_7
-    21300554: torso_shirts_sleeveless_female_shirt_tanktop_wc_d_8
-    21300556: torso_shirts_sleeveless_female_shirt_tanktop_wc_l_0
-    21300558: torso_shirts_sleeveless_female_shirt_tanktop_wc_l_1
-    21300560: torso_shirts_sleeveless_female_shirt_tanktop_wc_l_2
-    21300562: torso_shirts_sleeveless_female_shirt_tanktop_wc_l_3
-    21300564: torso_shirts_sleeveless_female_shirt_tanktop_wc_l_4
-    21300566: torso_shirts_sleeveless_female_shirt_tanktop_wc_l_5
-    21300568: torso_shirts_sleeveless_female_shirt_tanktop_wc_l_6
-    21300570: torso_shirts_sleeveless_female_shirt_tanktop_wc_l_7
-    21300572: torso_shirts_sleeveless_female_shirt_tanktop_wc_l_8
-    21300574: torso_shirts_sleeveless_female_shirt_tanktop_wc_t_0
-    21300576: torso_shirts_sleeveless_female_shirt_tanktop_wc_t_1
-    21300578: torso_shirts_sleeveless_female_shirt_tanktop_wc_t_2
-    21300580: torso_shirts_sleeveless_female_shirt_tanktop_wc_t_3
-    21300582: torso_shirts_sleeveless_female_shirt_tanktop_wc_t_4
-    21300584: torso_shirts_sleeveless_female_shirt_tanktop_wc_t_5
-    21300586: torso_shirts_sleeveless_female_shirt_tanktop_wc_t_6
-    21300588: torso_shirts_sleeveless_female_shirt_tanktop_wc_t_7
-    21300590: torso_shirts_sleeveless_female_shirt_tanktop_wc_t_8
-    21300592: torso_shirts_sleeveless_female_shirt_tanktop_th_r_0
-    21300594: torso_shirts_sleeveless_female_shirt_tanktop_th_r_1
-    21300596: torso_shirts_sleeveless_female_shirt_tanktop_th_r_2
-    21300598: torso_shirts_sleeveless_female_shirt_tanktop_th_r_3
-    21300600: torso_shirts_sleeveless_female_shirt_tanktop_th_r_4
-    21300602: torso_shirts_sleeveless_female_shirt_tanktop_th_r_5
-    21300604: torso_shirts_sleeveless_female_shirt_tanktop_th_r_6
-    21300606: torso_shirts_sleeveless_female_shirt_tanktop_th_r_7
-    21300608: torso_shirts_sleeveless_female_shirt_tanktop_th_d_0
-    21300610: torso_shirts_sleeveless_female_shirt_tanktop_th_d_1
-    21300612: torso_shirts_sleeveless_female_shirt_tanktop_th_d_2
-    21300614: torso_shirts_sleeveless_female_shirt_tanktop_th_d_3
-    21300616: torso_shirts_sleeveless_female_shirt_tanktop_th_d_4
-    21300618: torso_shirts_sleeveless_female_shirt_tanktop_th_d_5
-    21300620: torso_shirts_sleeveless_female_shirt_tanktop_th_d_6
-    21300622: torso_shirts_sleeveless_female_shirt_tanktop_th_d_7
-    21300624: torso_shirts_sleeveless_female_shirt_tanktop_th_l_0
-    21300626: torso_shirts_sleeveless_female_shirt_tanktop_th_l_1
-    21300628: torso_shirts_sleeveless_female_shirt_tanktop_th_l_2
-    21300630: torso_shirts_sleeveless_female_shirt_tanktop_th_l_3
-    21300632: torso_shirts_sleeveless_female_shirt_tanktop_th_l_4
-    21300634: torso_shirts_sleeveless_female_shirt_tanktop_th_l_5
-    21300636: torso_shirts_sleeveless_female_shirt_tanktop_th_l_6
-    21300638: torso_shirts_sleeveless_female_shirt_tanktop_th_l_7
-    21300640: torso_shirts_sleeveless_female_shirt_tanktop_th_t_0
-    21300642: torso_shirts_sleeveless_female_shirt_tanktop_th_t_1
-    21300644: torso_shirts_sleeveless_female_shirt_tanktop_th_t_2
-    21300646: torso_shirts_sleeveless_female_shirt_tanktop_th_t_3
-    21300648: torso_shirts_sleeveless_female_shirt_tanktop_th_t_4
-    21300650: torso_shirts_sleeveless_female_shirt_tanktop_th_t_5
-    21300652: torso_shirts_sleeveless_female_shirt_tanktop_th_t_6
-    21300654: torso_shirts_sleeveless_female_shirt_tanktop_th_t_7
-    21300656: torso_shirts_sleeveless_female_shirt_tanktop_sc_r_0
-    21300658: torso_shirts_sleeveless_female_shirt_tanktop_sc_r_1
-    21300660: torso_shirts_sleeveless_female_shirt_tanktop_sc_r_2
-    21300662: torso_shirts_sleeveless_female_shirt_tanktop_sc_r_3
-    21300664: torso_shirts_sleeveless_female_shirt_tanktop_sc_r_4
-    21300666: torso_shirts_sleeveless_female_shirt_tanktop_sc_r_5
-    21300668: torso_shirts_sleeveless_female_shirt_tanktop_sc_r_6
-    21300670: torso_shirts_sleeveless_female_shirt_tanktop_sc_d_0
-    21300672: torso_shirts_sleeveless_female_shirt_tanktop_sc_d_1
-    21300674: torso_shirts_sleeveless_female_shirt_tanktop_sc_d_2
-    21300676: torso_shirts_sleeveless_female_shirt_tanktop_sc_d_3
-    21300678: torso_shirts_sleeveless_female_shirt_tanktop_sc_d_4
-    21300680: torso_shirts_sleeveless_female_shirt_tanktop_sc_d_5
-    21300682: torso_shirts_sleeveless_female_shirt_tanktop_sc_d_6
-    21300684: torso_shirts_sleeveless_female_shirt_tanktop_sc_l_0
-    21300686: torso_shirts_sleeveless_female_shirt_tanktop_sc_l_1
-    21300688: torso_shirts_sleeveless_female_shirt_tanktop_sc_l_2
-    21300690: torso_shirts_sleeveless_female_shirt_tanktop_sc_l_3
-    21300692: torso_shirts_sleeveless_female_shirt_tanktop_sc_l_4
-    21300694: torso_shirts_sleeveless_female_shirt_tanktop_sc_l_5
-    21300696: torso_shirts_sleeveless_female_shirt_tanktop_sc_l_6
-    21300698: torso_shirts_sleeveless_female_shirt_tanktop_sc_t_0
-    21300700: torso_shirts_sleeveless_female_shirt_tanktop_sc_t_1
-    21300702: torso_shirts_sleeveless_female_shirt_tanktop_sc_t_2
-    21300704: torso_shirts_sleeveless_female_shirt_tanktop_sc_t_3
-    21300706: torso_shirts_sleeveless_female_shirt_tanktop_sc_t_4
-    21300708: torso_shirts_sleeveless_female_shirt_tanktop_sc_t_5
-    21300710: torso_shirts_sleeveless_female_shirt_tanktop_sc_t_6
-    21300712: chest_female_shirt_tanktop_hu_0
-    21300714: chest_female_shirt_tanktop_hu_1
-    21300716: chest_female_shirt_tanktop_hu_2
-    21300718: chest_female_shirt_tanktop_hu_3
-    21300720: chest_female_shirt_tanktop_hu_4
-    21300722: chest_female_shirt_tanktop_hu_5
-    21300724: chest_female_shirt_tanktop_sh_r_0
-    21300726: chest_female_shirt_tanktop_sh_r_1
-    21300728: chest_female_shirt_tanktop_sh_r_2
-    21300730: chest_female_shirt_tanktop_sh_r_3
-    21300732: chest_female_shirt_tanktop_sh_r_4
-    21300734: chest_female_shirt_tanktop_sh_r_5
-    21300736: chest_female_shirt_tanktop_sh_r_6
-    21300738: chest_female_shirt_tanktop_sh_r_7
-    21300740: chest_female_shirt_tanktop_sh_r_8
-    21300742: chest_female_shirt_tanktop_sh_r_9
-    21300744: chest_female_shirt_tanktop_sh_r_10
-    21300746: chest_female_shirt_tanktop_sh_r_11
-    21300748: chest_female_shirt_tanktop_sh_r_12
-    21300750: chest_female_shirt_tanktop_sh_d_0
-    21300752: chest_female_shirt_tanktop_sh_d_1
-    21300754: chest_female_shirt_tanktop_sh_d_2
-    21300756: chest_female_shirt_tanktop_sh_d_3
-    21300758: chest_female_shirt_tanktop_sh_d_4
-    21300760: chest_female_shirt_tanktop_sh_d_5
-    21300762: chest_female_shirt_tanktop_sh_d_6
-    21300764: chest_female_shirt_tanktop_sh_d_7
-    21300766: chest_female_shirt_tanktop_sh_d_8
-    21300768: chest_female_shirt_tanktop_sh_d_9
-    21300770: chest_female_shirt_tanktop_sh_d_10
-    21300772: chest_female_shirt_tanktop_sh_d_11
-    21300774: chest_female_shirt_tanktop_sh_d_12
-    21300776: chest_female_shirt_tanktop_sh_l_0
-    21300778: chest_female_shirt_tanktop_sh_l_1
-    21300780: chest_female_shirt_tanktop_sh_l_2
-    21300782: chest_female_shirt_tanktop_sh_l_3
-    21300784: chest_female_shirt_tanktop_sh_l_4
-    21300786: chest_female_shirt_tanktop_sh_l_5
-    21300788: chest_female_shirt_tanktop_sh_l_6
-    21300790: chest_female_shirt_tanktop_sh_l_7
-    21300792: chest_female_shirt_tanktop_sh_l_8
-    21300794: chest_female_shirt_tanktop_sh_l_9
-    21300796: chest_female_shirt_tanktop_sh_l_10
-    21300798: chest_female_shirt_tanktop_sh_l_11
-    21300800: chest_female_shirt_tanktop_sh_l_12
-    21300802: chest_female_shirt_tanktop_sh_t_0
-    21300804: chest_female_shirt_tanktop_sh_t_1
-    21300806: chest_female_shirt_tanktop_sh_t_2
-    21300808: chest_female_shirt_tanktop_sh_t_3
-    21300810: chest_female_shirt_tanktop_sh_t_4
-    21300812: chest_female_shirt_tanktop_sh_t_5
-    21300814: chest_female_shirt_tanktop_sh_t_6
-    21300816: chest_female_shirt_tanktop_sh_t_7
-    21300818: chest_female_shirt_tanktop_sh_t_8
-    21300820: chest_female_shirt_tanktop_sh_t_9
-    21300822: chest_female_shirt_tanktop_sh_t_10
-    21300824: chest_female_shirt_tanktop_sh_t_11
-    21300826: chest_female_shirt_tanktop_sh_t_12
-    21300828: chest_female_shirt_tanktop_sl_r_0
-    21300830: chest_female_shirt_tanktop_sl_r_1
-    21300832: chest_female_shirt_tanktop_sl_r_2
-    21300834: chest_female_shirt_tanktop_sl_r_3
-    21300836: chest_female_shirt_tanktop_sl_r_4
-    21300838: chest_female_shirt_tanktop_sl_r_5
-    21300840: chest_female_shirt_tanktop_sl_d_0
-    21300842: chest_female_shirt_tanktop_sl_d_1
-    21300844: chest_female_shirt_tanktop_sl_d_2
-    21300846: chest_female_shirt_tanktop_sl_d_3
-    21300848: chest_female_shirt_tanktop_sl_d_4
-    21300850: chest_female_shirt_tanktop_sl_d_5
-    21300852: chest_female_shirt_tanktop_sl_l_0
-    21300854: chest_female_shirt_tanktop_sl_l_1
-    21300856: chest_female_shirt_tanktop_sl_l_2
-    21300858: chest_female_shirt_tanktop_sl_l_3
-    21300860: chest_female_shirt_tanktop_sl_l_4
-    21300862: chest_female_shirt_tanktop_sl_l_5
-    21300864: chest_female_shirt_tanktop_sl_t_0
-    21300866: chest_female_shirt_tanktop_sl_t_1
-    21300868: chest_female_shirt_tanktop_sl_t_2
-    21300870: chest_female_shirt_tanktop_sl_t_3
-    21300872: chest_female_shirt_tanktop_sl_t_4
-    21300874: chest_female_shirt_tanktop_sl_t_5
-    21300876: chest_female_shirt_tanktop_wc_r_0
-    21300878: chest_female_shirt_tanktop_wc_r_1
-    21300880: chest_female_shirt_tanktop_wc_r_2
-    21300882: chest_female_shirt_tanktop_wc_r_3
-    21300884: chest_female_shirt_tanktop_wc_r_4
-    21300886: chest_female_shirt_tanktop_wc_r_5
-    21300888: chest_female_shirt_tanktop_wc_r_6
-    21300890: chest_female_shirt_tanktop_wc_r_7
-    21300892: chest_female_shirt_tanktop_wc_r_8
-    21300894: chest_female_shirt_tanktop_wc_d_0
-    21300896: chest_female_shirt_tanktop_wc_d_1
-    21300898: chest_female_shirt_tanktop_wc_d_2
-    21300900: chest_female_shirt_tanktop_wc_d_3
-    21300902: chest_female_shirt_tanktop_wc_d_4
-    21300904: chest_female_shirt_tanktop_wc_d_5
-    21300906: chest_female_shirt_tanktop_wc_d_6
-    21300908: chest_female_shirt_tanktop_wc_d_7
-    21300910: chest_female_shirt_tanktop_wc_d_8
-    21300912: chest_female_shirt_tanktop_wc_l_0
-    21300914: chest_female_shirt_tanktop_wc_l_1
-    21300916: chest_female_shirt_tanktop_wc_l_2
-    21300918: chest_female_shirt_tanktop_wc_l_3
-    21300920: chest_female_shirt_tanktop_wc_l_4
-    21300922: chest_female_shirt_tanktop_wc_l_5
-    21300924: chest_female_shirt_tanktop_wc_l_6
-    21300926: chest_female_shirt_tanktop_wc_l_7
-    21300928: chest_female_shirt_tanktop_wc_l_8
-    21300930: chest_female_shirt_tanktop_wc_t_0
-    21300932: chest_female_shirt_tanktop_wc_t_1
-    21300934: chest_female_shirt_tanktop_wc_t_2
-    21300936: chest_female_shirt_tanktop_wc_t_3
-    21300938: chest_female_shirt_tanktop_wc_t_4
-    21300940: chest_female_shirt_tanktop_wc_t_5
-    21300942: chest_female_shirt_tanktop_wc_t_6
-    21300944: chest_female_shirt_tanktop_wc_t_7
-    21300946: chest_female_shirt_tanktop_wc_t_8
-    21300948: chest_female_shirt_tanktop_th_r_0
-    21300950: chest_female_shirt_tanktop_th_r_1
-    21300952: chest_female_shirt_tanktop_th_r_2
-    21300954: chest_female_shirt_tanktop_th_r_3
-    21300956: chest_female_shirt_tanktop_th_r_4
-    21300958: chest_female_shirt_tanktop_th_r_5
-    21300960: chest_female_shirt_tanktop_th_r_6
-    21300962: chest_female_shirt_tanktop_th_r_7
-    21300964: chest_female_shirt_tanktop_th_d_0
-    21300966: chest_female_shirt_tanktop_th_d_1
-    21300968: chest_female_shirt_tanktop_th_d_2
-    21300970: chest_female_shirt_tanktop_th_d_3
-    21300972: chest_female_shirt_tanktop_th_d_4
-    21300974: chest_female_shirt_tanktop_th_d_5
-    21300976: chest_female_shirt_tanktop_th_d_6
-    21300978: chest_female_shirt_tanktop_th_d_7
-    21300980: chest_female_shirt_tanktop_th_l_0
-    21300982: chest_female_shirt_tanktop_th_l_1
-    21300984: chest_female_shirt_tanktop_th_l_2
-    21300986: chest_female_shirt_tanktop_th_l_3
-    21300988: chest_female_shirt_tanktop_th_l_4
-    21300990: chest_female_shirt_tanktop_th_l_5
-    21300992: chest_female_shirt_tanktop_th_l_6
-    21300994: chest_female_shirt_tanktop_th_l_7
-    21300996: chest_female_shirt_tanktop_th_t_0
-    21300998: chest_female_shirt_tanktop_th_t_1
-    21301000: chest_female_shirt_tanktop_th_t_2
-    21301002: chest_female_shirt_tanktop_th_t_3
-    21301004: chest_female_shirt_tanktop_th_t_4
-    21301006: chest_female_shirt_tanktop_th_t_5
-    21301008: chest_female_shirt_tanktop_th_t_6
-    21301010: chest_female_shirt_tanktop_th_t_7
-    21301012: chest_female_shirt_tanktop_sc_r_0
-    21301014: chest_female_shirt_tanktop_sc_r_1
-    21301016: chest_female_shirt_tanktop_sc_r_2
-    21301018: chest_female_shirt_tanktop_sc_r_3
-    21301020: chest_female_shirt_tanktop_sc_r_4
-    21301022: chest_female_shirt_tanktop_sc_r_5
-    21301024: chest_female_shirt_tanktop_sc_r_6
-    21301026: chest_female_shirt_tanktop_sc_d_0
-    21301028: chest_female_shirt_tanktop_sc_d_1
-    21301030: chest_female_shirt_tanktop_sc_d_2
-    21301032: chest_female_shirt_tanktop_sc_d_3
-    21301034: chest_female_shirt_tanktop_sc_d_4
-    21301036: chest_female_shirt_tanktop_sc_d_5
-    21301038: chest_female_shirt_tanktop_sc_d_6
-    21301040: chest_female_shirt_tanktop_sc_l_0
-    21301042: chest_female_shirt_tanktop_sc_l_1
-    21301044: chest_female_shirt_tanktop_sc_l_2
-    21301046: chest_female_shirt_tanktop_sc_l_3
-    21301048: chest_female_shirt_tanktop_sc_l_4
-    21301050: chest_female_shirt_tanktop_sc_l_5
-    21301052: chest_female_shirt_tanktop_sc_l_6
-    21301054: chest_female_shirt_tanktop_sc_t_0
-    21301056: chest_female_shirt_tanktop_sc_t_1
-    21301058: chest_female_shirt_tanktop_sc_t_2
-    21301060: chest_female_shirt_tanktop_sc_t_3
-    21301062: chest_female_shirt_tanktop_sc_t_4
-    21301064: chest_female_shirt_tanktop_sc_t_5
-    21301066: chest_female_shirt_tanktop_sc_t_6
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: torso_shirts_sleeveless_female_tanktop_hu_0
+  - first:
+      213: 21300002
+    second: torso_shirts_sleeveless_female_tanktop_hu_1
+  - first:
+      213: 21300004
+    second: torso_shirts_sleeveless_female_tanktop_hu_2
+  - first:
+      213: 21300006
+    second: torso_shirts_sleeveless_female_tanktop_hu_3
+  - first:
+      213: 21300008
+    second: torso_shirts_sleeveless_female_tanktop_hu_4
+  - first:
+      213: 21300010
+    second: torso_shirts_sleeveless_female_tanktop_hu_5
+  - first:
+      213: 21300012
+    second: torso_shirts_sleeveless_female_tanktop_sh_r_0
+  - first:
+      213: 21300014
+    second: torso_shirts_sleeveless_female_tanktop_sh_r_1
+  - first:
+      213: 21300016
+    second: torso_shirts_sleeveless_female_tanktop_sh_r_2
+  - first:
+      213: 21300018
+    second: torso_shirts_sleeveless_female_tanktop_sh_r_3
+  - first:
+      213: 21300020
+    second: torso_shirts_sleeveless_female_tanktop_sh_r_4
+  - first:
+      213: 21300022
+    second: torso_shirts_sleeveless_female_tanktop_sh_r_5
+  - first:
+      213: 21300024
+    second: torso_shirts_sleeveless_female_tanktop_sh_r_6
+  - first:
+      213: 21300026
+    second: torso_shirts_sleeveless_female_tanktop_sh_r_7
+  - first:
+      213: 21300028
+    second: torso_shirts_sleeveless_female_tanktop_sh_r_8
+  - first:
+      213: 21300030
+    second: torso_shirts_sleeveless_female_tanktop_sh_r_9
+  - first:
+      213: 21300032
+    second: torso_shirts_sleeveless_female_tanktop_sh_r_10
+  - first:
+      213: 21300034
+    second: torso_shirts_sleeveless_female_tanktop_sh_r_11
+  - first:
+      213: 21300036
+    second: torso_shirts_sleeveless_female_tanktop_sh_r_12
+  - first:
+      213: 21300038
+    second: torso_shirts_sleeveless_female_tanktop_sh_d_0
+  - first:
+      213: 21300040
+    second: torso_shirts_sleeveless_female_tanktop_sh_d_1
+  - first:
+      213: 21300042
+    second: torso_shirts_sleeveless_female_tanktop_sh_d_2
+  - first:
+      213: 21300044
+    second: torso_shirts_sleeveless_female_tanktop_sh_d_3
+  - first:
+      213: 21300046
+    second: torso_shirts_sleeveless_female_tanktop_sh_d_4
+  - first:
+      213: 21300048
+    second: torso_shirts_sleeveless_female_tanktop_sh_d_5
+  - first:
+      213: 21300050
+    second: torso_shirts_sleeveless_female_tanktop_sh_d_6
+  - first:
+      213: 21300052
+    second: torso_shirts_sleeveless_female_tanktop_sh_d_7
+  - first:
+      213: 21300054
+    second: torso_shirts_sleeveless_female_tanktop_sh_d_8
+  - first:
+      213: 21300056
+    second: torso_shirts_sleeveless_female_tanktop_sh_d_9
+  - first:
+      213: 21300058
+    second: torso_shirts_sleeveless_female_tanktop_sh_d_10
+  - first:
+      213: 21300060
+    second: torso_shirts_sleeveless_female_tanktop_sh_d_11
+  - first:
+      213: 21300062
+    second: torso_shirts_sleeveless_female_tanktop_sh_d_12
+  - first:
+      213: 21300064
+    second: torso_shirts_sleeveless_female_tanktop_sh_l_0
+  - first:
+      213: 21300066
+    second: torso_shirts_sleeveless_female_tanktop_sh_l_1
+  - first:
+      213: 21300068
+    second: torso_shirts_sleeveless_female_tanktop_sh_l_2
+  - first:
+      213: 21300070
+    second: torso_shirts_sleeveless_female_tanktop_sh_l_3
+  - first:
+      213: 21300072
+    second: torso_shirts_sleeveless_female_tanktop_sh_l_4
+  - first:
+      213: 21300074
+    second: torso_shirts_sleeveless_female_tanktop_sh_l_5
+  - first:
+      213: 21300076
+    second: torso_shirts_sleeveless_female_tanktop_sh_l_6
+  - first:
+      213: 21300078
+    second: torso_shirts_sleeveless_female_tanktop_sh_l_7
+  - first:
+      213: 21300080
+    second: torso_shirts_sleeveless_female_tanktop_sh_l_8
+  - first:
+      213: 21300082
+    second: torso_shirts_sleeveless_female_tanktop_sh_l_9
+  - first:
+      213: 21300084
+    second: torso_shirts_sleeveless_female_tanktop_sh_l_10
+  - first:
+      213: 21300086
+    second: torso_shirts_sleeveless_female_tanktop_sh_l_11
+  - first:
+      213: 21300088
+    second: torso_shirts_sleeveless_female_tanktop_sh_l_12
+  - first:
+      213: 21300090
+    second: torso_shirts_sleeveless_female_tanktop_sh_t_0
+  - first:
+      213: 21300092
+    second: torso_shirts_sleeveless_female_tanktop_sh_t_1
+  - first:
+      213: 21300094
+    second: torso_shirts_sleeveless_female_tanktop_sh_t_2
+  - first:
+      213: 21300096
+    second: torso_shirts_sleeveless_female_tanktop_sh_t_3
+  - first:
+      213: 21300098
+    second: torso_shirts_sleeveless_female_tanktop_sh_t_4
+  - first:
+      213: 21300100
+    second: torso_shirts_sleeveless_female_tanktop_sh_t_5
+  - first:
+      213: 21300102
+    second: torso_shirts_sleeveless_female_tanktop_sh_t_6
+  - first:
+      213: 21300104
+    second: torso_shirts_sleeveless_female_tanktop_sh_t_7
+  - first:
+      213: 21300106
+    second: torso_shirts_sleeveless_female_tanktop_sh_t_8
+  - first:
+      213: 21300108
+    second: torso_shirts_sleeveless_female_tanktop_sh_t_9
+  - first:
+      213: 21300110
+    second: torso_shirts_sleeveless_female_tanktop_sh_t_10
+  - first:
+      213: 21300112
+    second: torso_shirts_sleeveless_female_tanktop_sh_t_11
+  - first:
+      213: 21300114
+    second: torso_shirts_sleeveless_female_tanktop_sh_t_12
+  - first:
+      213: 21300116
+    second: torso_shirts_sleeveless_female_tanktop_sl_r_0
+  - first:
+      213: 21300118
+    second: torso_shirts_sleeveless_female_tanktop_sl_r_1
+  - first:
+      213: 21300120
+    second: torso_shirts_sleeveless_female_tanktop_sl_r_2
+  - first:
+      213: 21300122
+    second: torso_shirts_sleeveless_female_tanktop_sl_r_3
+  - first:
+      213: 21300124
+    second: torso_shirts_sleeveless_female_tanktop_sl_r_4
+  - first:
+      213: 21300126
+    second: torso_shirts_sleeveless_female_tanktop_sl_r_5
+  - first:
+      213: 21300128
+    second: torso_shirts_sleeveless_female_tanktop_sl_d_0
+  - first:
+      213: 21300130
+    second: torso_shirts_sleeveless_female_tanktop_sl_d_1
+  - first:
+      213: 21300132
+    second: torso_shirts_sleeveless_female_tanktop_sl_d_2
+  - first:
+      213: 21300134
+    second: torso_shirts_sleeveless_female_tanktop_sl_d_3
+  - first:
+      213: 21300136
+    second: torso_shirts_sleeveless_female_tanktop_sl_d_4
+  - first:
+      213: 21300138
+    second: torso_shirts_sleeveless_female_tanktop_sl_d_5
+  - first:
+      213: 21300140
+    second: torso_shirts_sleeveless_female_tanktop_sl_l_0
+  - first:
+      213: 21300142
+    second: torso_shirts_sleeveless_female_tanktop_sl_l_1
+  - first:
+      213: 21300144
+    second: torso_shirts_sleeveless_female_tanktop_sl_l_2
+  - first:
+      213: 21300146
+    second: torso_shirts_sleeveless_female_tanktop_sl_l_3
+  - first:
+      213: 21300148
+    second: torso_shirts_sleeveless_female_tanktop_sl_l_4
+  - first:
+      213: 21300150
+    second: torso_shirts_sleeveless_female_tanktop_sl_l_5
+  - first:
+      213: 21300152
+    second: torso_shirts_sleeveless_female_tanktop_sl_t_0
+  - first:
+      213: 21300154
+    second: torso_shirts_sleeveless_female_tanktop_sl_t_1
+  - first:
+      213: 21300156
+    second: torso_shirts_sleeveless_female_tanktop_sl_t_2
+  - first:
+      213: 21300158
+    second: torso_shirts_sleeveless_female_tanktop_sl_t_3
+  - first:
+      213: 21300160
+    second: torso_shirts_sleeveless_female_tanktop_sl_t_4
+  - first:
+      213: 21300162
+    second: torso_shirts_sleeveless_female_tanktop_sl_t_5
+  - first:
+      213: 21300164
+    second: torso_shirts_sleeveless_female_tanktop_wc_r_0
+  - first:
+      213: 21300166
+    second: torso_shirts_sleeveless_female_tanktop_wc_r_1
+  - first:
+      213: 21300168
+    second: torso_shirts_sleeveless_female_tanktop_wc_r_2
+  - first:
+      213: 21300170
+    second: torso_shirts_sleeveless_female_tanktop_wc_r_3
+  - first:
+      213: 21300172
+    second: torso_shirts_sleeveless_female_tanktop_wc_r_4
+  - first:
+      213: 21300174
+    second: torso_shirts_sleeveless_female_tanktop_wc_r_5
+  - first:
+      213: 21300176
+    second: torso_shirts_sleeveless_female_tanktop_wc_r_6
+  - first:
+      213: 21300178
+    second: torso_shirts_sleeveless_female_tanktop_wc_r_7
+  - first:
+      213: 21300180
+    second: torso_shirts_sleeveless_female_tanktop_wc_r_8
+  - first:
+      213: 21300182
+    second: torso_shirts_sleeveless_female_tanktop_wc_d_0
+  - first:
+      213: 21300184
+    second: torso_shirts_sleeveless_female_tanktop_wc_d_1
+  - first:
+      213: 21300186
+    second: torso_shirts_sleeveless_female_tanktop_wc_d_2
+  - first:
+      213: 21300188
+    second: torso_shirts_sleeveless_female_tanktop_wc_d_3
+  - first:
+      213: 21300190
+    second: torso_shirts_sleeveless_female_tanktop_wc_d_4
+  - first:
+      213: 21300192
+    second: torso_shirts_sleeveless_female_tanktop_wc_d_5
+  - first:
+      213: 21300194
+    second: torso_shirts_sleeveless_female_tanktop_wc_d_6
+  - first:
+      213: 21300196
+    second: torso_shirts_sleeveless_female_tanktop_wc_d_7
+  - first:
+      213: 21300198
+    second: torso_shirts_sleeveless_female_tanktop_wc_d_8
+  - first:
+      213: 21300200
+    second: torso_shirts_sleeveless_female_tanktop_wc_l_0
+  - first:
+      213: 21300202
+    second: torso_shirts_sleeveless_female_tanktop_wc_l_1
+  - first:
+      213: 21300204
+    second: torso_shirts_sleeveless_female_tanktop_wc_l_2
+  - first:
+      213: 21300206
+    second: torso_shirts_sleeveless_female_tanktop_wc_l_3
+  - first:
+      213: 21300208
+    second: torso_shirts_sleeveless_female_tanktop_wc_l_4
+  - first:
+      213: 21300210
+    second: torso_shirts_sleeveless_female_tanktop_wc_l_5
+  - first:
+      213: 21300212
+    second: torso_shirts_sleeveless_female_tanktop_wc_l_6
+  - first:
+      213: 21300214
+    second: torso_shirts_sleeveless_female_tanktop_wc_l_7
+  - first:
+      213: 21300216
+    second: torso_shirts_sleeveless_female_tanktop_wc_l_8
+  - first:
+      213: 21300218
+    second: torso_shirts_sleeveless_female_tanktop_wc_t_0
+  - first:
+      213: 21300220
+    second: torso_shirts_sleeveless_female_tanktop_wc_t_1
+  - first:
+      213: 21300222
+    second: torso_shirts_sleeveless_female_tanktop_wc_t_2
+  - first:
+      213: 21300224
+    second: torso_shirts_sleeveless_female_tanktop_wc_t_3
+  - first:
+      213: 21300226
+    second: torso_shirts_sleeveless_female_tanktop_wc_t_4
+  - first:
+      213: 21300228
+    second: torso_shirts_sleeveless_female_tanktop_wc_t_5
+  - first:
+      213: 21300230
+    second: torso_shirts_sleeveless_female_tanktop_wc_t_6
+  - first:
+      213: 21300232
+    second: torso_shirts_sleeveless_female_tanktop_wc_t_7
+  - first:
+      213: 21300234
+    second: torso_shirts_sleeveless_female_tanktop_wc_t_8
+  - first:
+      213: 21300236
+    second: torso_shirts_sleeveless_female_tanktop_th_r_0
+  - first:
+      213: 21300238
+    second: torso_shirts_sleeveless_female_tanktop_th_r_1
+  - first:
+      213: 21300240
+    second: torso_shirts_sleeveless_female_tanktop_th_r_2
+  - first:
+      213: 21300242
+    second: torso_shirts_sleeveless_female_tanktop_th_r_3
+  - first:
+      213: 21300244
+    second: torso_shirts_sleeveless_female_tanktop_th_r_4
+  - first:
+      213: 21300246
+    second: torso_shirts_sleeveless_female_tanktop_th_r_5
+  - first:
+      213: 21300248
+    second: torso_shirts_sleeveless_female_tanktop_th_r_6
+  - first:
+      213: 21300250
+    second: torso_shirts_sleeveless_female_tanktop_th_r_7
+  - first:
+      213: 21300252
+    second: torso_shirts_sleeveless_female_tanktop_th_d_0
+  - first:
+      213: 21300254
+    second: torso_shirts_sleeveless_female_tanktop_th_d_1
+  - first:
+      213: 21300256
+    second: torso_shirts_sleeveless_female_tanktop_th_d_2
+  - first:
+      213: 21300258
+    second: torso_shirts_sleeveless_female_tanktop_th_d_3
+  - first:
+      213: 21300260
+    second: torso_shirts_sleeveless_female_tanktop_th_d_4
+  - first:
+      213: 21300262
+    second: torso_shirts_sleeveless_female_tanktop_th_d_5
+  - first:
+      213: 21300264
+    second: torso_shirts_sleeveless_female_tanktop_th_d_6
+  - first:
+      213: 21300266
+    second: torso_shirts_sleeveless_female_tanktop_th_d_7
+  - first:
+      213: 21300268
+    second: torso_shirts_sleeveless_female_tanktop_th_l_0
+  - first:
+      213: 21300270
+    second: torso_shirts_sleeveless_female_tanktop_th_l_1
+  - first:
+      213: 21300272
+    second: torso_shirts_sleeveless_female_tanktop_th_l_2
+  - first:
+      213: 21300274
+    second: torso_shirts_sleeveless_female_tanktop_th_l_3
+  - first:
+      213: 21300276
+    second: torso_shirts_sleeveless_female_tanktop_th_l_4
+  - first:
+      213: 21300278
+    second: torso_shirts_sleeveless_female_tanktop_th_l_5
+  - first:
+      213: 21300280
+    second: torso_shirts_sleeveless_female_tanktop_th_l_6
+  - first:
+      213: 21300282
+    second: torso_shirts_sleeveless_female_tanktop_th_l_7
+  - first:
+      213: 21300284
+    second: torso_shirts_sleeveless_female_tanktop_th_t_0
+  - first:
+      213: 21300286
+    second: torso_shirts_sleeveless_female_tanktop_th_t_1
+  - first:
+      213: 21300288
+    second: torso_shirts_sleeveless_female_tanktop_th_t_2
+  - first:
+      213: 21300290
+    second: torso_shirts_sleeveless_female_tanktop_th_t_3
+  - first:
+      213: 21300292
+    second: torso_shirts_sleeveless_female_tanktop_th_t_4
+  - first:
+      213: 21300294
+    second: torso_shirts_sleeveless_female_tanktop_th_t_5
+  - first:
+      213: 21300296
+    second: torso_shirts_sleeveless_female_tanktop_th_t_6
+  - first:
+      213: 21300298
+    second: torso_shirts_sleeveless_female_tanktop_th_t_7
+  - first:
+      213: 21300300
+    second: torso_shirts_sleeveless_female_tanktop_sc_r_0
+  - first:
+      213: 21300302
+    second: torso_shirts_sleeveless_female_tanktop_sc_r_1
+  - first:
+      213: 21300304
+    second: torso_shirts_sleeveless_female_tanktop_sc_r_2
+  - first:
+      213: 21300306
+    second: torso_shirts_sleeveless_female_tanktop_sc_r_3
+  - first:
+      213: 21300308
+    second: torso_shirts_sleeveless_female_tanktop_sc_r_4
+  - first:
+      213: 21300310
+    second: torso_shirts_sleeveless_female_tanktop_sc_r_5
+  - first:
+      213: 21300312
+    second: torso_shirts_sleeveless_female_tanktop_sc_r_6
+  - first:
+      213: 21300314
+    second: torso_shirts_sleeveless_female_tanktop_sc_d_0
+  - first:
+      213: 21300316
+    second: torso_shirts_sleeveless_female_tanktop_sc_d_1
+  - first:
+      213: 21300318
+    second: torso_shirts_sleeveless_female_tanktop_sc_d_2
+  - first:
+      213: 21300320
+    second: torso_shirts_sleeveless_female_tanktop_sc_d_3
+  - first:
+      213: 21300322
+    second: torso_shirts_sleeveless_female_tanktop_sc_d_4
+  - first:
+      213: 21300324
+    second: torso_shirts_sleeveless_female_tanktop_sc_d_5
+  - first:
+      213: 21300326
+    second: torso_shirts_sleeveless_female_tanktop_sc_d_6
+  - first:
+      213: 21300328
+    second: torso_shirts_sleeveless_female_tanktop_sc_l_0
+  - first:
+      213: 21300330
+    second: torso_shirts_sleeveless_female_tanktop_sc_l_1
+  - first:
+      213: 21300332
+    second: torso_shirts_sleeveless_female_tanktop_sc_l_2
+  - first:
+      213: 21300334
+    second: torso_shirts_sleeveless_female_tanktop_sc_l_3
+  - first:
+      213: 21300336
+    second: torso_shirts_sleeveless_female_tanktop_sc_l_4
+  - first:
+      213: 21300338
+    second: torso_shirts_sleeveless_female_tanktop_sc_l_5
+  - first:
+      213: 21300340
+    second: torso_shirts_sleeveless_female_tanktop_sc_l_6
+  - first:
+      213: 21300342
+    second: torso_shirts_sleeveless_female_tanktop_sc_t_0
+  - first:
+      213: 21300344
+    second: torso_shirts_sleeveless_female_tanktop_sc_t_1
+  - first:
+      213: 21300346
+    second: torso_shirts_sleeveless_female_tanktop_sc_t_2
+  - first:
+      213: 21300348
+    second: torso_shirts_sleeveless_female_tanktop_sc_t_3
+  - first:
+      213: 21300350
+    second: torso_shirts_sleeveless_female_tanktop_sc_t_4
+  - first:
+      213: 21300352
+    second: torso_shirts_sleeveless_female_tanktop_sc_t_5
+  - first:
+      213: 21300354
+    second: torso_shirts_sleeveless_female_tanktop_sc_t_6
+  - first:
+      213: 21300356
+    second: torso_shirts_sleeveless_female_shirt_tanktop_hu_0
+  - first:
+      213: 21300358
+    second: torso_shirts_sleeveless_female_shirt_tanktop_hu_1
+  - first:
+      213: 21300360
+    second: torso_shirts_sleeveless_female_shirt_tanktop_hu_2
+  - first:
+      213: 21300362
+    second: torso_shirts_sleeveless_female_shirt_tanktop_hu_3
+  - first:
+      213: 21300364
+    second: torso_shirts_sleeveless_female_shirt_tanktop_hu_4
+  - first:
+      213: 21300366
+    second: torso_shirts_sleeveless_female_shirt_tanktop_hu_5
+  - first:
+      213: 21300368
+    second: torso_shirts_sleeveless_female_shirt_tanktop_sh_r_0
+  - first:
+      213: 21300370
+    second: torso_shirts_sleeveless_female_shirt_tanktop_sh_r_1
+  - first:
+      213: 21300372
+    second: torso_shirts_sleeveless_female_shirt_tanktop_sh_r_2
+  - first:
+      213: 21300374
+    second: torso_shirts_sleeveless_female_shirt_tanktop_sh_r_3
+  - first:
+      213: 21300376
+    second: torso_shirts_sleeveless_female_shirt_tanktop_sh_r_4
+  - first:
+      213: 21300378
+    second: torso_shirts_sleeveless_female_shirt_tanktop_sh_r_5
+  - first:
+      213: 21300380
+    second: torso_shirts_sleeveless_female_shirt_tanktop_sh_r_6
+  - first:
+      213: 21300382
+    second: torso_shirts_sleeveless_female_shirt_tanktop_sh_r_7
+  - first:
+      213: 21300384
+    second: torso_shirts_sleeveless_female_shirt_tanktop_sh_r_8
+  - first:
+      213: 21300386
+    second: torso_shirts_sleeveless_female_shirt_tanktop_sh_r_9
+  - first:
+      213: 21300388
+    second: torso_shirts_sleeveless_female_shirt_tanktop_sh_r_10
+  - first:
+      213: 21300390
+    second: torso_shirts_sleeveless_female_shirt_tanktop_sh_r_11
+  - first:
+      213: 21300392
+    second: torso_shirts_sleeveless_female_shirt_tanktop_sh_r_12
+  - first:
+      213: 21300394
+    second: torso_shirts_sleeveless_female_shirt_tanktop_sh_d_0
+  - first:
+      213: 21300396
+    second: torso_shirts_sleeveless_female_shirt_tanktop_sh_d_1
+  - first:
+      213: 21300398
+    second: torso_shirts_sleeveless_female_shirt_tanktop_sh_d_2
+  - first:
+      213: 21300400
+    second: torso_shirts_sleeveless_female_shirt_tanktop_sh_d_3
+  - first:
+      213: 21300402
+    second: torso_shirts_sleeveless_female_shirt_tanktop_sh_d_4
+  - first:
+      213: 21300404
+    second: torso_shirts_sleeveless_female_shirt_tanktop_sh_d_5
+  - first:
+      213: 21300406
+    second: torso_shirts_sleeveless_female_shirt_tanktop_sh_d_6
+  - first:
+      213: 21300408
+    second: torso_shirts_sleeveless_female_shirt_tanktop_sh_d_7
+  - first:
+      213: 21300410
+    second: torso_shirts_sleeveless_female_shirt_tanktop_sh_d_8
+  - first:
+      213: 21300412
+    second: torso_shirts_sleeveless_female_shirt_tanktop_sh_d_9
+  - first:
+      213: 21300414
+    second: torso_shirts_sleeveless_female_shirt_tanktop_sh_d_10
+  - first:
+      213: 21300416
+    second: torso_shirts_sleeveless_female_shirt_tanktop_sh_d_11
+  - first:
+      213: 21300418
+    second: torso_shirts_sleeveless_female_shirt_tanktop_sh_d_12
+  - first:
+      213: 21300420
+    second: torso_shirts_sleeveless_female_shirt_tanktop_sh_l_0
+  - first:
+      213: 21300422
+    second: torso_shirts_sleeveless_female_shirt_tanktop_sh_l_1
+  - first:
+      213: 21300424
+    second: torso_shirts_sleeveless_female_shirt_tanktop_sh_l_2
+  - first:
+      213: 21300426
+    second: torso_shirts_sleeveless_female_shirt_tanktop_sh_l_3
+  - first:
+      213: 21300428
+    second: torso_shirts_sleeveless_female_shirt_tanktop_sh_l_4
+  - first:
+      213: 21300430
+    second: torso_shirts_sleeveless_female_shirt_tanktop_sh_l_5
+  - first:
+      213: 21300432
+    second: torso_shirts_sleeveless_female_shirt_tanktop_sh_l_6
+  - first:
+      213: 21300434
+    second: torso_shirts_sleeveless_female_shirt_tanktop_sh_l_7
+  - first:
+      213: 21300436
+    second: torso_shirts_sleeveless_female_shirt_tanktop_sh_l_8
+  - first:
+      213: 21300438
+    second: torso_shirts_sleeveless_female_shirt_tanktop_sh_l_9
+  - first:
+      213: 21300440
+    second: torso_shirts_sleeveless_female_shirt_tanktop_sh_l_10
+  - first:
+      213: 21300442
+    second: torso_shirts_sleeveless_female_shirt_tanktop_sh_l_11
+  - first:
+      213: 21300444
+    second: torso_shirts_sleeveless_female_shirt_tanktop_sh_l_12
+  - first:
+      213: 21300446
+    second: torso_shirts_sleeveless_female_shirt_tanktop_sh_t_0
+  - first:
+      213: 21300448
+    second: torso_shirts_sleeveless_female_shirt_tanktop_sh_t_1
+  - first:
+      213: 21300450
+    second: torso_shirts_sleeveless_female_shirt_tanktop_sh_t_2
+  - first:
+      213: 21300452
+    second: torso_shirts_sleeveless_female_shirt_tanktop_sh_t_3
+  - first:
+      213: 21300454
+    second: torso_shirts_sleeveless_female_shirt_tanktop_sh_t_4
+  - first:
+      213: 21300456
+    second: torso_shirts_sleeveless_female_shirt_tanktop_sh_t_5
+  - first:
+      213: 21300458
+    second: torso_shirts_sleeveless_female_shirt_tanktop_sh_t_6
+  - first:
+      213: 21300460
+    second: torso_shirts_sleeveless_female_shirt_tanktop_sh_t_7
+  - first:
+      213: 21300462
+    second: torso_shirts_sleeveless_female_shirt_tanktop_sh_t_8
+  - first:
+      213: 21300464
+    second: torso_shirts_sleeveless_female_shirt_tanktop_sh_t_9
+  - first:
+      213: 21300466
+    second: torso_shirts_sleeveless_female_shirt_tanktop_sh_t_10
+  - first:
+      213: 21300468
+    second: torso_shirts_sleeveless_female_shirt_tanktop_sh_t_11
+  - first:
+      213: 21300470
+    second: torso_shirts_sleeveless_female_shirt_tanktop_sh_t_12
+  - first:
+      213: 21300472
+    second: torso_shirts_sleeveless_female_shirt_tanktop_sl_r_0
+  - first:
+      213: 21300474
+    second: torso_shirts_sleeveless_female_shirt_tanktop_sl_r_1
+  - first:
+      213: 21300476
+    second: torso_shirts_sleeveless_female_shirt_tanktop_sl_r_2
+  - first:
+      213: 21300478
+    second: torso_shirts_sleeveless_female_shirt_tanktop_sl_r_3
+  - first:
+      213: 21300480
+    second: torso_shirts_sleeveless_female_shirt_tanktop_sl_r_4
+  - first:
+      213: 21300482
+    second: torso_shirts_sleeveless_female_shirt_tanktop_sl_r_5
+  - first:
+      213: 21300484
+    second: torso_shirts_sleeveless_female_shirt_tanktop_sl_d_0
+  - first:
+      213: 21300486
+    second: torso_shirts_sleeveless_female_shirt_tanktop_sl_d_1
+  - first:
+      213: 21300488
+    second: torso_shirts_sleeveless_female_shirt_tanktop_sl_d_2
+  - first:
+      213: 21300490
+    second: torso_shirts_sleeveless_female_shirt_tanktop_sl_d_3
+  - first:
+      213: 21300492
+    second: torso_shirts_sleeveless_female_shirt_tanktop_sl_d_4
+  - first:
+      213: 21300494
+    second: torso_shirts_sleeveless_female_shirt_tanktop_sl_d_5
+  - first:
+      213: 21300496
+    second: torso_shirts_sleeveless_female_shirt_tanktop_sl_l_0
+  - first:
+      213: 21300498
+    second: torso_shirts_sleeveless_female_shirt_tanktop_sl_l_1
+  - first:
+      213: 21300500
+    second: torso_shirts_sleeveless_female_shirt_tanktop_sl_l_2
+  - first:
+      213: 21300502
+    second: torso_shirts_sleeveless_female_shirt_tanktop_sl_l_3
+  - first:
+      213: 21300504
+    second: torso_shirts_sleeveless_female_shirt_tanktop_sl_l_4
+  - first:
+      213: 21300506
+    second: torso_shirts_sleeveless_female_shirt_tanktop_sl_l_5
+  - first:
+      213: 21300508
+    second: torso_shirts_sleeveless_female_shirt_tanktop_sl_t_0
+  - first:
+      213: 21300510
+    second: torso_shirts_sleeveless_female_shirt_tanktop_sl_t_1
+  - first:
+      213: 21300512
+    second: torso_shirts_sleeveless_female_shirt_tanktop_sl_t_2
+  - first:
+      213: 21300514
+    second: torso_shirts_sleeveless_female_shirt_tanktop_sl_t_3
+  - first:
+      213: 21300516
+    second: torso_shirts_sleeveless_female_shirt_tanktop_sl_t_4
+  - first:
+      213: 21300518
+    second: torso_shirts_sleeveless_female_shirt_tanktop_sl_t_5
+  - first:
+      213: 21300520
+    second: torso_shirts_sleeveless_female_shirt_tanktop_wc_r_0
+  - first:
+      213: 21300522
+    second: torso_shirts_sleeveless_female_shirt_tanktop_wc_r_1
+  - first:
+      213: 21300524
+    second: torso_shirts_sleeveless_female_shirt_tanktop_wc_r_2
+  - first:
+      213: 21300526
+    second: torso_shirts_sleeveless_female_shirt_tanktop_wc_r_3
+  - first:
+      213: 21300528
+    second: torso_shirts_sleeveless_female_shirt_tanktop_wc_r_4
+  - first:
+      213: 21300530
+    second: torso_shirts_sleeveless_female_shirt_tanktop_wc_r_5
+  - first:
+      213: 21300532
+    second: torso_shirts_sleeveless_female_shirt_tanktop_wc_r_6
+  - first:
+      213: 21300534
+    second: torso_shirts_sleeveless_female_shirt_tanktop_wc_r_7
+  - first:
+      213: 21300536
+    second: torso_shirts_sleeveless_female_shirt_tanktop_wc_r_8
+  - first:
+      213: 21300538
+    second: torso_shirts_sleeveless_female_shirt_tanktop_wc_d_0
+  - first:
+      213: 21300540
+    second: torso_shirts_sleeveless_female_shirt_tanktop_wc_d_1
+  - first:
+      213: 21300542
+    second: torso_shirts_sleeveless_female_shirt_tanktop_wc_d_2
+  - first:
+      213: 21300544
+    second: torso_shirts_sleeveless_female_shirt_tanktop_wc_d_3
+  - first:
+      213: 21300546
+    second: torso_shirts_sleeveless_female_shirt_tanktop_wc_d_4
+  - first:
+      213: 21300548
+    second: torso_shirts_sleeveless_female_shirt_tanktop_wc_d_5
+  - first:
+      213: 21300550
+    second: torso_shirts_sleeveless_female_shirt_tanktop_wc_d_6
+  - first:
+      213: 21300552
+    second: torso_shirts_sleeveless_female_shirt_tanktop_wc_d_7
+  - first:
+      213: 21300554
+    second: torso_shirts_sleeveless_female_shirt_tanktop_wc_d_8
+  - first:
+      213: 21300556
+    second: torso_shirts_sleeveless_female_shirt_tanktop_wc_l_0
+  - first:
+      213: 21300558
+    second: torso_shirts_sleeveless_female_shirt_tanktop_wc_l_1
+  - first:
+      213: 21300560
+    second: torso_shirts_sleeveless_female_shirt_tanktop_wc_l_2
+  - first:
+      213: 21300562
+    second: torso_shirts_sleeveless_female_shirt_tanktop_wc_l_3
+  - first:
+      213: 21300564
+    second: torso_shirts_sleeveless_female_shirt_tanktop_wc_l_4
+  - first:
+      213: 21300566
+    second: torso_shirts_sleeveless_female_shirt_tanktop_wc_l_5
+  - first:
+      213: 21300568
+    second: torso_shirts_sleeveless_female_shirt_tanktop_wc_l_6
+  - first:
+      213: 21300570
+    second: torso_shirts_sleeveless_female_shirt_tanktop_wc_l_7
+  - first:
+      213: 21300572
+    second: torso_shirts_sleeveless_female_shirt_tanktop_wc_l_8
+  - first:
+      213: 21300574
+    second: torso_shirts_sleeveless_female_shirt_tanktop_wc_t_0
+  - first:
+      213: 21300576
+    second: torso_shirts_sleeveless_female_shirt_tanktop_wc_t_1
+  - first:
+      213: 21300578
+    second: torso_shirts_sleeveless_female_shirt_tanktop_wc_t_2
+  - first:
+      213: 21300580
+    second: torso_shirts_sleeveless_female_shirt_tanktop_wc_t_3
+  - first:
+      213: 21300582
+    second: torso_shirts_sleeveless_female_shirt_tanktop_wc_t_4
+  - first:
+      213: 21300584
+    second: torso_shirts_sleeveless_female_shirt_tanktop_wc_t_5
+  - first:
+      213: 21300586
+    second: torso_shirts_sleeveless_female_shirt_tanktop_wc_t_6
+  - first:
+      213: 21300588
+    second: torso_shirts_sleeveless_female_shirt_tanktop_wc_t_7
+  - first:
+      213: 21300590
+    second: torso_shirts_sleeveless_female_shirt_tanktop_wc_t_8
+  - first:
+      213: 21300592
+    second: torso_shirts_sleeveless_female_shirt_tanktop_th_r_0
+  - first:
+      213: 21300594
+    second: torso_shirts_sleeveless_female_shirt_tanktop_th_r_1
+  - first:
+      213: 21300596
+    second: torso_shirts_sleeveless_female_shirt_tanktop_th_r_2
+  - first:
+      213: 21300598
+    second: torso_shirts_sleeveless_female_shirt_tanktop_th_r_3
+  - first:
+      213: 21300600
+    second: torso_shirts_sleeveless_female_shirt_tanktop_th_r_4
+  - first:
+      213: 21300602
+    second: torso_shirts_sleeveless_female_shirt_tanktop_th_r_5
+  - first:
+      213: 21300604
+    second: torso_shirts_sleeveless_female_shirt_tanktop_th_r_6
+  - first:
+      213: 21300606
+    second: torso_shirts_sleeveless_female_shirt_tanktop_th_r_7
+  - first:
+      213: 21300608
+    second: torso_shirts_sleeveless_female_shirt_tanktop_th_d_0
+  - first:
+      213: 21300610
+    second: torso_shirts_sleeveless_female_shirt_tanktop_th_d_1
+  - first:
+      213: 21300612
+    second: torso_shirts_sleeveless_female_shirt_tanktop_th_d_2
+  - first:
+      213: 21300614
+    second: torso_shirts_sleeveless_female_shirt_tanktop_th_d_3
+  - first:
+      213: 21300616
+    second: torso_shirts_sleeveless_female_shirt_tanktop_th_d_4
+  - first:
+      213: 21300618
+    second: torso_shirts_sleeveless_female_shirt_tanktop_th_d_5
+  - first:
+      213: 21300620
+    second: torso_shirts_sleeveless_female_shirt_tanktop_th_d_6
+  - first:
+      213: 21300622
+    second: torso_shirts_sleeveless_female_shirt_tanktop_th_d_7
+  - first:
+      213: 21300624
+    second: torso_shirts_sleeveless_female_shirt_tanktop_th_l_0
+  - first:
+      213: 21300626
+    second: torso_shirts_sleeveless_female_shirt_tanktop_th_l_1
+  - first:
+      213: 21300628
+    second: torso_shirts_sleeveless_female_shirt_tanktop_th_l_2
+  - first:
+      213: 21300630
+    second: torso_shirts_sleeveless_female_shirt_tanktop_th_l_3
+  - first:
+      213: 21300632
+    second: torso_shirts_sleeveless_female_shirt_tanktop_th_l_4
+  - first:
+      213: 21300634
+    second: torso_shirts_sleeveless_female_shirt_tanktop_th_l_5
+  - first:
+      213: 21300636
+    second: torso_shirts_sleeveless_female_shirt_tanktop_th_l_6
+  - first:
+      213: 21300638
+    second: torso_shirts_sleeveless_female_shirt_tanktop_th_l_7
+  - first:
+      213: 21300640
+    second: torso_shirts_sleeveless_female_shirt_tanktop_th_t_0
+  - first:
+      213: 21300642
+    second: torso_shirts_sleeveless_female_shirt_tanktop_th_t_1
+  - first:
+      213: 21300644
+    second: torso_shirts_sleeveless_female_shirt_tanktop_th_t_2
+  - first:
+      213: 21300646
+    second: torso_shirts_sleeveless_female_shirt_tanktop_th_t_3
+  - first:
+      213: 21300648
+    second: torso_shirts_sleeveless_female_shirt_tanktop_th_t_4
+  - first:
+      213: 21300650
+    second: torso_shirts_sleeveless_female_shirt_tanktop_th_t_5
+  - first:
+      213: 21300652
+    second: torso_shirts_sleeveless_female_shirt_tanktop_th_t_6
+  - first:
+      213: 21300654
+    second: torso_shirts_sleeveless_female_shirt_tanktop_th_t_7
+  - first:
+      213: 21300656
+    second: torso_shirts_sleeveless_female_shirt_tanktop_sc_r_0
+  - first:
+      213: 21300658
+    second: torso_shirts_sleeveless_female_shirt_tanktop_sc_r_1
+  - first:
+      213: 21300660
+    second: torso_shirts_sleeveless_female_shirt_tanktop_sc_r_2
+  - first:
+      213: 21300662
+    second: torso_shirts_sleeveless_female_shirt_tanktop_sc_r_3
+  - first:
+      213: 21300664
+    second: torso_shirts_sleeveless_female_shirt_tanktop_sc_r_4
+  - first:
+      213: 21300666
+    second: torso_shirts_sleeveless_female_shirt_tanktop_sc_r_5
+  - first:
+      213: 21300668
+    second: torso_shirts_sleeveless_female_shirt_tanktop_sc_r_6
+  - first:
+      213: 21300670
+    second: torso_shirts_sleeveless_female_shirt_tanktop_sc_d_0
+  - first:
+      213: 21300672
+    second: torso_shirts_sleeveless_female_shirt_tanktop_sc_d_1
+  - first:
+      213: 21300674
+    second: torso_shirts_sleeveless_female_shirt_tanktop_sc_d_2
+  - first:
+      213: 21300676
+    second: torso_shirts_sleeveless_female_shirt_tanktop_sc_d_3
+  - first:
+      213: 21300678
+    second: torso_shirts_sleeveless_female_shirt_tanktop_sc_d_4
+  - first:
+      213: 21300680
+    second: torso_shirts_sleeveless_female_shirt_tanktop_sc_d_5
+  - first:
+      213: 21300682
+    second: torso_shirts_sleeveless_female_shirt_tanktop_sc_d_6
+  - first:
+      213: 21300684
+    second: torso_shirts_sleeveless_female_shirt_tanktop_sc_l_0
+  - first:
+      213: 21300686
+    second: torso_shirts_sleeveless_female_shirt_tanktop_sc_l_1
+  - first:
+      213: 21300688
+    second: torso_shirts_sleeveless_female_shirt_tanktop_sc_l_2
+  - first:
+      213: 21300690
+    second: torso_shirts_sleeveless_female_shirt_tanktop_sc_l_3
+  - first:
+      213: 21300692
+    second: torso_shirts_sleeveless_female_shirt_tanktop_sc_l_4
+  - first:
+      213: 21300694
+    second: torso_shirts_sleeveless_female_shirt_tanktop_sc_l_5
+  - first:
+      213: 21300696
+    second: torso_shirts_sleeveless_female_shirt_tanktop_sc_l_6
+  - first:
+      213: 21300698
+    second: torso_shirts_sleeveless_female_shirt_tanktop_sc_t_0
+  - first:
+      213: 21300700
+    second: torso_shirts_sleeveless_female_shirt_tanktop_sc_t_1
+  - first:
+      213: 21300702
+    second: torso_shirts_sleeveless_female_shirt_tanktop_sc_t_2
+  - first:
+      213: 21300704
+    second: torso_shirts_sleeveless_female_shirt_tanktop_sc_t_3
+  - first:
+      213: 21300706
+    second: torso_shirts_sleeveless_female_shirt_tanktop_sc_t_4
+  - first:
+      213: 21300708
+    second: torso_shirts_sleeveless_female_shirt_tanktop_sc_t_5
+  - first:
+      213: 21300710
+    second: torso_shirts_sleeveless_female_shirt_tanktop_sc_t_6
+  - first:
+      213: 21300712
+    second: chest_female_shirt_tanktop_hu_0
+  - first:
+      213: 21300714
+    second: chest_female_shirt_tanktop_hu_1
+  - first:
+      213: 21300716
+    second: chest_female_shirt_tanktop_hu_2
+  - first:
+      213: 21300718
+    second: chest_female_shirt_tanktop_hu_3
+  - first:
+      213: 21300720
+    second: chest_female_shirt_tanktop_hu_4
+  - first:
+      213: 21300722
+    second: chest_female_shirt_tanktop_hu_5
+  - first:
+      213: 21300724
+    second: chest_female_shirt_tanktop_sh_r_0
+  - first:
+      213: 21300726
+    second: chest_female_shirt_tanktop_sh_r_1
+  - first:
+      213: 21300728
+    second: chest_female_shirt_tanktop_sh_r_2
+  - first:
+      213: 21300730
+    second: chest_female_shirt_tanktop_sh_r_3
+  - first:
+      213: 21300732
+    second: chest_female_shirt_tanktop_sh_r_4
+  - first:
+      213: 21300734
+    second: chest_female_shirt_tanktop_sh_r_5
+  - first:
+      213: 21300736
+    second: chest_female_shirt_tanktop_sh_r_6
+  - first:
+      213: 21300738
+    second: chest_female_shirt_tanktop_sh_r_7
+  - first:
+      213: 21300740
+    second: chest_female_shirt_tanktop_sh_r_8
+  - first:
+      213: 21300742
+    second: chest_female_shirt_tanktop_sh_r_9
+  - first:
+      213: 21300744
+    second: chest_female_shirt_tanktop_sh_r_10
+  - first:
+      213: 21300746
+    second: chest_female_shirt_tanktop_sh_r_11
+  - first:
+      213: 21300748
+    second: chest_female_shirt_tanktop_sh_r_12
+  - first:
+      213: 21300750
+    second: chest_female_shirt_tanktop_sh_d_0
+  - first:
+      213: 21300752
+    second: chest_female_shirt_tanktop_sh_d_1
+  - first:
+      213: 21300754
+    second: chest_female_shirt_tanktop_sh_d_2
+  - first:
+      213: 21300756
+    second: chest_female_shirt_tanktop_sh_d_3
+  - first:
+      213: 21300758
+    second: chest_female_shirt_tanktop_sh_d_4
+  - first:
+      213: 21300760
+    second: chest_female_shirt_tanktop_sh_d_5
+  - first:
+      213: 21300762
+    second: chest_female_shirt_tanktop_sh_d_6
+  - first:
+      213: 21300764
+    second: chest_female_shirt_tanktop_sh_d_7
+  - first:
+      213: 21300766
+    second: chest_female_shirt_tanktop_sh_d_8
+  - first:
+      213: 21300768
+    second: chest_female_shirt_tanktop_sh_d_9
+  - first:
+      213: 21300770
+    second: chest_female_shirt_tanktop_sh_d_10
+  - first:
+      213: 21300772
+    second: chest_female_shirt_tanktop_sh_d_11
+  - first:
+      213: 21300774
+    second: chest_female_shirt_tanktop_sh_d_12
+  - first:
+      213: 21300776
+    second: chest_female_shirt_tanktop_sh_l_0
+  - first:
+      213: 21300778
+    second: chest_female_shirt_tanktop_sh_l_1
+  - first:
+      213: 21300780
+    second: chest_female_shirt_tanktop_sh_l_2
+  - first:
+      213: 21300782
+    second: chest_female_shirt_tanktop_sh_l_3
+  - first:
+      213: 21300784
+    second: chest_female_shirt_tanktop_sh_l_4
+  - first:
+      213: 21300786
+    second: chest_female_shirt_tanktop_sh_l_5
+  - first:
+      213: 21300788
+    second: chest_female_shirt_tanktop_sh_l_6
+  - first:
+      213: 21300790
+    second: chest_female_shirt_tanktop_sh_l_7
+  - first:
+      213: 21300792
+    second: chest_female_shirt_tanktop_sh_l_8
+  - first:
+      213: 21300794
+    second: chest_female_shirt_tanktop_sh_l_9
+  - first:
+      213: 21300796
+    second: chest_female_shirt_tanktop_sh_l_10
+  - first:
+      213: 21300798
+    second: chest_female_shirt_tanktop_sh_l_11
+  - first:
+      213: 21300800
+    second: chest_female_shirt_tanktop_sh_l_12
+  - first:
+      213: 21300802
+    second: chest_female_shirt_tanktop_sh_t_0
+  - first:
+      213: 21300804
+    second: chest_female_shirt_tanktop_sh_t_1
+  - first:
+      213: 21300806
+    second: chest_female_shirt_tanktop_sh_t_2
+  - first:
+      213: 21300808
+    second: chest_female_shirt_tanktop_sh_t_3
+  - first:
+      213: 21300810
+    second: chest_female_shirt_tanktop_sh_t_4
+  - first:
+      213: 21300812
+    second: chest_female_shirt_tanktop_sh_t_5
+  - first:
+      213: 21300814
+    second: chest_female_shirt_tanktop_sh_t_6
+  - first:
+      213: 21300816
+    second: chest_female_shirt_tanktop_sh_t_7
+  - first:
+      213: 21300818
+    second: chest_female_shirt_tanktop_sh_t_8
+  - first:
+      213: 21300820
+    second: chest_female_shirt_tanktop_sh_t_9
+  - first:
+      213: 21300822
+    second: chest_female_shirt_tanktop_sh_t_10
+  - first:
+      213: 21300824
+    second: chest_female_shirt_tanktop_sh_t_11
+  - first:
+      213: 21300826
+    second: chest_female_shirt_tanktop_sh_t_12
+  - first:
+      213: 21300828
+    second: chest_female_shirt_tanktop_sl_r_0
+  - first:
+      213: 21300830
+    second: chest_female_shirt_tanktop_sl_r_1
+  - first:
+      213: 21300832
+    second: chest_female_shirt_tanktop_sl_r_2
+  - first:
+      213: 21300834
+    second: chest_female_shirt_tanktop_sl_r_3
+  - first:
+      213: 21300836
+    second: chest_female_shirt_tanktop_sl_r_4
+  - first:
+      213: 21300838
+    second: chest_female_shirt_tanktop_sl_r_5
+  - first:
+      213: 21300840
+    second: chest_female_shirt_tanktop_sl_d_0
+  - first:
+      213: 21300842
+    second: chest_female_shirt_tanktop_sl_d_1
+  - first:
+      213: 21300844
+    second: chest_female_shirt_tanktop_sl_d_2
+  - first:
+      213: 21300846
+    second: chest_female_shirt_tanktop_sl_d_3
+  - first:
+      213: 21300848
+    second: chest_female_shirt_tanktop_sl_d_4
+  - first:
+      213: 21300850
+    second: chest_female_shirt_tanktop_sl_d_5
+  - first:
+      213: 21300852
+    second: chest_female_shirt_tanktop_sl_l_0
+  - first:
+      213: 21300854
+    second: chest_female_shirt_tanktop_sl_l_1
+  - first:
+      213: 21300856
+    second: chest_female_shirt_tanktop_sl_l_2
+  - first:
+      213: 21300858
+    second: chest_female_shirt_tanktop_sl_l_3
+  - first:
+      213: 21300860
+    second: chest_female_shirt_tanktop_sl_l_4
+  - first:
+      213: 21300862
+    second: chest_female_shirt_tanktop_sl_l_5
+  - first:
+      213: 21300864
+    second: chest_female_shirt_tanktop_sl_t_0
+  - first:
+      213: 21300866
+    second: chest_female_shirt_tanktop_sl_t_1
+  - first:
+      213: 21300868
+    second: chest_female_shirt_tanktop_sl_t_2
+  - first:
+      213: 21300870
+    second: chest_female_shirt_tanktop_sl_t_3
+  - first:
+      213: 21300872
+    second: chest_female_shirt_tanktop_sl_t_4
+  - first:
+      213: 21300874
+    second: chest_female_shirt_tanktop_sl_t_5
+  - first:
+      213: 21300876
+    second: chest_female_shirt_tanktop_wc_r_0
+  - first:
+      213: 21300878
+    second: chest_female_shirt_tanktop_wc_r_1
+  - first:
+      213: 21300880
+    second: chest_female_shirt_tanktop_wc_r_2
+  - first:
+      213: 21300882
+    second: chest_female_shirt_tanktop_wc_r_3
+  - first:
+      213: 21300884
+    second: chest_female_shirt_tanktop_wc_r_4
+  - first:
+      213: 21300886
+    second: chest_female_shirt_tanktop_wc_r_5
+  - first:
+      213: 21300888
+    second: chest_female_shirt_tanktop_wc_r_6
+  - first:
+      213: 21300890
+    second: chest_female_shirt_tanktop_wc_r_7
+  - first:
+      213: 21300892
+    second: chest_female_shirt_tanktop_wc_r_8
+  - first:
+      213: 21300894
+    second: chest_female_shirt_tanktop_wc_d_0
+  - first:
+      213: 21300896
+    second: chest_female_shirt_tanktop_wc_d_1
+  - first:
+      213: 21300898
+    second: chest_female_shirt_tanktop_wc_d_2
+  - first:
+      213: 21300900
+    second: chest_female_shirt_tanktop_wc_d_3
+  - first:
+      213: 21300902
+    second: chest_female_shirt_tanktop_wc_d_4
+  - first:
+      213: 21300904
+    second: chest_female_shirt_tanktop_wc_d_5
+  - first:
+      213: 21300906
+    second: chest_female_shirt_tanktop_wc_d_6
+  - first:
+      213: 21300908
+    second: chest_female_shirt_tanktop_wc_d_7
+  - first:
+      213: 21300910
+    second: chest_female_shirt_tanktop_wc_d_8
+  - first:
+      213: 21300912
+    second: chest_female_shirt_tanktop_wc_l_0
+  - first:
+      213: 21300914
+    second: chest_female_shirt_tanktop_wc_l_1
+  - first:
+      213: 21300916
+    second: chest_female_shirt_tanktop_wc_l_2
+  - first:
+      213: 21300918
+    second: chest_female_shirt_tanktop_wc_l_3
+  - first:
+      213: 21300920
+    second: chest_female_shirt_tanktop_wc_l_4
+  - first:
+      213: 21300922
+    second: chest_female_shirt_tanktop_wc_l_5
+  - first:
+      213: 21300924
+    second: chest_female_shirt_tanktop_wc_l_6
+  - first:
+      213: 21300926
+    second: chest_female_shirt_tanktop_wc_l_7
+  - first:
+      213: 21300928
+    second: chest_female_shirt_tanktop_wc_l_8
+  - first:
+      213: 21300930
+    second: chest_female_shirt_tanktop_wc_t_0
+  - first:
+      213: 21300932
+    second: chest_female_shirt_tanktop_wc_t_1
+  - first:
+      213: 21300934
+    second: chest_female_shirt_tanktop_wc_t_2
+  - first:
+      213: 21300936
+    second: chest_female_shirt_tanktop_wc_t_3
+  - first:
+      213: 21300938
+    second: chest_female_shirt_tanktop_wc_t_4
+  - first:
+      213: 21300940
+    second: chest_female_shirt_tanktop_wc_t_5
+  - first:
+      213: 21300942
+    second: chest_female_shirt_tanktop_wc_t_6
+  - first:
+      213: 21300944
+    second: chest_female_shirt_tanktop_wc_t_7
+  - first:
+      213: 21300946
+    second: chest_female_shirt_tanktop_wc_t_8
+  - first:
+      213: 21300948
+    second: chest_female_shirt_tanktop_th_r_0
+  - first:
+      213: 21300950
+    second: chest_female_shirt_tanktop_th_r_1
+  - first:
+      213: 21300952
+    second: chest_female_shirt_tanktop_th_r_2
+  - first:
+      213: 21300954
+    second: chest_female_shirt_tanktop_th_r_3
+  - first:
+      213: 21300956
+    second: chest_female_shirt_tanktop_th_r_4
+  - first:
+      213: 21300958
+    second: chest_female_shirt_tanktop_th_r_5
+  - first:
+      213: 21300960
+    second: chest_female_shirt_tanktop_th_r_6
+  - first:
+      213: 21300962
+    second: chest_female_shirt_tanktop_th_r_7
+  - first:
+      213: 21300964
+    second: chest_female_shirt_tanktop_th_d_0
+  - first:
+      213: 21300966
+    second: chest_female_shirt_tanktop_th_d_1
+  - first:
+      213: 21300968
+    second: chest_female_shirt_tanktop_th_d_2
+  - first:
+      213: 21300970
+    second: chest_female_shirt_tanktop_th_d_3
+  - first:
+      213: 21300972
+    second: chest_female_shirt_tanktop_th_d_4
+  - first:
+      213: 21300974
+    second: chest_female_shirt_tanktop_th_d_5
+  - first:
+      213: 21300976
+    second: chest_female_shirt_tanktop_th_d_6
+  - first:
+      213: 21300978
+    second: chest_female_shirt_tanktop_th_d_7
+  - first:
+      213: 21300980
+    second: chest_female_shirt_tanktop_th_l_0
+  - first:
+      213: 21300982
+    second: chest_female_shirt_tanktop_th_l_1
+  - first:
+      213: 21300984
+    second: chest_female_shirt_tanktop_th_l_2
+  - first:
+      213: 21300986
+    second: chest_female_shirt_tanktop_th_l_3
+  - first:
+      213: 21300988
+    second: chest_female_shirt_tanktop_th_l_4
+  - first:
+      213: 21300990
+    second: chest_female_shirt_tanktop_th_l_5
+  - first:
+      213: 21300992
+    second: chest_female_shirt_tanktop_th_l_6
+  - first:
+      213: 21300994
+    second: chest_female_shirt_tanktop_th_l_7
+  - first:
+      213: 21300996
+    second: chest_female_shirt_tanktop_th_t_0
+  - first:
+      213: 21300998
+    second: chest_female_shirt_tanktop_th_t_1
+  - first:
+      213: 21301000
+    second: chest_female_shirt_tanktop_th_t_2
+  - first:
+      213: 21301002
+    second: chest_female_shirt_tanktop_th_t_3
+  - first:
+      213: 21301004
+    second: chest_female_shirt_tanktop_th_t_4
+  - first:
+      213: 21301006
+    second: chest_female_shirt_tanktop_th_t_5
+  - first:
+      213: 21301008
+    second: chest_female_shirt_tanktop_th_t_6
+  - first:
+      213: 21301010
+    second: chest_female_shirt_tanktop_th_t_7
+  - first:
+      213: 21301012
+    second: chest_female_shirt_tanktop_sc_r_0
+  - first:
+      213: 21301014
+    second: chest_female_shirt_tanktop_sc_r_1
+  - first:
+      213: 21301016
+    second: chest_female_shirt_tanktop_sc_r_2
+  - first:
+      213: 21301018
+    second: chest_female_shirt_tanktop_sc_r_3
+  - first:
+      213: 21301020
+    second: chest_female_shirt_tanktop_sc_r_4
+  - first:
+      213: 21301022
+    second: chest_female_shirt_tanktop_sc_r_5
+  - first:
+      213: 21301024
+    second: chest_female_shirt_tanktop_sc_r_6
+  - first:
+      213: 21301026
+    second: chest_female_shirt_tanktop_sc_d_0
+  - first:
+      213: 21301028
+    second: chest_female_shirt_tanktop_sc_d_1
+  - first:
+      213: 21301030
+    second: chest_female_shirt_tanktop_sc_d_2
+  - first:
+      213: 21301032
+    second: chest_female_shirt_tanktop_sc_d_3
+  - first:
+      213: 21301034
+    second: chest_female_shirt_tanktop_sc_d_4
+  - first:
+      213: 21301036
+    second: chest_female_shirt_tanktop_sc_d_5
+  - first:
+      213: 21301038
+    second: chest_female_shirt_tanktop_sc_d_6
+  - first:
+      213: 21301040
+    second: chest_female_shirt_tanktop_sc_l_0
+  - first:
+      213: 21301042
+    second: chest_female_shirt_tanktop_sc_l_1
+  - first:
+      213: 21301044
+    second: chest_female_shirt_tanktop_sc_l_2
+  - first:
+      213: 21301046
+    second: chest_female_shirt_tanktop_sc_l_3
+  - first:
+      213: 21301048
+    second: chest_female_shirt_tanktop_sc_l_4
+  - first:
+      213: 21301050
+    second: chest_female_shirt_tanktop_sc_l_5
+  - first:
+      213: 21301052
+    second: chest_female_shirt_tanktop_sc_l_6
+  - first:
+      213: 21301054
+    second: chest_female_shirt_tanktop_sc_t_0
+  - first:
+      213: 21301056
+    second: chest_female_shirt_tanktop_sc_t_1
+  - first:
+      213: 21301058
+    second: chest_female_shirt_tanktop_sc_t_2
+  - first:
+      213: 21301060
+    second: chest_female_shirt_tanktop_sc_t_3
+  - first:
+      213: 21301062
+    second: chest_female_shirt_tanktop_sc_t_4
+  - first:
+      213: 21301064
+    second: chest_female_shirt_tanktop_sc_t_5
+  - first:
+      213: 21301066
+    second: chest_female_shirt_tanktop_sc_t_6
   externalObjects: {}
-  serializedVersion: 4
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -556,7 +1622,12 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
+    flipGreenChannel: 0
   isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -566,8 +1637,8 @@ TextureImporter:
   textureSettings:
     serializedVersion: 2
     filterMode: 0
-    aniso: -1
-    mipBias: -1
+    aniso: 1
+    mipBias: 0
     wrapU: 1
     wrapV: 1
     wrapW: 1
@@ -579,18 +1650,27 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
   alphaIsTransparency: 1
   spriteTessellationDetail: -1
   textureType: 8
   textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
   platformSettings:
-  - buildTarget: DefaultTexturePlatform
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -599,7 +1679,22 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -617,6 +1712,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_shirt_tanktop_hu_1
       rect:
@@ -631,6 +1733,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_shirt_tanktop_hu_2
       rect:
@@ -645,6 +1754,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_shirt_tanktop_hu_3
       rect:
@@ -659,6 +1775,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_shirt_tanktop_hu_4
       rect:
@@ -673,6 +1796,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_shirt_tanktop_hu_5
       rect:
@@ -687,6 +1817,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_shirt_tanktop_sh_r_0
       rect:
@@ -701,6 +1838,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_shirt_tanktop_sh_r_1
       rect:
@@ -715,6 +1859,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_shirt_tanktop_sh_r_2
       rect:
@@ -729,6 +1880,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_shirt_tanktop_sh_r_3
       rect:
@@ -743,6 +1901,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_shirt_tanktop_sh_r_4
       rect:
@@ -757,6 +1922,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_shirt_tanktop_sh_r_5
       rect:
@@ -771,6 +1943,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_shirt_tanktop_sh_r_6
       rect:
@@ -785,6 +1964,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_shirt_tanktop_sh_r_7
       rect:
@@ -799,6 +1985,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_shirt_tanktop_sh_r_8
       rect:
@@ -813,6 +2006,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_shirt_tanktop_sh_r_9
       rect:
@@ -827,6 +2027,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_shirt_tanktop_sh_r_10
       rect:
@@ -841,6 +2048,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_shirt_tanktop_sh_r_11
       rect:
@@ -855,6 +2069,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_shirt_tanktop_sh_r_12
       rect:
@@ -869,6 +2090,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_shirt_tanktop_sh_d_0
       rect:
@@ -883,6 +2111,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_shirt_tanktop_sh_d_1
       rect:
@@ -897,6 +2132,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_shirt_tanktop_sh_d_2
       rect:
@@ -911,6 +2153,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_shirt_tanktop_sh_d_3
       rect:
@@ -925,6 +2174,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_shirt_tanktop_sh_d_4
       rect:
@@ -939,6 +2195,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_shirt_tanktop_sh_d_5
       rect:
@@ -953,6 +2216,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_shirt_tanktop_sh_d_6
       rect:
@@ -967,6 +2237,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_shirt_tanktop_sh_d_7
       rect:
@@ -981,6 +2258,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_shirt_tanktop_sh_d_8
       rect:
@@ -995,6 +2279,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_shirt_tanktop_sh_d_9
       rect:
@@ -1009,6 +2300,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_shirt_tanktop_sh_d_10
       rect:
@@ -1023,6 +2321,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_shirt_tanktop_sh_d_11
       rect:
@@ -1037,6 +2342,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_shirt_tanktop_sh_d_12
       rect:
@@ -1051,6 +2363,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_shirt_tanktop_sh_l_0
       rect:
@@ -1065,6 +2384,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_shirt_tanktop_sh_l_1
       rect:
@@ -1079,6 +2405,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_shirt_tanktop_sh_l_2
       rect:
@@ -1093,6 +2426,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_shirt_tanktop_sh_l_3
       rect:
@@ -1107,6 +2447,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_shirt_tanktop_sh_l_4
       rect:
@@ -1121,6 +2468,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_shirt_tanktop_sh_l_5
       rect:
@@ -1135,6 +2489,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_shirt_tanktop_sh_l_6
       rect:
@@ -1149,6 +2510,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_shirt_tanktop_sh_l_7
       rect:
@@ -1163,6 +2531,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_shirt_tanktop_sh_l_8
       rect:
@@ -1177,6 +2552,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_shirt_tanktop_sh_l_9
       rect:
@@ -1191,6 +2573,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_shirt_tanktop_sh_l_10
       rect:
@@ -1205,6 +2594,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_shirt_tanktop_sh_l_11
       rect:
@@ -1219,6 +2615,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_shirt_tanktop_sh_l_12
       rect:
@@ -1233,6 +2636,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_shirt_tanktop_sh_t_0
       rect:
@@ -1247,6 +2657,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_shirt_tanktop_sh_t_1
       rect:
@@ -1261,6 +2678,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_shirt_tanktop_sh_t_2
       rect:
@@ -1275,6 +2699,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_shirt_tanktop_sh_t_3
       rect:
@@ -1289,6 +2720,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_shirt_tanktop_sh_t_4
       rect:
@@ -1303,6 +2741,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_shirt_tanktop_sh_t_5
       rect:
@@ -1317,6 +2762,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_shirt_tanktop_sh_t_6
       rect:
@@ -1331,6 +2783,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_shirt_tanktop_sh_t_7
       rect:
@@ -1345,6 +2804,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_shirt_tanktop_sh_t_8
       rect:
@@ -1359,6 +2825,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_shirt_tanktop_sh_t_9
       rect:
@@ -1373,6 +2846,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_shirt_tanktop_sh_t_10
       rect:
@@ -1387,6 +2867,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_shirt_tanktop_sh_t_11
       rect:
@@ -1401,6 +2888,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_shirt_tanktop_sh_t_12
       rect:
@@ -1415,6 +2909,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_shirt_tanktop_sl_r_0
       rect:
@@ -1429,6 +2930,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_shirt_tanktop_sl_r_1
       rect:
@@ -1443,6 +2951,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_shirt_tanktop_sl_r_2
       rect:
@@ -1457,6 +2972,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_shirt_tanktop_sl_r_3
       rect:
@@ -1471,6 +2993,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_shirt_tanktop_sl_r_4
       rect:
@@ -1485,6 +3014,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_shirt_tanktop_sl_r_5
       rect:
@@ -1499,6 +3035,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_shirt_tanktop_sl_d_0
       rect:
@@ -1513,6 +3056,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_shirt_tanktop_sl_d_1
       rect:
@@ -1527,6 +3077,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_shirt_tanktop_sl_d_2
       rect:
@@ -1541,6 +3098,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_shirt_tanktop_sl_d_3
       rect:
@@ -1555,6 +3119,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_shirt_tanktop_sl_d_4
       rect:
@@ -1569,6 +3140,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_shirt_tanktop_sl_d_5
       rect:
@@ -1583,6 +3161,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_shirt_tanktop_sl_l_0
       rect:
@@ -1597,6 +3182,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_shirt_tanktop_sl_l_1
       rect:
@@ -1611,6 +3203,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_shirt_tanktop_sl_l_2
       rect:
@@ -1625,6 +3224,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_shirt_tanktop_sl_l_3
       rect:
@@ -1639,6 +3245,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_shirt_tanktop_sl_l_4
       rect:
@@ -1653,6 +3266,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_shirt_tanktop_sl_l_5
       rect:
@@ -1667,6 +3287,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_shirt_tanktop_sl_t_0
       rect:
@@ -1681,6 +3308,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_shirt_tanktop_sl_t_1
       rect:
@@ -1695,6 +3329,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_shirt_tanktop_sl_t_2
       rect:
@@ -1709,6 +3350,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_shirt_tanktop_sl_t_3
       rect:
@@ -1723,6 +3371,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_shirt_tanktop_sl_t_4
       rect:
@@ -1737,6 +3392,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_shirt_tanktop_sl_t_5
       rect:
@@ -1751,6 +3413,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_shirt_tanktop_wc_r_0
       rect:
@@ -1765,6 +3434,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_shirt_tanktop_wc_r_1
       rect:
@@ -1779,6 +3455,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_shirt_tanktop_wc_r_2
       rect:
@@ -1793,6 +3476,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_shirt_tanktop_wc_r_3
       rect:
@@ -1807,6 +3497,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_shirt_tanktop_wc_r_4
       rect:
@@ -1821,6 +3518,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_shirt_tanktop_wc_r_5
       rect:
@@ -1835,6 +3539,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_shirt_tanktop_wc_r_6
       rect:
@@ -1849,6 +3560,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_shirt_tanktop_wc_r_7
       rect:
@@ -1863,6 +3581,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_shirt_tanktop_wc_r_8
       rect:
@@ -1877,6 +3602,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_shirt_tanktop_wc_d_0
       rect:
@@ -1891,6 +3623,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_shirt_tanktop_wc_d_1
       rect:
@@ -1905,6 +3644,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_shirt_tanktop_wc_d_2
       rect:
@@ -1919,6 +3665,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_shirt_tanktop_wc_d_3
       rect:
@@ -1933,6 +3686,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_shirt_tanktop_wc_d_4
       rect:
@@ -1947,6 +3707,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_shirt_tanktop_wc_d_5
       rect:
@@ -1961,6 +3728,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_shirt_tanktop_wc_d_6
       rect:
@@ -1975,6 +3749,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_shirt_tanktop_wc_d_7
       rect:
@@ -1989,6 +3770,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_shirt_tanktop_wc_d_8
       rect:
@@ -2003,6 +3791,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_shirt_tanktop_wc_l_0
       rect:
@@ -2017,6 +3812,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_shirt_tanktop_wc_l_1
       rect:
@@ -2031,6 +3833,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_shirt_tanktop_wc_l_2
       rect:
@@ -2045,6 +3854,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_shirt_tanktop_wc_l_3
       rect:
@@ -2059,6 +3875,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_shirt_tanktop_wc_l_4
       rect:
@@ -2073,6 +3896,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_shirt_tanktop_wc_l_5
       rect:
@@ -2087,6 +3917,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_shirt_tanktop_wc_l_6
       rect:
@@ -2101,6 +3938,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_shirt_tanktop_wc_l_7
       rect:
@@ -2115,6 +3959,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_shirt_tanktop_wc_l_8
       rect:
@@ -2129,6 +3980,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_shirt_tanktop_wc_t_0
       rect:
@@ -2143,6 +4001,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_shirt_tanktop_wc_t_1
       rect:
@@ -2157,6 +4022,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_shirt_tanktop_wc_t_2
       rect:
@@ -2171,6 +4043,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_shirt_tanktop_wc_t_3
       rect:
@@ -2185,6 +4064,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_shirt_tanktop_wc_t_4
       rect:
@@ -2199,6 +4085,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_shirt_tanktop_wc_t_5
       rect:
@@ -2213,6 +4106,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_shirt_tanktop_wc_t_6
       rect:
@@ -2227,6 +4127,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_shirt_tanktop_wc_t_7
       rect:
@@ -2241,6 +4148,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_shirt_tanktop_wc_t_8
       rect:
@@ -2255,6 +4169,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_shirt_tanktop_th_r_0
       rect:
@@ -2269,6 +4190,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_shirt_tanktop_th_r_1
       rect:
@@ -2283,6 +4211,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_shirt_tanktop_th_r_2
       rect:
@@ -2297,6 +4232,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_shirt_tanktop_th_r_3
       rect:
@@ -2311,6 +4253,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_shirt_tanktop_th_r_4
       rect:
@@ -2325,6 +4274,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_shirt_tanktop_th_r_5
       rect:
@@ -2339,6 +4295,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_shirt_tanktop_th_r_6
       rect:
@@ -2353,6 +4316,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_shirt_tanktop_th_r_7
       rect:
@@ -2367,6 +4337,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_shirt_tanktop_th_d_0
       rect:
@@ -2381,6 +4358,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_shirt_tanktop_th_d_1
       rect:
@@ -2395,6 +4379,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_shirt_tanktop_th_d_2
       rect:
@@ -2409,6 +4400,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_shirt_tanktop_th_d_3
       rect:
@@ -2423,6 +4421,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_shirt_tanktop_th_d_4
       rect:
@@ -2437,6 +4442,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_shirt_tanktop_th_d_5
       rect:
@@ -2451,6 +4463,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_shirt_tanktop_th_d_6
       rect:
@@ -2465,6 +4484,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_shirt_tanktop_th_d_7
       rect:
@@ -2479,6 +4505,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_shirt_tanktop_th_l_0
       rect:
@@ -2493,6 +4526,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_shirt_tanktop_th_l_1
       rect:
@@ -2507,6 +4547,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_shirt_tanktop_th_l_2
       rect:
@@ -2521,6 +4568,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_shirt_tanktop_th_l_3
       rect:
@@ -2535,6 +4589,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_shirt_tanktop_th_l_4
       rect:
@@ -2549,6 +4610,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_shirt_tanktop_th_l_5
       rect:
@@ -2563,6 +4631,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_shirt_tanktop_th_l_6
       rect:
@@ -2577,6 +4652,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_shirt_tanktop_th_l_7
       rect:
@@ -2591,6 +4673,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_shirt_tanktop_th_t_0
       rect:
@@ -2605,6 +4694,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_shirt_tanktop_th_t_1
       rect:
@@ -2619,6 +4715,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_shirt_tanktop_th_t_2
       rect:
@@ -2633,6 +4736,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_shirt_tanktop_th_t_3
       rect:
@@ -2647,6 +4757,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_shirt_tanktop_th_t_4
       rect:
@@ -2661,6 +4778,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_shirt_tanktop_th_t_5
       rect:
@@ -2675,6 +4799,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_shirt_tanktop_th_t_6
       rect:
@@ -2689,6 +4820,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_shirt_tanktop_th_t_7
       rect:
@@ -2703,6 +4841,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_shirt_tanktop_sc_r_0
       rect:
@@ -2717,6 +4862,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_shirt_tanktop_sc_r_1
       rect:
@@ -2731,6 +4883,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_shirt_tanktop_sc_r_2
       rect:
@@ -2745,6 +4904,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_shirt_tanktop_sc_r_3
       rect:
@@ -2759,6 +4925,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_shirt_tanktop_sc_r_4
       rect:
@@ -2773,6 +4946,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_shirt_tanktop_sc_r_5
       rect:
@@ -2787,6 +4967,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_shirt_tanktop_sc_r_6
       rect:
@@ -2801,6 +4988,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_shirt_tanktop_sc_d_0
       rect:
@@ -2815,6 +5009,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_shirt_tanktop_sc_d_1
       rect:
@@ -2829,6 +5030,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_shirt_tanktop_sc_d_2
       rect:
@@ -2843,6 +5051,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_shirt_tanktop_sc_d_3
       rect:
@@ -2857,6 +5072,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_shirt_tanktop_sc_d_4
       rect:
@@ -2871,6 +5093,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_shirt_tanktop_sc_d_5
       rect:
@@ -2885,6 +5114,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_shirt_tanktop_sc_d_6
       rect:
@@ -2899,6 +5135,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_shirt_tanktop_sc_l_0
       rect:
@@ -2913,6 +5156,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_shirt_tanktop_sc_l_1
       rect:
@@ -2927,6 +5177,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_shirt_tanktop_sc_l_2
       rect:
@@ -2941,6 +5198,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_shirt_tanktop_sc_l_3
       rect:
@@ -2955,6 +5219,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_shirt_tanktop_sc_l_4
       rect:
@@ -2969,6 +5240,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_shirt_tanktop_sc_l_5
       rect:
@@ -2983,6 +5261,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_shirt_tanktop_sc_l_6
       rect:
@@ -2997,6 +5282,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_shirt_tanktop_sc_t_0
       rect:
@@ -3011,6 +5303,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_shirt_tanktop_sc_t_1
       rect:
@@ -3025,6 +5324,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_shirt_tanktop_sc_t_2
       rect:
@@ -3039,6 +5345,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_shirt_tanktop_sc_t_3
       rect:
@@ -3053,6 +5366,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_shirt_tanktop_sc_t_4
       rect:
@@ -3067,6 +5387,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_shirt_tanktop_sc_t_5
       rect:
@@ -3081,6 +5408,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: chest_female_shirt_tanktop_sc_t_6
       rect:
@@ -3095,9 +5429,204 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
-  spritePackingTag: character
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      chest_female_shirt_tanktop_hu_0: 21300712
+      chest_female_shirt_tanktop_hu_1: 21300714
+      chest_female_shirt_tanktop_hu_2: 21300716
+      chest_female_shirt_tanktop_hu_3: 21300718
+      chest_female_shirt_tanktop_hu_4: 21300720
+      chest_female_shirt_tanktop_hu_5: 21300722
+      chest_female_shirt_tanktop_sc_d_0: 21301026
+      chest_female_shirt_tanktop_sc_d_1: 21301028
+      chest_female_shirt_tanktop_sc_d_2: 21301030
+      chest_female_shirt_tanktop_sc_d_3: 21301032
+      chest_female_shirt_tanktop_sc_d_4: 21301034
+      chest_female_shirt_tanktop_sc_d_5: 21301036
+      chest_female_shirt_tanktop_sc_d_6: 21301038
+      chest_female_shirt_tanktop_sc_l_0: 21301040
+      chest_female_shirt_tanktop_sc_l_1: 21301042
+      chest_female_shirt_tanktop_sc_l_2: 21301044
+      chest_female_shirt_tanktop_sc_l_3: 21301046
+      chest_female_shirt_tanktop_sc_l_4: 21301048
+      chest_female_shirt_tanktop_sc_l_5: 21301050
+      chest_female_shirt_tanktop_sc_l_6: 21301052
+      chest_female_shirt_tanktop_sc_r_0: 21301012
+      chest_female_shirt_tanktop_sc_r_1: 21301014
+      chest_female_shirt_tanktop_sc_r_2: 21301016
+      chest_female_shirt_tanktop_sc_r_3: 21301018
+      chest_female_shirt_tanktop_sc_r_4: 21301020
+      chest_female_shirt_tanktop_sc_r_5: 21301022
+      chest_female_shirt_tanktop_sc_r_6: 21301024
+      chest_female_shirt_tanktop_sc_t_0: 21301054
+      chest_female_shirt_tanktop_sc_t_1: 21301056
+      chest_female_shirt_tanktop_sc_t_2: 21301058
+      chest_female_shirt_tanktop_sc_t_3: 21301060
+      chest_female_shirt_tanktop_sc_t_4: 21301062
+      chest_female_shirt_tanktop_sc_t_5: 21301064
+      chest_female_shirt_tanktop_sc_t_6: 21301066
+      chest_female_shirt_tanktop_sh_d_0: 21300750
+      chest_female_shirt_tanktop_sh_d_1: 21300752
+      chest_female_shirt_tanktop_sh_d_10: 21300770
+      chest_female_shirt_tanktop_sh_d_11: 21300772
+      chest_female_shirt_tanktop_sh_d_12: 21300774
+      chest_female_shirt_tanktop_sh_d_2: 21300754
+      chest_female_shirt_tanktop_sh_d_3: 21300756
+      chest_female_shirt_tanktop_sh_d_4: 21300758
+      chest_female_shirt_tanktop_sh_d_5: 21300760
+      chest_female_shirt_tanktop_sh_d_6: 21300762
+      chest_female_shirt_tanktop_sh_d_7: 21300764
+      chest_female_shirt_tanktop_sh_d_8: 21300766
+      chest_female_shirt_tanktop_sh_d_9: 21300768
+      chest_female_shirt_tanktop_sh_l_0: 21300776
+      chest_female_shirt_tanktop_sh_l_1: 21300778
+      chest_female_shirt_tanktop_sh_l_10: 21300796
+      chest_female_shirt_tanktop_sh_l_11: 21300798
+      chest_female_shirt_tanktop_sh_l_12: 21300800
+      chest_female_shirt_tanktop_sh_l_2: 21300780
+      chest_female_shirt_tanktop_sh_l_3: 21300782
+      chest_female_shirt_tanktop_sh_l_4: 21300784
+      chest_female_shirt_tanktop_sh_l_5: 21300786
+      chest_female_shirt_tanktop_sh_l_6: 21300788
+      chest_female_shirt_tanktop_sh_l_7: 21300790
+      chest_female_shirt_tanktop_sh_l_8: 21300792
+      chest_female_shirt_tanktop_sh_l_9: 21300794
+      chest_female_shirt_tanktop_sh_r_0: 21300724
+      chest_female_shirt_tanktop_sh_r_1: 21300726
+      chest_female_shirt_tanktop_sh_r_10: 21300744
+      chest_female_shirt_tanktop_sh_r_11: 21300746
+      chest_female_shirt_tanktop_sh_r_12: 21300748
+      chest_female_shirt_tanktop_sh_r_2: 21300728
+      chest_female_shirt_tanktop_sh_r_3: 21300730
+      chest_female_shirt_tanktop_sh_r_4: 21300732
+      chest_female_shirt_tanktop_sh_r_5: 21300734
+      chest_female_shirt_tanktop_sh_r_6: 21300736
+      chest_female_shirt_tanktop_sh_r_7: 21300738
+      chest_female_shirt_tanktop_sh_r_8: 21300740
+      chest_female_shirt_tanktop_sh_r_9: 21300742
+      chest_female_shirt_tanktop_sh_t_0: 21300802
+      chest_female_shirt_tanktop_sh_t_1: 21300804
+      chest_female_shirt_tanktop_sh_t_10: 21300822
+      chest_female_shirt_tanktop_sh_t_11: 21300824
+      chest_female_shirt_tanktop_sh_t_12: 21300826
+      chest_female_shirt_tanktop_sh_t_2: 21300806
+      chest_female_shirt_tanktop_sh_t_3: 21300808
+      chest_female_shirt_tanktop_sh_t_4: 21300810
+      chest_female_shirt_tanktop_sh_t_5: 21300812
+      chest_female_shirt_tanktop_sh_t_6: 21300814
+      chest_female_shirt_tanktop_sh_t_7: 21300816
+      chest_female_shirt_tanktop_sh_t_8: 21300818
+      chest_female_shirt_tanktop_sh_t_9: 21300820
+      chest_female_shirt_tanktop_sl_d_0: 21300840
+      chest_female_shirt_tanktop_sl_d_1: 21300842
+      chest_female_shirt_tanktop_sl_d_2: 21300844
+      chest_female_shirt_tanktop_sl_d_3: 21300846
+      chest_female_shirt_tanktop_sl_d_4: 21300848
+      chest_female_shirt_tanktop_sl_d_5: 21300850
+      chest_female_shirt_tanktop_sl_l_0: 21300852
+      chest_female_shirt_tanktop_sl_l_1: 21300854
+      chest_female_shirt_tanktop_sl_l_2: 21300856
+      chest_female_shirt_tanktop_sl_l_3: 21300858
+      chest_female_shirt_tanktop_sl_l_4: 21300860
+      chest_female_shirt_tanktop_sl_l_5: 21300862
+      chest_female_shirt_tanktop_sl_r_0: 21300828
+      chest_female_shirt_tanktop_sl_r_1: 21300830
+      chest_female_shirt_tanktop_sl_r_2: 21300832
+      chest_female_shirt_tanktop_sl_r_3: 21300834
+      chest_female_shirt_tanktop_sl_r_4: 21300836
+      chest_female_shirt_tanktop_sl_r_5: 21300838
+      chest_female_shirt_tanktop_sl_t_0: 21300864
+      chest_female_shirt_tanktop_sl_t_1: 21300866
+      chest_female_shirt_tanktop_sl_t_2: 21300868
+      chest_female_shirt_tanktop_sl_t_3: 21300870
+      chest_female_shirt_tanktop_sl_t_4: 21300872
+      chest_female_shirt_tanktop_sl_t_5: 21300874
+      chest_female_shirt_tanktop_th_d_0: 21300964
+      chest_female_shirt_tanktop_th_d_1: 21300966
+      chest_female_shirt_tanktop_th_d_2: 21300968
+      chest_female_shirt_tanktop_th_d_3: 21300970
+      chest_female_shirt_tanktop_th_d_4: 21300972
+      chest_female_shirt_tanktop_th_d_5: 21300974
+      chest_female_shirt_tanktop_th_d_6: 21300976
+      chest_female_shirt_tanktop_th_d_7: 21300978
+      chest_female_shirt_tanktop_th_l_0: 21300980
+      chest_female_shirt_tanktop_th_l_1: 21300982
+      chest_female_shirt_tanktop_th_l_2: 21300984
+      chest_female_shirt_tanktop_th_l_3: 21300986
+      chest_female_shirt_tanktop_th_l_4: 21300988
+      chest_female_shirt_tanktop_th_l_5: 21300990
+      chest_female_shirt_tanktop_th_l_6: 21300992
+      chest_female_shirt_tanktop_th_l_7: 21300994
+      chest_female_shirt_tanktop_th_r_0: 21300948
+      chest_female_shirt_tanktop_th_r_1: 21300950
+      chest_female_shirt_tanktop_th_r_2: 21300952
+      chest_female_shirt_tanktop_th_r_3: 21300954
+      chest_female_shirt_tanktop_th_r_4: 21300956
+      chest_female_shirt_tanktop_th_r_5: 21300958
+      chest_female_shirt_tanktop_th_r_6: 21300960
+      chest_female_shirt_tanktop_th_r_7: 21300962
+      chest_female_shirt_tanktop_th_t_0: 21300996
+      chest_female_shirt_tanktop_th_t_1: 21300998
+      chest_female_shirt_tanktop_th_t_2: 21301000
+      chest_female_shirt_tanktop_th_t_3: 21301002
+      chest_female_shirt_tanktop_th_t_4: 21301004
+      chest_female_shirt_tanktop_th_t_5: 21301006
+      chest_female_shirt_tanktop_th_t_6: 21301008
+      chest_female_shirt_tanktop_th_t_7: 21301010
+      chest_female_shirt_tanktop_wc_d_0: 21300894
+      chest_female_shirt_tanktop_wc_d_1: 21300896
+      chest_female_shirt_tanktop_wc_d_2: 21300898
+      chest_female_shirt_tanktop_wc_d_3: 21300900
+      chest_female_shirt_tanktop_wc_d_4: 21300902
+      chest_female_shirt_tanktop_wc_d_5: 21300904
+      chest_female_shirt_tanktop_wc_d_6: 21300906
+      chest_female_shirt_tanktop_wc_d_7: 21300908
+      chest_female_shirt_tanktop_wc_d_8: 21300910
+      chest_female_shirt_tanktop_wc_l_0: 21300912
+      chest_female_shirt_tanktop_wc_l_1: 21300914
+      chest_female_shirt_tanktop_wc_l_2: 21300916
+      chest_female_shirt_tanktop_wc_l_3: 21300918
+      chest_female_shirt_tanktop_wc_l_4: 21300920
+      chest_female_shirt_tanktop_wc_l_5: 21300922
+      chest_female_shirt_tanktop_wc_l_6: 21300924
+      chest_female_shirt_tanktop_wc_l_7: 21300926
+      chest_female_shirt_tanktop_wc_l_8: 21300928
+      chest_female_shirt_tanktop_wc_r_0: 21300876
+      chest_female_shirt_tanktop_wc_r_1: 21300878
+      chest_female_shirt_tanktop_wc_r_2: 21300880
+      chest_female_shirt_tanktop_wc_r_3: 21300882
+      chest_female_shirt_tanktop_wc_r_4: 21300884
+      chest_female_shirt_tanktop_wc_r_5: 21300886
+      chest_female_shirt_tanktop_wc_r_6: 21300888
+      chest_female_shirt_tanktop_wc_r_7: 21300890
+      chest_female_shirt_tanktop_wc_r_8: 21300892
+      chest_female_shirt_tanktop_wc_t_0: 21300930
+      chest_female_shirt_tanktop_wc_t_1: 21300932
+      chest_female_shirt_tanktop_wc_t_2: 21300934
+      chest_female_shirt_tanktop_wc_t_3: 21300936
+      chest_female_shirt_tanktop_wc_t_4: 21300938
+      chest_female_shirt_tanktop_wc_t_5: 21300940
+      chest_female_shirt_tanktop_wc_t_6: 21300942
+      chest_female_shirt_tanktop_wc_t_7: 21300944
+      chest_female_shirt_tanktop_wc_t_8: 21300946
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 
