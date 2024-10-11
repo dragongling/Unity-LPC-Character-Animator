@@ -12,7 +12,7 @@ public class DnaDropdown : MonoBehaviour
     {
         new(""),
     };
-    private readonly Dictionary<string, GameObject> _dropdowns = new();
+    public readonly Dictionary<string, TMP_Dropdown> Dropdowns = new();
     
     private void Start()
     {
@@ -27,7 +27,7 @@ public class DnaDropdown : MonoBehaviour
             label.text = key + ":";
             dropdown.options = emptyOptionList.Concat(atlasManager.ModelList.Where(item => item.StartsWith(key))
                 .Select(item => new TMP_Dropdown.OptionData(item))).ToList();
-            _dropdowns[blockKey] = obj;
+            Dropdowns[blockKey] = dropdown;
         }
     }
 }

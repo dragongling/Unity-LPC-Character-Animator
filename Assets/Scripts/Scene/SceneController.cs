@@ -20,6 +20,7 @@ namespace Assets.Scripts.Scene
         private Dictionary<string, string> _modelTextLookup;
         private GameObject _player;
         private PlayerController _playerController;
+        public DnaDropdown dropdowns;
 
         private void Start()
         {
@@ -103,6 +104,11 @@ namespace Assets.Scripts.Scene
                 InitializeDemoDNA();
                 _animationsLoaded = true;
                 _playerController.enabled = true;
+                foreach (var blockKey in DNABlockType.TypeList)
+                {
+                    var dropdown = dropdowns.Dropdowns[blockKey];
+                    dropdown.value = dropdown.options.FindIndex(item => item.text == _modelTextLookup[blockKey]);
+                }
             }
             else
             {
@@ -112,12 +118,12 @@ namespace Assets.Scripts.Scene
 
                 // generate the model text boxes
                 GUI.Label(new Rect(100, 10, 60, 20), "Model Key IDs");
-                // foreach (var blockKey in DNABlockType.TypeList)
-                // {
-                //     GUI.Label(new Rect(currentX, currentY, 60, 20), $"{blockKey.ToLower()}:");
-                //     _modelTextLookup[blockKey] = GUI.TextField(new Rect(currentX + 60, currentY, 175, 20), _modelTextLookup[blockKey], 25);
-                //     currentY += increaseYAmt;
-                // }
+                foreach (var blockKey in DNABlockType.TypeList)
+                {
+                    var dropdown = dropdowns.Dropdowns[blockKey];
+                    _modelTextLookup[blockKey] = dropdown.options[dropdown.value].text;
+                    currentY += increaseYAmt;
+                }
 
                 // "generate" button
                 if (GUI.Button(new Rect(10, currentY, 75, 30), "Generate"))
