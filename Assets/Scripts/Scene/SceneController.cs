@@ -112,12 +112,12 @@ namespace Assets.Scripts.Scene
 
                 // generate the model text boxes
                 GUI.Label(new Rect(100, 10, 60, 20), "Model Key IDs");
-                foreach (var blockKey in DNABlockType.TypeList)
-                {
-                    GUI.Label(new Rect(currentX, currentY, 60, 20), $"{blockKey.ToLower()}:");
-                    _modelTextLookup[blockKey] = GUI.TextField(new Rect(currentX + 60, currentY, 175, 20), _modelTextLookup[blockKey], 25);
-                    currentY += increaseYAmt;
-                }
+                // foreach (var blockKey in DNABlockType.TypeList)
+                // {
+                //     GUI.Label(new Rect(currentX, currentY, 60, 20), $"{blockKey.ToLower()}:");
+                //     _modelTextLookup[blockKey] = GUI.TextField(new Rect(currentX + 60, currentY, 175, 20), _modelTextLookup[blockKey], 25);
+                //     currentY += increaseYAmt;
+                // }
 
                 // "generate" button
                 if (GUI.Button(new Rect(10, currentY, 75, 30), "Generate"))

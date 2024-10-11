@@ -9,13 +9,13 @@ using UnityEngine;
 public class AtlasManager : MonoBehaviour
 {
     public static AtlasManager Instance;
-    private readonly Dictionary<string, Dictionary<string, Sprite>> _atlasLookup = new Dictionary<string, Dictionary<string, Sprite>>();
-    public List<string> ModelList = new List<string>();
+    private readonly Dictionary<string, Dictionary<string, Sprite>> _atlasLookup = new();
+    public List<string> ModelList = new();
     public int ModelsLoaded;
     public int ModelsTotal = 0;
 
     [HideInInspector]
-    public List<Sprite> SpriteList = new List<Sprite>();
+    public List<Sprite> SpriteList = new();
 
     private void Start()
     {
